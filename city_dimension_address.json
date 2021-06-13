@@ -1,0 +1,12543 @@
+[{
+	"country": "中国",
+	"city": "东城",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "西城",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "朝阳",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "丰台",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "石景山",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "海淀",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "门头沟",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "房山",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "通州",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "顺义",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "昌平",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "大兴",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "平谷",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "怀柔",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "密云",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "延庆",
+	"state": "北京"
+}, {
+	"country": "中国",
+	"city": "和平",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "河东",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "河西",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "南开",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "河北",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "红桥",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "滨海新区",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "东丽",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "西青",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "津南",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "北辰",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "宁河",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "武清",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "静海",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "宝坻",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "蓟县",
+	"state": "天津"
+}, {
+	"country": "中国",
+	"city": "石家庄",
+	"state": "河北"
+}, {
+	"country": "中国",
+	"city": "唐山",
+	"state": "河北"
+}, {
+	"country": "中国",
+	"city": "秦皇岛",
+	"state": "河北"
+}, {
+	"country": "中国",
+	"city": "邯郸",
+	"state": "河北"
+}, {
+	"country": "中国",
+	"city": "邢台",
+	"state": "河北"
+}, {
+	"country": "中国",
+	"city": "保定",
+	"state": "河北"
+}, {
+	"country": "中国",
+	"city": "张家口",
+	"state": "河北"
+}, {
+	"country": "中国",
+	"city": "承德",
+	"state": "河北"
+}, {
+	"country": "中国",
+	"city": "沧州",
+	"state": "河北"
+}, {
+	"country": "中国",
+	"city": "廊坊",
+	"state": "河北"
+}, {
+	"country": "中国",
+	"city": "衡水",
+	"state": "河北"
+}, {
+	"country": "中国",
+	"city": "太原",
+	"state": "山西"
+}, {
+	"country": "中国",
+	"city": "大同",
+	"state": "山西"
+}, {
+	"country": "中国",
+	"city": "阳泉",
+	"state": "山西"
+}, {
+	"country": "中国",
+	"city": "长治",
+	"state": "山西"
+}, {
+	"country": "中国",
+	"city": "晋城",
+	"state": "山西"
+}, {
+	"country": "中国",
+	"city": "朔州",
+	"state": "山西"
+}, {
+	"country": "中国",
+	"city": "晋中",
+	"state": "山西"
+}, {
+	"country": "中国",
+	"city": "运城",
+	"state": "山西"
+}, {
+	"country": "中国",
+	"city": "忻州",
+	"state": "山西"
+}, {
+	"country": "中国",
+	"city": "临汾",
+	"state": "山西"
+}, {
+	"country": "中国",
+	"city": "吕梁",
+	"state": "山西"
+}, {
+	"country": "中国",
+	"city": "呼和浩特",
+	"state": "内蒙古"
+}, {
+	"country": "中国",
+	"city": "包头",
+	"state": "内蒙古"
+}, {
+	"country": "中国",
+	"city": "乌海",
+	"state": "内蒙古"
+}, {
+	"country": "中国",
+	"city": "赤峰",
+	"state": "内蒙古"
+}, {
+	"country": "中国",
+	"city": "通辽",
+	"state": "内蒙古"
+}, {
+	"country": "中国",
+	"city": "鄂尔多斯",
+	"state": "内蒙古"
+}, {
+	"country": "中国",
+	"city": "呼伦贝尔",
+	"state": "内蒙古"
+}, {
+	"country": "中国",
+	"city": "巴彦淖尔",
+	"state": "内蒙古"
+}, {
+	"country": "中国",
+	"city": "乌兰察布",
+	"state": "内蒙古"
+}, {
+	"country": "中国",
+	"city": "兴安",
+	"state": "内蒙古"
+}, {
+	"country": "中国",
+	"city": "锡林郭勒",
+	"state": "内蒙古"
+}, {
+	"country": "中国",
+	"city": "阿拉善",
+	"state": "内蒙古"
+}, {
+	"country": "中国",
+	"city": "沈阳",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "大连",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "鞍山",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "抚顺",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "本溪",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "丹东",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "锦州",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "营口",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "阜新",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "辽阳",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "盘锦",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "铁岭",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "朝阳",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "葫芦岛",
+	"state": "辽宁"
+}, {
+	"country": "中国",
+	"city": "长春",
+	"state": "吉林"
+}, {
+	"country": "中国",
+	"city": "吉林",
+	"state": "吉林"
+}, {
+	"country": "中国",
+	"city": "四平",
+	"state": "吉林"
+}, {
+	"country": "中国",
+	"city": "辽源",
+	"state": "吉林"
+}, {
+	"country": "中国",
+	"city": "通化",
+	"state": "吉林"
+}, {
+	"country": "中国",
+	"city": "白山",
+	"state": "吉林"
+}, {
+	"country": "中国",
+	"city": "松原",
+	"state": "吉林"
+}, {
+	"country": "中国",
+	"city": "白城",
+	"state": "吉林"
+}, {
+	"country": "中国",
+	"city": "延边",
+	"state": "吉林"
+}, {
+	"country": "中国",
+	"city": "哈尔滨",
+	"state": "黑龙江"
+}, {
+	"country": "中国",
+	"city": "齐齐哈尔",
+	"state": "黑龙江"
+}, {
+	"country": "中国",
+	"city": "鸡西",
+	"state": "黑龙江"
+}, {
+	"country": "中国",
+	"city": "鹤岗",
+	"state": "黑龙江"
+}, {
+	"country": "中国",
+	"city": "双鸭山",
+	"state": "黑龙江"
+}, {
+	"country": "中国",
+	"city": "大庆",
+	"state": "黑龙江"
+}, {
+	"country": "中国",
+	"city": "伊春",
+	"state": "黑龙江"
+}, {
+	"country": "中国",
+	"city": "佳木斯",
+	"state": "黑龙江"
+}, {
+	"country": "中国",
+	"city": "七台河",
+	"state": "黑龙江"
+}, {
+	"country": "中国",
+	"city": "牡丹江",
+	"state": "黑龙江"
+}, {
+	"country": "中国",
+	"city": "黑河",
+	"state": "黑龙江"
+}, {
+	"country": "中国",
+	"city": "绥化",
+	"state": "黑龙江"
+}, {
+	"country": "中国",
+	"city": "大兴安岭",
+	"state": "黑龙江"
+}, {
+	"country": "中国",
+	"city": "黄浦",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "卢湾",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "徐汇",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "长宁",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "静安",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "普陀",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "闸北",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "虹口",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "杨浦",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "闵行",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "宝山",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "嘉定",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "浦东新",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "金山",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "松江",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "奉贤",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "青浦",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "崇明",
+	"state": "上海"
+}, {
+	"country": "中国",
+	"city": "南京",
+	"state": "江苏"
+}, {
+	"country": "中国",
+	"city": "无锡",
+	"state": "江苏"
+}, {
+	"country": "中国",
+	"city": "徐州",
+	"state": "江苏"
+}, {
+	"country": "中国",
+	"city": "常州",
+	"state": "江苏"
+}, {
+	"country": "中国",
+	"city": "苏州",
+	"state": "江苏"
+}, {
+	"country": "中国",
+	"city": "南通",
+	"state": "江苏"
+}, {
+	"country": "中国",
+	"city": "连云港",
+	"state": "江苏"
+}, {
+	"country": "中国",
+	"city": "淮安",
+	"state": "江苏"
+}, {
+	"country": "中国",
+	"city": "盐城",
+	"state": "江苏"
+}, {
+	"country": "中国",
+	"city": "扬州",
+	"state": "江苏"
+}, {
+	"country": "中国",
+	"city": "镇江",
+	"state": "江苏"
+}, {
+	"country": "中国",
+	"city": "泰州",
+	"state": "江苏"
+}, {
+	"country": "中国",
+	"city": "宿迁",
+	"state": "江苏"
+}, {
+	"country": "中国",
+	"city": "杭州",
+	"state": "浙江"
+}, {
+	"country": "中国",
+	"city": "宁波",
+	"state": "浙江"
+}, {
+	"country": "中国",
+	"city": "温州",
+	"state": "浙江"
+}, {
+	"country": "中国",
+	"city": "嘉兴",
+	"state": "浙江"
+}, {
+	"country": "中国",
+	"city": "湖州",
+	"state": "浙江"
+}, {
+	"country": "中国",
+	"city": "绍兴",
+	"state": "浙江"
+}, {
+	"country": "中国",
+	"city": "金华",
+	"state": "浙江"
+}, {
+	"country": "中国",
+	"city": "衢州",
+	"state": "浙江"
+}, {
+	"country": "中国",
+	"city": "舟山",
+	"state": "浙江"
+}, {
+	"country": "中国",
+	"city": "台州",
+	"state": "浙江"
+}, {
+	"country": "中国",
+	"city": "丽水",
+	"state": "浙江"
+}, {
+	"country": "中国",
+	"city": "合肥",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "芜湖",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "蚌埠",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "淮南",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "马鞍山",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "淮北",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "铜陵",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "安庆",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "黄山",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "滁州",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "阜阳",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "宿州",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "巢湖",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "六安",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "亳州",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "池州",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "宣城",
+	"state": "安徽"
+}, {
+	"country": "中国",
+	"city": "福州",
+	"state": "福建"
+}, {
+	"country": "中国",
+	"city": "厦门",
+	"state": "福建"
+}, {
+	"country": "中国",
+	"city": "莆田",
+	"state": "福建"
+}, {
+	"country": "中国",
+	"city": "三明",
+	"state": "福建"
+}, {
+	"country": "中国",
+	"city": "泉州",
+	"state": "福建"
+}, {
+	"country": "中国",
+	"city": "漳州",
+	"state": "福建"
+}, {
+	"country": "中国",
+	"city": "南平",
+	"state": "福建"
+}, {
+	"country": "中国",
+	"city": "龙岩",
+	"state": "福建"
+}, {
+	"country": "中国",
+	"city": "宁德",
+	"state": "福建"
+}, {
+	"country": "中国",
+	"city": "南昌",
+	"state": "江西"
+}, {
+	"country": "中国",
+	"city": "景德镇",
+	"state": "江西"
+}, {
+	"country": "中国",
+	"city": "萍乡",
+	"state": "江西"
+}, {
+	"country": "中国",
+	"city": "九江",
+	"state": "江西"
+}, {
+	"country": "中国",
+	"city": "新余",
+	"state": "江西"
+}, {
+	"country": "中国",
+	"city": "鹰潭",
+	"state": "江西"
+}, {
+	"country": "中国",
+	"city": "赣州",
+	"state": "江西"
+}, {
+	"country": "中国",
+	"city": "吉安",
+	"state": "江西"
+}, {
+	"country": "中国",
+	"city": "宜春",
+	"state": "江西"
+}, {
+	"country": "中国",
+	"city": "抚州",
+	"state": "江西"
+}, {
+	"country": "中国",
+	"city": "上饶",
+	"state": "江西"
+}, {
+	"country": "中国",
+	"city": "济南",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "青岛",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "淄博",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "枣庄",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "东营",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "烟台",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "潍坊",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "济宁",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "泰安",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "威海",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "日照",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "莱芜",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "临沂",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "德州",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "聊城",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "滨州",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "菏泽",
+	"state": "山东"
+}, {
+	"country": "中国",
+	"city": "郑州",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "开封",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "洛阳",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "平顶山",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "安阳",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "鹤壁",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "新乡",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "焦作",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "濮阳",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "许昌",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "漯河",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "三门峡",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "南阳",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "商丘",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "信阳",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "周口",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "驻马店",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "济源",
+	"state": "河南"
+}, {
+	"country": "中国",
+	"city": "武汉",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "黄石",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "十堰",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "宜昌",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "襄阳",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "鄂州",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "荆门",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "孝感",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "荆州",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "黄冈",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "咸宁",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "随州",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "恩施",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "仙桃",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "潜江",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "天门",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "神农架",
+	"state": "湖北"
+}, {
+	"country": "中国",
+	"city": "长沙",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "株洲",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "湘潭",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "衡阳",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "邵阳",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "岳阳",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "常德",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "张家界",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "益阳",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "郴州",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "永州",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "怀化",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "娄底",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "湘西",
+	"state": "湖南"
+}, {
+	"country": "中国",
+	"city": "广州",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "韶关",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "深圳",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "珠海",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "汕头",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "佛山",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "江门",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "湛江",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "茂名",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "肇庆",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "惠州",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "梅州",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "汕尾",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "河源",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "阳江",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "清远",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "东莞",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "中山",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "潮州",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "揭阳",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "云浮",
+	"state": "广东"
+}, {
+	"country": "中国",
+	"city": "南宁",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "柳州",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "桂林",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "梧州",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "北海",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "防城港",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "钦州",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "贵港",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "玉林",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "百色",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "贺州",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "河池",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "来宾",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "崇左",
+	"state": "广西"
+}, {
+	"country": "中国",
+	"city": "海口",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "三亚",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "五指山",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "琼海",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "儋州",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "文昌",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "万宁",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "东方",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "定安",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "屯昌",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "澄迈",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "临高",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "白沙",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "昌江",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "乐东",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "陵水",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "保亭",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "琼中",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "西沙",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "南沙",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "中沙",
+	"state": "海南"
+}, {
+	"country": "中国",
+	"city": "万州",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "涪陵",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "渝中",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "大渡口",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "江北",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "沙坪坝",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "九龙坡",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "南岸",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "北碚",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "两江新区",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "万盛",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "双桥",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "渝北",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "巴南",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "长寿",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "綦江",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "潼南",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "铜梁",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "大足",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "荣昌",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "璧山",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "梁平",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "城口",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "丰都",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "垫江",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "武隆",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "忠县",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "开县",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "云阳",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "奉节",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "巫山",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "巫溪",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "黔江",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "石柱",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "秀山",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "酉阳",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "彭水",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "江津",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "合川",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "永川",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "南川",
+	"state": "重庆"
+}, {
+	"country": "中国",
+	"city": "成都",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "自贡",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "攀枝花",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "泸州",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "德阳",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "绵阳",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "广元",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "遂宁",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "内江",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "乐山",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "南充",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "眉山",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "宜宾",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "广安",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "达州",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "雅安",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "巴中",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "资阳",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "阿坝",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "甘孜",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "凉山",
+	"state": "四川"
+}, {
+	"country": "中国",
+	"city": "贵阳",
+	"state": "贵州"
+}, {
+	"country": "中国",
+	"city": "六盘水",
+	"state": "贵州"
+}, {
+	"country": "中国",
+	"city": "遵义",
+	"state": "贵州"
+}, {
+	"country": "中国",
+	"city": "安顺",
+	"state": "贵州"
+}, {
+	"country": "中国",
+	"city": "铜仁",
+	"state": "贵州"
+}, {
+	"country": "中国",
+	"city": "黔西南",
+	"state": "贵州"
+}, {
+	"country": "中国",
+	"city": "毕节",
+	"state": "贵州"
+}, {
+	"country": "中国",
+	"city": "黔东南",
+	"state": "贵州"
+}, {
+	"country": "中国",
+	"city": "黔南",
+	"state": "贵州"
+}, {
+	"country": "中国",
+	"city": "昆明",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "曲靖",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "玉溪",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "保山",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "昭通",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "丽江",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "普洱",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "临沧",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "楚雄",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "红河",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "文山",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "西双版纳",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "大理",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "德宏",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "怒江",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "迪庆",
+	"state": "云南"
+}, {
+	"country": "中国",
+	"city": "拉萨",
+	"state": "西藏"
+}, {
+	"country": "中国",
+	"city": "昌都",
+	"state": "西藏"
+}, {
+	"country": "中国",
+	"city": "山南",
+	"state": "西藏"
+}, {
+	"country": "中国",
+	"city": "日喀则",
+	"state": "西藏"
+}, {
+	"country": "中国",
+	"city": "那曲",
+	"state": "西藏"
+}, {
+	"country": "中国",
+	"city": "阿里",
+	"state": "西藏"
+}, {
+	"country": "中国",
+	"city": "林芝",
+	"state": "西藏"
+}, {
+	"country": "中国",
+	"city": "西安",
+	"state": "陕西"
+}, {
+	"country": "中国",
+	"city": "铜川",
+	"state": "陕西"
+}, {
+	"country": "中国",
+	"city": "宝鸡",
+	"state": "陕西"
+}, {
+	"country": "中国",
+	"city": "咸阳",
+	"state": "陕西"
+}, {
+	"country": "中国",
+	"city": "渭南",
+	"state": "陕西"
+}, {
+	"country": "中国",
+	"city": "延安",
+	"state": "陕西"
+}, {
+	"country": "中国",
+	"city": "汉中",
+	"state": "陕西"
+}, {
+	"country": "中国",
+	"city": "榆林",
+	"state": "陕西"
+}, {
+	"country": "中国",
+	"city": "安康",
+	"state": "陕西"
+}, {
+	"country": "中国",
+	"city": "商洛",
+	"state": "陕西"
+}, {
+	"country": "中国",
+	"city": "兰州市",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "嘉峪关",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "金昌",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "白银",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "天水",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "武威",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "张掖",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "平凉",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "酒泉",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "庆阳",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "定西",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "陇南",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "临夏",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "甘南",
+	"state": "甘肃"
+}, {
+	"country": "中国",
+	"city": "西宁",
+	"state": "青海"
+}, {
+	"country": "中国",
+	"city": "海东",
+	"state": "青海"
+}, {
+	"country": "中国",
+	"city": "海北",
+	"state": "青海"
+}, {
+	"country": "中国",
+	"city": "黄南",
+	"state": "青海"
+}, {
+	"country": "中国",
+	"city": "海南",
+	"state": "青海"
+}, {
+	"country": "中国",
+	"city": "果洛",
+	"state": "青海"
+}, {
+	"country": "中国",
+	"city": "玉树",
+	"state": "青海"
+}, {
+	"country": "中国",
+	"city": "海西",
+	"state": "青海"
+}, {
+	"country": "中国",
+	"city": "银川",
+	"state": "宁夏"
+}, {
+	"country": "中国",
+	"city": "石嘴山",
+	"state": "宁夏"
+}, {
+	"country": "中国",
+	"city": "吴忠",
+	"state": "宁夏"
+}, {
+	"country": "中国",
+	"city": "固原",
+	"state": "宁夏"
+}, {
+	"country": "中国",
+	"city": "中卫",
+	"state": "宁夏"
+}, {
+	"country": "中国",
+	"city": "乌鲁木齐",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "克拉玛依",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "吐鲁番",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "哈密",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "昌吉",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "博尔塔拉",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "巴音郭楞",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "阿克苏",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "克孜勒苏",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "喀什",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "和田",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "伊犁",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "塔城",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "阿勒泰",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "石河子",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "阿拉尔",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "图木舒克",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "五家渠",
+	"state": "新疆"
+}, {
+	"country": "中国",
+	"city": "台北市",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "高雄市",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "基隆市",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "台中市",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "台南市",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "新竹市",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "嘉义市",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "台北县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "宜兰县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "桃园县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "新竹县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "苗栗县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "台中县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "彰化县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "南投县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "云林县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "嘉义县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "台南县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "高雄县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "屏东县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "台东县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "花莲县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "澎湖县",
+	"state": "台湾"
+}, {
+	"country": "中国",
+	"city": "中西区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "东区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "九龙城区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "观塘区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "南区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "深水埗区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "黄大仙区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "湾仔区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "油尖旺区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "离岛区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "葵青区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "北区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "西贡区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "沙田区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "屯门区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "大埔区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "荃湾区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "元朗区",
+	"state": "香港"
+}, {
+	"country": "中国",
+	"city": "花地玛堂区",
+	"state": "澳门"
+}, {
+	"country": "中国",
+	"city": "圣安多尼堂区",
+	"state": "澳门"
+}, {
+	"country": "中国",
+	"city": "大堂区",
+	"state": "澳门"
+}, {
+	"country": "中国",
+	"city": "望德堂区",
+	"state": "澳门"
+}, {
+	"country": "中国",
+	"city": "风顺堂区",
+	"state": "澳门"
+}, {
+	"country": "中国",
+	"city": "氹仔",
+	"state": "澳门"
+}, {
+	"country": "中国",
+	"city": "路环",
+	"state": "澳门"
+}, {
+	"country": "阿尔巴尼亚",
+	"city": "爱尔巴桑"
+}, {
+	"country": "阿尔巴尼亚",
+	"city": "迪勃拉"
+}, {
+	"country": "阿尔巴尼亚",
+	"city": "地拉那"
+}, {
+	"country": "阿尔巴尼亚",
+	"city": "都拉斯"
+}, {
+	"country": "阿尔巴尼亚",
+	"city": "发罗拉"
+}, {
+	"country": "阿尔巴尼亚",
+	"city": "费里"
+}, {
+	"country": "阿尔巴尼亚",
+	"city": "吉诺卡斯特"
+}, {
+	"country": "阿尔巴尼亚",
+	"city": "科尔察"
+}, {
+	"country": "阿尔巴尼亚",
+	"city": "库克斯"
+}, {
+	"country": "阿尔巴尼亚",
+	"city": "莱什"
+}, {
+	"country": "阿尔巴尼亚",
+	"city": "培拉特"
+}, {
+	"country": "阿尔巴尼亚",
+	"city": "斯库台"
+}, {
+	"country": "阿尔及利亚",
+	"city": "阿德拉尔"
+}, {
+	"country": "阿尔及利亚",
+	"city": "阿尔及尔"
+}, {
+	"country": "阿尔及利亚",
+	"city": "艾因·德夫拉"
+}, {
+	"country": "阿尔及利亚",
+	"city": "艾因·蒂姆尚特"
+}, {
+	"country": "阿尔及利亚",
+	"city": "安纳巴"
+}, {
+	"country": "阿尔及利亚",
+	"city": "奥兰"
+}, {
+	"country": "阿尔及利亚",
+	"city": "巴特纳"
+}, {
+	"country": "阿尔及利亚",
+	"city": "贝贾亚"
+}, {
+	"country": "阿尔及利亚",
+	"city": "贝沙尔"
+}, {
+	"country": "阿尔及利亚",
+	"city": "贝伊德"
+}, {
+	"country": "阿尔及利亚",
+	"city": "比斯克拉"
+}, {
+	"country": "阿尔及利亚",
+	"city": "布尔吉·布阿雷里吉"
+}, {
+	"country": "阿尔及利亚",
+	"city": "布利达"
+}, {
+	"country": "阿尔及利亚",
+	"city": "布迈德斯"
+}, {
+	"country": "阿尔及利亚",
+	"city": "布依拉"
+}, {
+	"country": "阿尔及利亚",
+	"city": "蒂巴扎"
+}, {
+	"country": "阿尔及利亚",
+	"city": "蒂斯姆西勒特"
+}, {
+	"country": "阿尔及利亚",
+	"city": "盖尔达耶"
+}, {
+	"country": "阿尔及利亚",
+	"city": "盖尔马"
+}, {
+	"country": "阿尔及利亚",
+	"city": "罕西拉"
+}, {
+	"country": "阿尔及利亚",
+	"city": "赫利赞"
+}, {
+	"country": "阿尔及利亚",
+	"city": "吉杰尔"
+}, {
+	"country": "阿尔及利亚",
+	"city": "杰勒法"
+}, {
+	"country": "阿尔及利亚",
+	"city": "君士坦丁"
+}, {
+	"country": "阿尔及利亚",
+	"city": "拉格瓦特"
+}, {
+	"country": "阿尔及利亚",
+	"city": "马斯卡拉"
+}, {
+	"country": "阿尔及利亚",
+	"city": "麦迪亚"
+}, {
+	"country": "阿尔及利亚",
+	"city": "密拉"
+}, {
+	"country": "阿尔及利亚",
+	"city": "莫斯塔加纳姆"
+}, {
+	"country": "阿尔及利亚",
+	"city": "姆西拉"
+}, {
+	"country": "阿尔及利亚",
+	"city": "纳阿马"
+}, {
+	"country": "阿尔及利亚",
+	"city": "塞蒂夫"
+}, {
+	"country": "阿尔及利亚",
+	"city": "赛伊达"
+}, {
+	"country": "阿尔及利亚",
+	"city": "斯基克达"
+}, {
+	"country": "阿尔及利亚",
+	"city": "苏克·阿赫拉斯"
+}, {
+	"country": "阿尔及利亚",
+	"city": "塔里夫"
+}, {
+	"country": "阿尔及利亚",
+	"city": "塔曼拉塞特"
+}, {
+	"country": "阿尔及利亚",
+	"city": "特贝萨"
+}, {
+	"country": "阿尔及利亚",
+	"city": "特莱姆森"
+}, {
+	"country": "阿尔及利亚",
+	"city": "提济乌祖"
+}, {
+	"country": "阿尔及利亚",
+	"city": "提亚雷特"
+}, {
+	"country": "阿尔及利亚",
+	"city": "廷杜夫"
+}, {
+	"country": "阿尔及利亚",
+	"city": "瓦德"
+}, {
+	"country": "阿尔及利亚",
+	"city": "瓦尔格拉"
+}, {
+	"country": "阿尔及利亚",
+	"city": "乌姆布阿基"
+}, {
+	"country": "阿尔及利亚",
+	"city": "西迪贝勒阿贝斯"
+}, {
+	"country": "阿尔及利亚",
+	"city": "谢里夫"
+}, {
+	"country": "阿尔及利亚",
+	"city": "伊利齐"
+}, {
+	"country": "阿富汗",
+	"city": "赫拉特"
+}, {
+	"country": "阿富汗",
+	"city": "喀布尔"
+}, {
+	"country": "阿富汗",
+	"city": "坎大哈"
+}, {
+	"country": "阿富汗",
+	"city": "马扎里沙里夫"
+}, {
+	"country": "阿根廷",
+	"city": "巴拉那"
+}, {
+	"country": "阿根廷",
+	"city": "别德马"
+}, {
+	"country": "阿根廷",
+	"city": "波萨达斯"
+}, {
+	"country": "阿根廷",
+	"city": "布兰卡港"
+}, {
+	"country": "阿根廷",
+	"city": "布宜诺斯艾利斯"
+}, {
+	"country": "阿根廷",
+	"city": "福莫萨"
+}, {
+	"country": "阿根廷",
+	"city": "胡胡伊"
+}, {
+	"country": "阿根廷",
+	"city": "卡塔马卡"
+}, {
+	"country": "阿根廷",
+	"city": "科尔多瓦"
+}, {
+	"country": "阿根廷",
+	"city": "科连特斯"
+}, {
+	"country": "阿根廷",
+	"city": "克劳斯城"
+}, {
+	"country": "阿根廷",
+	"city": "肯考迪娅"
+}, {
+	"country": "阿根廷",
+	"city": "拉里奥哈"
+}, {
+	"country": "阿根廷",
+	"city": "拉普拉塔"
+}, {
+	"country": "阿根廷",
+	"city": "雷西斯滕匹亚"
+}, {
+	"country": "阿根廷",
+	"city": "里奥加耶戈斯"
+}, {
+	"country": "阿根廷",
+	"city": "里奥夸尔托"
+}, {
+	"country": "阿根廷",
+	"city": "里瓦达维亚海军准将城"
+}, {
+	"country": "阿根廷",
+	"city": "罗萨里奥"
+}, {
+	"country": "阿根廷",
+	"city": "罗森"
+}, {
+	"country": "阿根廷",
+	"city": "马德普拉塔"
+}, {
+	"country": "阿根廷",
+	"city": "门多萨"
+}, {
+	"country": "阿根廷",
+	"city": "内乌肯"
+}, {
+	"country": "阿根廷",
+	"city": "萨尔塔"
+}, {
+	"country": "阿根廷",
+	"city": "圣地亚哥-德尔埃斯特罗"
+}, {
+	"country": "阿根廷",
+	"city": "圣菲"
+}, {
+	"country": "阿根廷",
+	"city": "圣胡安"
+}, {
+	"country": "阿根廷",
+	"city": "圣拉斐尔"
+}, {
+	"country": "阿根廷",
+	"city": "圣路易斯"
+}, {
+	"country": "阿根廷",
+	"city": "圣罗莎"
+}, {
+	"country": "阿根廷",
+	"city": "圣米格尔-德图库曼"
+}, {
+	"country": "阿根廷",
+	"city": "圣尼古拉斯"
+}, {
+	"country": "阿根廷",
+	"city": "特雷利乌"
+}, {
+	"country": "阿根廷",
+	"city": "乌斯怀亚"
+}, {
+	"country": "阿拉伯联合酋长国",
+	"city": "阿布扎比"
+}, {
+	"country": "阿拉伯联合酋长国",
+	"city": "艾因"
+}, {
+	"country": "阿拉伯联合酋长国",
+	"city": "迪拜"
+}, {
+	"country": "阿拉伯联合酋长国",
+	"city": "沙迦"
+}, {
+	"country": "阿曼",
+	"city": "巴提奈地区"
+}, {
+	"country": "阿曼",
+	"city": "达希莱地区"
+}, {
+	"country": "阿曼",
+	"city": "东部地区"
+}, {
+	"country": "阿曼",
+	"city": "马斯喀特省"
+}, {
+	"country": "阿曼",
+	"city": "穆桑达姆省"
+}, {
+	"country": "阿曼",
+	"city": "内地地区"
+}, {
+	"country": "阿曼",
+	"city": "中部地区"
+}, {
+	"country": "阿曼",
+	"city": "佐法尔省"
+}, {
+	"country": "阿塞拜疆",
+	"city": "阿布歇隆"
+}, {
+	"country": "阿塞拜疆",
+	"city": "哈奇马斯"
+}, {
+	"country": "阿塞拜疆",
+	"city": "卡尔巴卡尔"
+}, {
+	"country": "阿塞拜疆",
+	"city": "卡扎赫"
+}, {
+	"country": "阿塞拜疆",
+	"city": "连科兰"
+}, {
+	"country": "阿塞拜疆",
+	"city": "密尔-卡拉巴赫"
+}, {
+	"country": "阿塞拜疆",
+	"city": "穆甘-萨连"
+}, {
+	"country": "阿塞拜疆",
+	"city": "纳戈尔诺－卡拉巴赫"
+}, {
+	"country": "阿塞拜疆",
+	"city": "纳希切万"
+}, {
+	"country": "阿塞拜疆",
+	"city": "普利亚拉克斯"
+}, {
+	"country": "阿塞拜疆",
+	"city": "舍基"
+}, {
+	"country": "阿塞拜疆",
+	"city": "苏姆盖特"
+}, {
+	"country": "阿塞拜疆",
+	"city": "锡尔万"
+}, {
+	"country": "阿塞拜疆",
+	"city": "占贾"
+}, {
+	"country": "埃及",
+	"city": "阿斯旺"
+}, {
+	"country": "埃及",
+	"city": "古尔代盖"
+}, {
+	"country": "埃及",
+	"city": "开罗"
+}, {
+	"country": "埃及",
+	"city": "苏布拉开马"
+}, {
+	"country": "埃及",
+	"city": "亚历山大"
+}, {
+	"country": "埃塞俄比亚",
+	"city": "阿法尔"
+}, {
+	"country": "埃塞俄比亚",
+	"city": "阿姆哈拉"
+}, {
+	"country": "埃塞俄比亚",
+	"city": "奥罗米亚"
+}, {
+	"country": "埃塞俄比亚",
+	"city": "宾香古尔"
+}, {
+	"country": "埃塞俄比亚",
+	"city": "德雷达瓦"
+}, {
+	"country": "埃塞俄比亚",
+	"city": "甘贝拉各族"
+}, {
+	"country": "埃塞俄比亚",
+	"city": "哈勒里民族"
+}, {
+	"country": "埃塞俄比亚",
+	"city": "南方各族"
+}, {
+	"country": "埃塞俄比亚",
+	"city": "索马里"
+}, {
+	"country": "埃塞俄比亚",
+	"city": "提格雷"
+}, {
+	"country": "埃塞俄比亚",
+	"city": "亚的斯亚贝巴"
+}, {
+	"country": "爱尔兰",
+	"city": "奥法利"
+}, {
+	"country": "爱尔兰",
+	"city": "蒂珀雷里"
+}, {
+	"country": "爱尔兰",
+	"city": "都柏林"
+}, {
+	"country": "爱尔兰",
+	"city": "多内加尔"
+}, {
+	"country": "爱尔兰",
+	"city": "戈尔韦"
+}, {
+	"country": "爱尔兰",
+	"city": "基尔代尔"
+}, {
+	"country": "爱尔兰",
+	"city": "基尔肯尼"
+}, {
+	"country": "爱尔兰",
+	"city": "卡范"
+}, {
+	"country": "爱尔兰",
+	"city": "卡洛"
+}, {
+	"country": "爱尔兰",
+	"city": "凯里"
+}, {
+	"country": "爱尔兰",
+	"city": "科克"
+}, {
+	"country": "爱尔兰",
+	"city": "克莱尔"
+}, {
+	"country": "爱尔兰",
+	"city": "朗福德"
+}, {
+	"country": "爱尔兰",
+	"city": "劳斯"
+}, {
+	"country": "爱尔兰",
+	"city": "崂斯"
+}, {
+	"country": "爱尔兰",
+	"city": "利默里克"
+}, {
+	"country": "爱尔兰",
+	"city": "利特里姆"
+}, {
+	"country": "爱尔兰",
+	"city": "罗斯康芒"
+}, {
+	"country": "爱尔兰",
+	"city": "梅奥"
+}, {
+	"country": "爱尔兰",
+	"city": "米斯"
+}, {
+	"country": "爱尔兰",
+	"city": "莫内根"
+}, {
+	"country": "爱尔兰",
+	"city": "斯莱戈"
+}, {
+	"country": "爱尔兰",
+	"city": "威克洛"
+}, {
+	"country": "爱尔兰",
+	"city": "韦克斯福德"
+}, {
+	"country": "爱尔兰",
+	"city": "沃特福德"
+}, {
+	"country": "爱尔兰",
+	"city": "西米斯"
+}, {
+	"country": "爱沙尼亚",
+	"city": "贝尔瓦"
+}, {
+	"country": "爱沙尼亚",
+	"city": "哈留"
+}, {
+	"country": "爱沙尼亚",
+	"city": "拉普拉"
+}, {
+	"country": "爱沙尼亚",
+	"city": "里亚内"
+}, {
+	"country": "爱沙尼亚",
+	"city": "帕尔努"
+}, {
+	"country": "爱沙尼亚",
+	"city": "萨雷"
+}, {
+	"country": "爱沙尼亚",
+	"city": "塔尔图"
+}, {
+	"country": "爱沙尼亚",
+	"city": "瓦尔加"
+}, {
+	"country": "爱沙尼亚",
+	"city": "维良地"
+}, {
+	"country": "爱沙尼亚",
+	"city": "维鲁"
+}, {
+	"country": "爱沙尼亚",
+	"city": "沃鲁"
+}, {
+	"country": "爱沙尼亚",
+	"city": "希尤"
+}, {
+	"country": "爱沙尼亚",
+	"city": "耶尔韦"
+}, {
+	"country": "爱沙尼亚",
+	"city": "耶盖瓦"
+}, {
+	"country": "爱沙尼亚",
+	"city": "依达－维鲁"
+}, {
+	"country": "安道尔",
+	"city": "安道尔城"
+}, {
+	"country": "安道尔",
+	"city": "奥尔迪诺"
+}, {
+	"country": "安道尔",
+	"city": "恩坎普"
+}, {
+	"country": "安道尔",
+	"city": "卡尼略"
+}, {
+	"country": "安道尔",
+	"city": "莱塞斯卡尔德－恩戈尔达"
+}, {
+	"country": "安道尔",
+	"city": "马萨纳"
+}, {
+	"country": "安道尔",
+	"city": "圣胡利娅－德洛里亚"
+}, {
+	"country": "安哥拉",
+	"city": "北宽扎"
+}, {
+	"country": "安哥拉",
+	"city": "北隆达"
+}, {
+	"country": "安哥拉",
+	"city": "本戈"
+}, {
+	"country": "安哥拉",
+	"city": "本格拉"
+}, {
+	"country": "安哥拉",
+	"city": "比耶"
+}, {
+	"country": "安哥拉",
+	"city": "卡宾达"
+}, {
+	"country": "安哥拉",
+	"city": "库内内"
+}, {
+	"country": "安哥拉",
+	"city": "宽多库邦戈"
+}, {
+	"country": "安哥拉",
+	"city": "罗安达"
+}, {
+	"country": "安哥拉",
+	"city": "马兰热"
+}, {
+	"country": "安哥拉",
+	"city": "莫希科"
+}, {
+	"country": "安哥拉",
+	"city": "纳米贝"
+}, {
+	"country": "安哥拉",
+	"city": "南宽扎"
+}, {
+	"country": "安哥拉",
+	"city": "南隆达"
+}, {
+	"country": "安哥拉",
+	"city": "万博"
+}, {
+	"country": "安哥拉",
+	"city": "威拉"
+}, {
+	"country": "安哥拉",
+	"city": "威热"
+}, {
+	"country": "安哥拉",
+	"city": "扎伊尔"
+}, {
+	"country": "澳大利亚",
+	"city": "北帕默斯顿",
+	"state": "北部地区"
+}, {
+	"country": "澳大利亚",
+	"city": "达尔文",
+	"state": "北部地区"
+}, {
+	"country": "澳大利亚",
+	"city": "堪培拉",
+	"state": "堪培拉"
+}, {
+	"country": "澳大利亚",
+	"city": "布里斯班",
+	"state": "昆士兰"
+}, {
+	"country": "澳大利亚",
+	"city": "黄金海岸",
+	"state": "昆士兰"
+}, {
+	"country": "澳大利亚",
+	"city": "凯恩斯",
+	"state": "昆士兰"
+}, {
+	"country": "澳大利亚",
+	"city": "日光海岸",
+	"state": "昆士兰"
+}, {
+	"country": "澳大利亚",
+	"city": "汤斯维尔",
+	"state": "昆士兰"
+}, {
+	"country": "澳大利亚",
+	"city": "图文巴",
+	"state": "昆士兰"
+}, {
+	"country": "澳大利亚",
+	"city": "阿德莱德",
+	"state": "南澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "奥古斯塔港",
+	"state": "南澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "甘比亚山",
+	"state": "南澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "怀阿拉",
+	"state": "南澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "林肯港",
+	"state": "南澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "默里布里奇",
+	"state": "南澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "皮里港",
+	"state": "南澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "维克托港",
+	"state": "南澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "伯尼港",
+	"state": "塔斯马尼亚"
+}, {
+	"country": "澳大利亚",
+	"city": "德文波特",
+	"state": "塔斯马尼亚"
+}, {
+	"country": "澳大利亚",
+	"city": "霍巴特",
+	"state": "塔斯马尼亚"
+}, {
+	"country": "澳大利亚",
+	"city": "朗塞斯顿",
+	"state": "塔斯马尼亚"
+}, {
+	"country": "澳大利亚",
+	"city": "吉朗",
+	"state": "维多利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "墨尔本",
+	"state": "维多利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "奥尔巴尼",
+	"state": "西澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "班伯里",
+	"state": "西澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "弗里曼特尔港",
+	"state": "西澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "杰拉尔顿",
+	"state": "西澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "卡尔古利",
+	"state": "西澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "曼哲拉",
+	"state": "西澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "珀斯",
+	"state": "西澳大利亚"
+}, {
+	"country": "澳大利亚",
+	"city": "纽卡斯尔",
+	"state": "新南威尔士"
+}, {
+	"country": "澳大利亚",
+	"city": "伍伦贡",
+	"state": "新南威尔士"
+}, {
+	"country": "澳大利亚",
+	"city": "悉尼",
+	"state": "新南威尔士"
+}, {
+	"country": "奥地利",
+	"city": "布尔根兰"
+}, {
+	"country": "奥地利",
+	"city": "蒂罗尔"
+}, {
+	"country": "奥地利",
+	"city": "福拉尔贝格"
+}, {
+	"country": "奥地利",
+	"city": "克恩顿"
+}, {
+	"country": "奥地利",
+	"city": "萨尔茨堡"
+}, {
+	"country": "奥地利",
+	"city": "上奥地利"
+}, {
+	"country": "奥地利",
+	"city": "施蒂利亚"
+}, {
+	"country": "奥地利",
+	"city": "维也纳"
+}, {
+	"country": "奥地利",
+	"city": "下奥地利"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "北部"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "布干维尔"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "东部高地"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "东塞皮克"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "东新不列颠"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "恩加"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "海湾"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "马当"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "马努斯"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "米尔恩湾"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "莫尔兹比港"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "莫罗贝"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "南部高地"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "钦布"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "桑道恩"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "西部"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "西部高地"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "西新不列颠"
+}, {
+	"country": "巴布亚新几内亚",
+	"city": "新爱尔兰"
+}, {
+	"country": "巴基斯坦",
+	"city": "白沙瓦"
+}, {
+	"country": "巴基斯坦",
+	"city": "费萨拉巴德"
+}, {
+	"country": "巴基斯坦",
+	"city": "故吉软瓦拉"
+}, {
+	"country": "巴基斯坦",
+	"city": "海德拉巴"
+}, {
+	"country": "巴基斯坦",
+	"city": "卡拉奇"
+}, {
+	"country": "巴基斯坦",
+	"city": "拉合尔"
+}, {
+	"country": "巴基斯坦",
+	"city": "拉瓦尔品第"
+}, {
+	"country": "巴基斯坦",
+	"city": "木尔坦"
+}, {
+	"country": "巴基斯坦",
+	"city": "伊斯兰堡"
+}, {
+	"country": "巴拉圭",
+	"city": "阿曼拜"
+}, {
+	"country": "巴拉圭",
+	"city": "阿耶斯总统省"
+}, {
+	"country": "巴拉圭",
+	"city": "巴拉瓜里"
+}, {
+	"country": "巴拉圭",
+	"city": "博克龙"
+}, {
+	"country": "巴拉圭",
+	"city": "瓜伊拉"
+}, {
+	"country": "巴拉圭",
+	"city": "卡瓜苏"
+}, {
+	"country": "巴拉圭",
+	"city": "卡嫩迪尤"
+}, {
+	"country": "巴拉圭",
+	"city": "卡萨帕"
+}, {
+	"country": "巴拉圭",
+	"city": "康塞普西翁"
+}, {
+	"country": "巴拉圭",
+	"city": "科迪勒拉"
+}, {
+	"country": "巴拉圭",
+	"city": "米西奥内斯"
+}, {
+	"country": "巴拉圭",
+	"city": "涅恩布库"
+}, {
+	"country": "巴拉圭",
+	"city": "上巴拉圭"
+}, {
+	"country": "巴拉圭",
+	"city": "上巴拉那"
+}, {
+	"country": "巴拉圭",
+	"city": "圣佩德罗"
+}, {
+	"country": "巴拉圭",
+	"city": "亚松森特别区"
+}, {
+	"country": "巴拉圭",
+	"city": "伊塔普亚"
+}, {
+	"country": "巴拉圭",
+	"city": "中央"
+}, {
+	"country": "巴勒斯坦",
+	"city": "加沙地带"
+}, {
+	"country": "巴勒斯坦",
+	"city": "西岸"
+}, {
+	"country": "巴林",
+	"city": "北部"
+}, {
+	"country": "巴林",
+	"city": "哈德"
+}, {
+	"country": "巴林",
+	"city": "哈马德"
+}, {
+	"country": "巴林",
+	"city": "里法"
+}, {
+	"country": "巴林",
+	"city": "麦纳麦"
+}, {
+	"country": "巴林",
+	"city": "穆哈拉格"
+}, {
+	"country": "巴林",
+	"city": "西部"
+}, {
+	"country": "巴林",
+	"city": "伊萨城"
+}, {
+	"country": "巴林",
+	"city": "中部"
+}, {
+	"country": "巴西",
+	"city": "阿克里"
+}, {
+	"country": "巴西",
+	"city": "阿拉戈斯"
+}, {
+	"country": "巴西",
+	"city": "阿马帕"
+}, {
+	"country": "巴西",
+	"city": "巴拉那"
+}, {
+	"country": "巴西",
+	"city": "巴西利亚"
+}, {
+	"country": "巴西",
+	"city": "巴伊亚"
+}, {
+	"country": "巴西",
+	"city": "北里奥格兰德"
+}, {
+	"country": "巴西",
+	"city": "伯南布哥"
+}, {
+	"country": "巴西",
+	"city": "戈亚斯"
+}, {
+	"country": "巴西",
+	"city": "朗多尼亚"
+}, {
+	"country": "巴西",
+	"city": "里约热内卢"
+}, {
+	"country": "巴西",
+	"city": "罗赖马"
+}, {
+	"country": "巴西",
+	"city": "马拉尼昂"
+}, {
+	"country": "巴西",
+	"city": "马托格罗索"
+}, {
+	"country": "巴西",
+	"city": "米纳斯吉拉斯"
+}, {
+	"country": "巴西",
+	"city": "南里奥格兰德"
+}, {
+	"country": "巴西",
+	"city": "南马托格罗索"
+}, {
+	"country": "巴西",
+	"city": "帕拉"
+}, {
+	"country": "巴西",
+	"city": "帕拉伊巴"
+}, {
+	"country": "巴西",
+	"city": "皮奥伊"
+}, {
+	"country": "巴西",
+	"city": "塞阿拉"
+}, {
+	"country": "巴西",
+	"city": "塞尔希培"
+}, {
+	"country": "巴西",
+	"city": "圣埃斯皮里图"
+}, {
+	"country": "巴西",
+	"city": "圣保罗"
+}, {
+	"country": "巴西",
+	"city": "圣卡塔琳娜"
+}, {
+	"country": "巴西",
+	"city": "托坎廷斯"
+}, {
+	"country": "巴西",
+	"city": "亚马孙"
+}, {
+	"country": "白俄罗斯",
+	"city": "布列斯特"
+}, {
+	"country": "白俄罗斯",
+	"city": "戈梅利"
+}, {
+	"country": "白俄罗斯",
+	"city": "格罗德诺"
+}, {
+	"country": "白俄罗斯",
+	"city": "明斯克市"
+}, {
+	"country": "白俄罗斯",
+	"city": "莫吉廖夫"
+}, {
+	"country": "白俄罗斯",
+	"city": "维捷布斯克"
+}, {
+	"country": "保加利亚",
+	"city": "布尔加斯"
+}, {
+	"country": "保加利亚",
+	"city": "卡斯科伏"
+}, {
+	"country": "保加利亚",
+	"city": "鲁塞"
+}, {
+	"country": "保加利亚",
+	"city": "洛维奇"
+}, {
+	"country": "保加利亚",
+	"city": "蒙塔纳"
+}, {
+	"country": "保加利亚",
+	"city": "普罗夫迪夫"
+}, {
+	"country": "保加利亚",
+	"city": "索非亚"
+}, {
+	"country": "保加利亚",
+	"city": "索非亚市"
+}, {
+	"country": "保加利亚",
+	"city": "瓦尔纳"
+}, {
+	"country": "贝宁",
+	"city": "阿黎博里"
+}, {
+	"country": "贝宁",
+	"city": "阿塔科拉"
+}, {
+	"country": "贝宁",
+	"city": "滨海"
+}, {
+	"country": "贝宁",
+	"city": "波希康市"
+}, {
+	"country": "贝宁",
+	"city": "博尔古"
+}, {
+	"country": "贝宁",
+	"city": "大西洋"
+}, {
+	"country": "贝宁",
+	"city": "高原"
+}, {
+	"country": "贝宁",
+	"city": "库福"
+}, {
+	"country": "贝宁",
+	"city": "莫诺"
+}, {
+	"country": "贝宁",
+	"city": "丘陵"
+}, {
+	"country": "贝宁",
+	"city": "韦梅"
+}, {
+	"country": "贝宁",
+	"city": "峡谷"
+}, {
+	"country": "贝宁",
+	"city": "祖"
+}, {
+	"country": "比利时",
+	"city": "埃诺"
+}, {
+	"country": "比利时",
+	"city": "安特卫普"
+}, {
+	"country": "比利时",
+	"city": "布拉班特-瓦隆"
+}, {
+	"country": "比利时",
+	"city": "布鲁塞尔"
+}, {
+	"country": "比利时",
+	"city": "东佛兰德"
+}, {
+	"country": "比利时",
+	"city": "佛兰芒-布拉班特"
+}, {
+	"country": "比利时",
+	"city": "列日"
+}, {
+	"country": "比利时",
+	"city": "林堡"
+}, {
+	"country": "比利时",
+	"city": "卢森堡"
+}, {
+	"country": "比利时",
+	"city": "那慕尔"
+}, {
+	"country": "比利时",
+	"city": "西佛兰德"
+}, {
+	"country": "波兰",
+	"city": "埃尔布隆格"
+}, {
+	"country": "波兰",
+	"city": "奥尔什丁"
+}, {
+	"country": "波兰",
+	"city": "奥斯特罗文卡"
+}, {
+	"country": "波兰",
+	"city": "比得哥什"
+}, {
+	"country": "波兰",
+	"city": "彼得库夫"
+}, {
+	"country": "波兰",
+	"city": "比托姆"
+}, {
+	"country": "波兰",
+	"city": "比亚瓦波德拉斯卡"
+}, {
+	"country": "波兰",
+	"city": "比亚维斯托克"
+}, {
+	"country": "波兰",
+	"city": "波莱"
+}, {
+	"country": "波兰",
+	"city": "波兹南"
+}, {
+	"country": "波兰",
+	"city": "达布罗瓦戈尼察"
+}, {
+	"country": "波兰",
+	"city": "大波兰地区戈茹夫"
+}, {
+	"country": "波兰",
+	"city": "弗罗茨瓦夫"
+}, {
+	"country": "波兰",
+	"city": "弗沃茨瓦韦克"
+}, {
+	"country": "波兰",
+	"city": "格但斯克"
+}, {
+	"country": "波兰",
+	"city": "格丁尼亚"
+}, {
+	"country": "波兰",
+	"city": "格利维采"
+}, {
+	"country": "波兰",
+	"city": "格鲁琼兹"
+}, {
+	"country": "波兰",
+	"city": "海乌姆"
+}, {
+	"country": "波兰",
+	"city": "华沙"
+}, {
+	"country": "波兰",
+	"city": "霍茹夫"
+}, {
+	"country": "波兰",
+	"city": "卡利什"
+}, {
+	"country": "波兰",
+	"city": "卡托维兹"
+}, {
+	"country": "波兰",
+	"city": "凯尔采"
+}, {
+	"country": "波兰",
+	"city": "科宁"
+}, {
+	"country": "波兰",
+	"city": "科沙林"
+}, {
+	"country": "波兰",
+	"city": "克拉科夫"
+}, {
+	"country": "波兰",
+	"city": "克罗斯诺"
+}, {
+	"country": "波兰",
+	"city": "拉多姆"
+}, {
+	"country": "波兰",
+	"city": "莱格尼察"
+}, {
+	"country": "波兰",
+	"city": "莱什诺"
+}, {
+	"country": "波兰",
+	"city": "卢布林"
+}, {
+	"country": "波兰",
+	"city": "鲁达"
+}, {
+	"country": "波兰",
+	"city": "罗兹"
+}, {
+	"country": "波兰",
+	"city": "绿山城"
+}, {
+	"country": "波兰",
+	"city": "米什洛维采"
+}, {
+	"country": "波兰",
+	"city": "皮瓦"
+}, {
+	"country": "波兰",
+	"city": "普热梅希尔"
+}, {
+	"country": "波兰",
+	"city": "普沃茨克"
+}, {
+	"country": "波兰",
+	"city": "切哈努夫"
+}, {
+	"country": "波兰",
+	"city": "热舒夫"
+}, {
+	"country": "波兰",
+	"city": "什切青"
+}, {
+	"country": "波兰",
+	"city": "斯凯尔涅维采"
+}, {
+	"country": "波兰",
+	"city": "斯武普斯克"
+}, {
+	"country": "波兰",
+	"city": "苏瓦乌基"
+}, {
+	"country": "波兰",
+	"city": "索波特"
+}, {
+	"country": "波兰",
+	"city": "索斯诺维茨"
+}, {
+	"country": "波兰",
+	"city": "塔尔努夫"
+}, {
+	"country": "波兰",
+	"city": "塔尔诺布热格"
+}, {
+	"country": "波兰",
+	"city": "特切"
+}, {
+	"country": "波兰",
+	"city": "托伦"
+}, {
+	"country": "波兰",
+	"city": "瓦乌布日赫"
+}, {
+	"country": "波兰",
+	"city": "沃姆扎"
+}, {
+	"country": "波兰",
+	"city": "希米亚诺维采"
+}, {
+	"country": "波兰",
+	"city": "希维诺乌伊希切"
+}, {
+	"country": "波兰",
+	"city": "希维托赫洛维采"
+}, {
+	"country": "波兰",
+	"city": "谢德尔采"
+}, {
+	"country": "波兰",
+	"city": "谢拉兹"
+}, {
+	"country": "波兰",
+	"city": "新松奇"
+}, {
+	"country": "波兰",
+	"city": "雅沃兹诺"
+}, {
+	"country": "波兰",
+	"city": "耶莱尼亚古拉"
+}, {
+	"country": "波兰",
+	"city": "扎布热"
+}, {
+	"country": "波兰",
+	"city": "扎莫希奇"
+}, {
+	"country": "玻利维亚",
+	"city": "奥尔托"
+}, {
+	"country": "玻利维亚",
+	"city": "奥鲁罗"
+}, {
+	"country": "玻利维亚",
+	"city": "贝尼"
+}, {
+	"country": "玻利维亚",
+	"city": "波多西"
+}, {
+	"country": "玻利维亚",
+	"city": "基拉科洛"
+}, {
+	"country": "玻利维亚",
+	"city": "科恰班巴"
+}, {
+	"country": "玻利维亚",
+	"city": "拉巴斯"
+}, {
+	"country": "玻利维亚",
+	"city": "潘多"
+}, {
+	"country": "玻利维亚",
+	"city": "丘基萨卡"
+}, {
+	"country": "玻利维亚",
+	"city": "萨卡巴"
+}, {
+	"country": "玻利维亚",
+	"city": "圣克鲁斯"
+}, {
+	"country": "玻利维亚",
+	"city": "塔里哈"
+}, {
+	"country": "波斯尼亚和黑塞哥维那",
+	"city": "波萨维纳"
+}, {
+	"country": "波斯尼亚和黑塞哥维那",
+	"city": "波斯尼亚－波德里涅"
+}, {
+	"country": "波斯尼亚和黑塞哥维那",
+	"city": "多米斯拉夫格勒"
+}, {
+	"country": "波斯尼亚和黑塞哥维那",
+	"city": "黑塞哥维那－涅雷特瓦"
+}, {
+	"country": "波斯尼亚和黑塞哥维那",
+	"city": "萨拉热窝"
+}, {
+	"country": "波斯尼亚和黑塞哥维那",
+	"city": "图兹拉－波德里涅"
+}, {
+	"country": "波斯尼亚和黑塞哥维那",
+	"city": "乌纳－萨纳"
+}, {
+	"country": "波斯尼亚和黑塞哥维那",
+	"city": "西波斯尼亚"
+}, {
+	"country": "波斯尼亚和黑塞哥维那",
+	"city": "西黑塞哥维那"
+}, {
+	"country": "波斯尼亚和黑塞哥维那",
+	"city": "泽尼察－多博伊"
+}, {
+	"country": "波斯尼亚和黑塞哥维那",
+	"city": "中波斯尼亚"
+}, {
+	"country": "伯利兹",
+	"city": "伯利兹"
+}, {
+	"country": "伯利兹",
+	"city": "橘园"
+}, {
+	"country": "伯利兹",
+	"city": "卡约"
+}, {
+	"country": "伯利兹",
+	"city": "科罗萨尔"
+}, {
+	"country": "伯利兹",
+	"city": "斯坦港"
+}, {
+	"country": "伯利兹",
+	"city": "托莱多"
+}, {
+	"country": "布基纳法索",
+	"city": "巴雷"
+}, {
+	"country": "布基纳法索",
+	"city": "巴姆"
+}, {
+	"country": "布基纳法索",
+	"city": "巴瓦"
+}, {
+	"country": "布基纳法索",
+	"city": "巴泽加"
+}, {
+	"country": "布基纳法索",
+	"city": "波尼"
+}, {
+	"country": "布基纳法索",
+	"city": "布尔古"
+}, {
+	"country": "布基纳法索",
+	"city": "布尔基恩德"
+}, {
+	"country": "布基纳法索",
+	"city": "布古里巴"
+}, {
+	"country": "布基纳法索",
+	"city": "冈祖尔古"
+}, {
+	"country": "布基纳法索",
+	"city": "古尔马"
+}, {
+	"country": "布基纳法索",
+	"city": "济罗"
+}, {
+	"country": "布基纳法索",
+	"city": "卡焦戈"
+}, {
+	"country": "布基纳法索",
+	"city": "凯内杜古"
+}, {
+	"country": "布基纳法索",
+	"city": "科蒙加里"
+}, {
+	"country": "布基纳法索",
+	"city": "科莫埃"
+}, {
+	"country": "布基纳法索",
+	"city": "孔皮恩加"
+}, {
+	"country": "布基纳法索",
+	"city": "孔西"
+}, {
+	"country": "布基纳法索",
+	"city": "库尔佩罗戈"
+}, {
+	"country": "布基纳法索",
+	"city": "库尔维奥戈"
+}, {
+	"country": "布基纳法索",
+	"city": "库里滕加"
+}, {
+	"country": "布基纳法索",
+	"city": "雷拉巴"
+}, {
+	"country": "布基纳法索",
+	"city": "罗卢姆"
+}, {
+	"country": "布基纳法索",
+	"city": "穆翁"
+}, {
+	"country": "布基纳法索",
+	"city": "纳门滕加"
+}, {
+	"country": "布基纳法索",
+	"city": "纳乌里"
+}, {
+	"country": "布基纳法索",
+	"city": "纳亚拉"
+}, {
+	"country": "布基纳法索",
+	"city": "尼亚尼亚"
+}, {
+	"country": "布基纳法索",
+	"city": "努姆比埃尔"
+}, {
+	"country": "布基纳法索",
+	"city": "帕索雷"
+}, {
+	"country": "布基纳法索",
+	"city": "塞诺"
+}, {
+	"country": "布基纳法索",
+	"city": "桑吉"
+}, {
+	"country": "布基纳法索",
+	"city": "桑马滕加"
+}, {
+	"country": "布基纳法索",
+	"city": "苏鲁"
+}, {
+	"country": "布基纳法索",
+	"city": "苏姆"
+}, {
+	"country": "布基纳法索",
+	"city": "塔波阿"
+}, {
+	"country": "布基纳法索",
+	"city": "图伊"
+}, {
+	"country": "布基纳法索",
+	"city": "乌埃"
+}, {
+	"country": "布基纳法索",
+	"city": "乌布里滕加"
+}, {
+	"country": "布基纳法索",
+	"city": "乌达兰"
+}, {
+	"country": "布基纳法索",
+	"city": "锡西里"
+}, {
+	"country": "布基纳法索",
+	"city": "亚加"
+}, {
+	"country": "布基纳法索",
+	"city": "亚滕加"
+}, {
+	"country": "布基纳法索",
+	"city": "伊奥巴"
+}, {
+	"country": "布基纳法索",
+	"city": "宗德韦奥戈"
+}, {
+	"country": "布基纳法索",
+	"city": "宗多马"
+}, {
+	"country": "布隆迪",
+	"city": "布班扎"
+}, {
+	"country": "布隆迪",
+	"city": "布鲁里"
+}, {
+	"country": "布隆迪",
+	"city": "布琼布拉城市"
+}, {
+	"country": "布隆迪",
+	"city": "布琼布拉乡村"
+}, {
+	"country": "布隆迪",
+	"city": "恩戈齐"
+}, {
+	"country": "布隆迪",
+	"city": "基龙多"
+}, {
+	"country": "布隆迪",
+	"city": "基特加"
+}, {
+	"country": "布隆迪",
+	"city": "卡鲁济"
+}, {
+	"country": "布隆迪",
+	"city": "卡扬扎"
+}, {
+	"country": "布隆迪",
+	"city": "坎库佐"
+}, {
+	"country": "布隆迪",
+	"city": "鲁塔纳"
+}, {
+	"country": "布隆迪",
+	"city": "鲁伊吉"
+}, {
+	"country": "布隆迪",
+	"city": "马坎巴"
+}, {
+	"country": "布隆迪",
+	"city": "穆拉姆维亚"
+}, {
+	"country": "布隆迪",
+	"city": "穆瓦洛"
+}, {
+	"country": "布隆迪",
+	"city": "穆因加"
+}, {
+	"country": "布隆迪",
+	"city": "锡比托凯"
+}, {
+	"country": "朝鲜",
+	"city": "海州"
+}, {
+	"country": "朝鲜",
+	"city": "惠山"
+}, {
+	"country": "朝鲜",
+	"city": "江界"
+}, {
+	"country": "朝鲜",
+	"city": "开城"
+}, {
+	"country": "朝鲜",
+	"city": "罗先"
+}, {
+	"country": "朝鲜",
+	"city": "南浦"
+}, {
+	"country": "朝鲜",
+	"city": "平壤"
+}, {
+	"country": "朝鲜",
+	"city": "清津"
+}, {
+	"country": "朝鲜",
+	"city": "沙里院"
+}, {
+	"country": "朝鲜",
+	"city": "咸兴"
+}, {
+	"country": "朝鲜",
+	"city": "新义州"
+}, {
+	"country": "朝鲜",
+	"city": "元山"
+}, {
+	"country": "丹麦",
+	"city": "奥胡斯"
+}, {
+	"country": "丹麦",
+	"city": "北日德兰"
+}, {
+	"country": "丹麦",
+	"city": "博恩霍尔姆"
+}, {
+	"country": "丹麦",
+	"city": "菲特烈堡"
+}, {
+	"country": "丹麦",
+	"city": "菲茵"
+}, {
+	"country": "丹麦",
+	"city": "哥本哈根"
+}, {
+	"country": "丹麦",
+	"city": "里伯"
+}, {
+	"country": "丹麦",
+	"city": "灵克宾"
+}, {
+	"country": "丹麦",
+	"city": "罗斯基勒"
+}, {
+	"country": "丹麦",
+	"city": "南日德兰"
+}, {
+	"country": "丹麦",
+	"city": "斯多斯特姆"
+}, {
+	"country": "丹麦",
+	"city": "维堡"
+}, {
+	"country": "丹麦",
+	"city": "维厄勒"
+}, {
+	"country": "丹麦",
+	"city": "西希兰"
+}, {
+	"country": "德国",
+	"city": "阿恩斯贝格"
+}, {
+	"country": "德国",
+	"city": "爱尔福特"
+}, {
+	"country": "德国",
+	"city": "安斯巴格"
+}, {
+	"country": "德国",
+	"city": "奥格斯堡"
+}, {
+	"country": "德国",
+	"city": "柏林"
+}, {
+	"country": "德国",
+	"city": "拜伊罗特"
+}, {
+	"country": "德国",
+	"city": "比勒费尔德"
+}, {
+	"country": "德国",
+	"city": "波茨坦"
+}, {
+	"country": "德国",
+	"city": "波鸿"
+}, {
+	"country": "德国",
+	"city": "不来梅"
+}, {
+	"country": "德国",
+	"city": "不伦瑞克"
+}, {
+	"country": "德国",
+	"city": "达姆施塔特"
+}, {
+	"country": "德国",
+	"city": "代特莫尔特"
+}, {
+	"country": "德国",
+	"city": "德累斯顿"
+}, {
+	"country": "德国",
+	"city": "德绍"
+}, {
+	"country": "德国",
+	"city": "杜塞尔多夫"
+}, {
+	"country": "德国",
+	"city": "法兰克福"
+}, {
+	"country": "德国",
+	"city": "弗赖堡"
+}, {
+	"country": "德国",
+	"city": "哈雷"
+}, {
+	"country": "德国",
+	"city": "汉堡"
+}, {
+	"country": "德国",
+	"city": "汉诺威"
+}, {
+	"country": "德国",
+	"city": "基尔"
+}, {
+	"country": "德国",
+	"city": "吉森"
+}, {
+	"country": "德国",
+	"city": "卡尔斯鲁厄"
+}, {
+	"country": "德国",
+	"city": "卡塞尔"
+}, {
+	"country": "德国",
+	"city": "开姆尼斯"
+}, {
+	"country": "德国",
+	"city": "科布伦次"
+}, {
+	"country": "德国",
+	"city": "科隆"
+}, {
+	"country": "德国",
+	"city": "莱比锡"
+}, {
+	"country": "德国",
+	"city": "兰茨胡特"
+}, {
+	"country": "德国",
+	"city": "吕讷堡"
+}, {
+	"country": "德国",
+	"city": "马格德堡"
+}, {
+	"country": "德国",
+	"city": "曼海姆"
+}, {
+	"country": "德国",
+	"city": "美因兹"
+}, {
+	"country": "德国",
+	"city": "明斯特"
+}, {
+	"country": "德国",
+	"city": "慕尼黑"
+}, {
+	"country": "德国",
+	"city": "纽伦堡"
+}, {
+	"country": "德国",
+	"city": "什未林"
+}, {
+	"country": "德国",
+	"city": "斯图加特"
+}, {
+	"country": "德国",
+	"city": "特里尔"
+}, {
+	"country": "德国",
+	"city": "威斯巴登"
+}, {
+	"country": "德国",
+	"city": "维尔茨堡"
+}, {
+	"country": "东帝汶",
+	"city": "阿伊莱乌"
+}, {
+	"country": "东帝汶",
+	"city": "阿伊纳罗"
+}, {
+	"country": "东帝汶",
+	"city": "埃尔梅拉"
+}, {
+	"country": "东帝汶",
+	"city": "安贝诺"
+}, {
+	"country": "东帝汶",
+	"city": "包考"
+}, {
+	"country": "东帝汶",
+	"city": "博博纳罗"
+}, {
+	"country": "东帝汶",
+	"city": "帝力"
+}, {
+	"country": "东帝汶",
+	"city": "科瓦利马"
+}, {
+	"country": "东帝汶",
+	"city": "劳滕"
+}, {
+	"country": "东帝汶",
+	"city": "利基卡"
+}, {
+	"country": "东帝汶",
+	"city": "马纳图托"
+}, {
+	"country": "东帝汶",
+	"city": "马努法伊"
+}, {
+	"country": "东帝汶",
+	"city": "维克克"
+}, {
+	"country": "多哥",
+	"city": "滨海区"
+}, {
+	"country": "多哥",
+	"city": "草原区"
+}, {
+	"country": "多哥",
+	"city": "高原区"
+}, {
+	"country": "多哥",
+	"city": "卡拉区"
+}, {
+	"country": "多哥",
+	"city": "中部区"
+}, {
+	"country": "俄罗斯",
+	"city": "阿巴坎"
+}, {
+	"country": "俄罗斯",
+	"city": "阿尔汉格尔斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "阿金斯科耶"
+}, {
+	"country": "俄罗斯",
+	"city": "阿纳德尔"
+}, {
+	"country": "俄罗斯",
+	"city": "阿斯特拉罕"
+}, {
+	"country": "俄罗斯",
+	"city": "埃利斯塔"
+}, {
+	"country": "俄罗斯",
+	"city": "奥廖尔"
+}, {
+	"country": "俄罗斯",
+	"city": "奥伦堡"
+}, {
+	"country": "俄罗斯",
+	"city": "巴尔瑙尔"
+}, {
+	"country": "俄罗斯",
+	"city": "奔萨"
+}, {
+	"country": "俄罗斯",
+	"city": "彼得罗巴甫洛夫斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "彼得罗扎沃茨克"
+}, {
+	"country": "俄罗斯",
+	"city": "彼尔姆"
+}, {
+	"country": "俄罗斯",
+	"city": "比罗比詹"
+}, {
+	"country": "俄罗斯",
+	"city": "别尔哥罗德"
+}, {
+	"country": "俄罗斯",
+	"city": "伯力"
+}, {
+	"country": "俄罗斯",
+	"city": "布拉戈维申斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "布良斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "车里雅宾斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "赤塔"
+}, {
+	"country": "俄罗斯",
+	"city": "顿河畔罗斯托夫"
+}, {
+	"country": "俄罗斯",
+	"city": "鄂木斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "伏尔加格勒"
+}, {
+	"country": "俄罗斯",
+	"city": "弗拉基米尔"
+}, {
+	"country": "俄罗斯",
+	"city": "弗拉季高加索"
+}, {
+	"country": "俄罗斯",
+	"city": "戈尔诺－阿尔泰斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "格罗兹尼"
+}, {
+	"country": "俄罗斯",
+	"city": "海参崴"
+}, {
+	"country": "俄罗斯",
+	"city": "汉特－曼西斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "基洛夫"
+}, {
+	"country": "俄罗斯",
+	"city": "加里宁格勒"
+}, {
+	"country": "俄罗斯",
+	"city": "喀山"
+}, {
+	"country": "俄罗斯",
+	"city": "卡卢加"
+}, {
+	"country": "俄罗斯",
+	"city": "科斯特罗马"
+}, {
+	"country": "俄罗斯",
+	"city": "克拉斯诺达尔"
+}, {
+	"country": "俄罗斯",
+	"city": "克拉斯诺亚尔斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "克麦罗沃"
+}, {
+	"country": "俄罗斯",
+	"city": "克孜勒"
+}, {
+	"country": "俄罗斯",
+	"city": "库德姆卡尔"
+}, {
+	"country": "俄罗斯",
+	"city": "库尔干"
+}, {
+	"country": "俄罗斯",
+	"city": "库尔斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "利佩茨克"
+}, {
+	"country": "俄罗斯",
+	"city": "梁赞"
+}, {
+	"country": "俄罗斯",
+	"city": "马哈奇卡拉"
+}, {
+	"country": "俄罗斯",
+	"city": "马加丹"
+}, {
+	"country": "俄罗斯",
+	"city": "马加斯"
+}, {
+	"country": "俄罗斯",
+	"city": "迈科普"
+}, {
+	"country": "俄罗斯",
+	"city": "摩尔曼斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "莫斯科"
+}, {
+	"country": "俄罗斯",
+	"city": "纳尔奇克"
+}, {
+	"country": "俄罗斯",
+	"city": "纳里扬马尔"
+}, {
+	"country": "俄罗斯",
+	"city": "南萨哈林斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "诺夫哥罗德"
+}, {
+	"country": "俄罗斯",
+	"city": "帕拉纳"
+}, {
+	"country": "俄罗斯",
+	"city": "普斯科夫"
+}, {
+	"country": "俄罗斯",
+	"city": "切博克萨雷"
+}, {
+	"country": "俄罗斯",
+	"city": "切尔克斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "秋明"
+}, {
+	"country": "俄罗斯",
+	"city": "萨拉托夫"
+}, {
+	"country": "俄罗斯",
+	"city": "萨兰斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "萨列哈尔德"
+}, {
+	"country": "俄罗斯",
+	"city": "萨马拉"
+}, {
+	"country": "俄罗斯",
+	"city": "瑟克特夫卡尔"
+}, {
+	"country": "俄罗斯",
+	"city": "圣彼得堡"
+}, {
+	"country": "俄罗斯",
+	"city": "斯摩棱斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "斯塔夫罗波尔"
+}, {
+	"country": "俄罗斯",
+	"city": "坦波夫"
+}, {
+	"country": "俄罗斯",
+	"city": "特维尔"
+}, {
+	"country": "俄罗斯",
+	"city": "图拉"
+}, {
+	"country": "俄罗斯",
+	"city": "托木斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "沃罗涅什"
+}, {
+	"country": "俄罗斯",
+	"city": "沃洛格达"
+}, {
+	"country": "俄罗斯",
+	"city": "乌法"
+}, {
+	"country": "俄罗斯",
+	"city": "乌兰乌德"
+}, {
+	"country": "俄罗斯",
+	"city": "乌里扬诺夫斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "乌斯季奥尔登斯基"
+}, {
+	"country": "俄罗斯",
+	"city": "下诺夫哥罗德"
+}, {
+	"country": "俄罗斯",
+	"city": "新西伯利亚"
+}, {
+	"country": "俄罗斯",
+	"city": "雅库茨克"
+}, {
+	"country": "俄罗斯",
+	"city": "雅罗斯拉夫尔"
+}, {
+	"country": "俄罗斯",
+	"city": "叶卡捷林堡"
+}, {
+	"country": "俄罗斯",
+	"city": "伊尔库茨克"
+}, {
+	"country": "俄罗斯",
+	"city": "伊热夫斯克"
+}, {
+	"country": "俄罗斯",
+	"city": "伊万诺沃"
+}, {
+	"country": "俄罗斯",
+	"city": "约什卡尔奥拉"
+}, {
+	"country": "厄瓜多尔",
+	"city": "阿苏艾"
+}, {
+	"country": "厄瓜多尔",
+	"city": "埃尔奥罗"
+}, {
+	"country": "厄瓜多尔",
+	"city": "埃斯梅拉尔达斯"
+}, {
+	"country": "厄瓜多尔",
+	"city": "玻利瓦尔"
+}, {
+	"country": "厄瓜多尔",
+	"city": "瓜亚斯"
+}, {
+	"country": "厄瓜多尔",
+	"city": "加拉帕戈斯"
+}, {
+	"country": "厄瓜多尔",
+	"city": "卡尔奇"
+}, {
+	"country": "厄瓜多尔",
+	"city": "卡尼亚尔"
+}, {
+	"country": "厄瓜多尔",
+	"city": "科托帕希"
+}, {
+	"country": "厄瓜多尔",
+	"city": "洛哈"
+}, {
+	"country": "厄瓜多尔",
+	"city": "洛斯里奥斯"
+}, {
+	"country": "厄瓜多尔",
+	"city": "马纳比"
+}, {
+	"country": "厄瓜多尔",
+	"city": "莫罗纳－圣地亚哥"
+}, {
+	"country": "厄瓜多尔",
+	"city": "纳波，奥雷利亚纳"
+}, {
+	"country": "厄瓜多尔",
+	"city": "帕斯塔萨"
+}, {
+	"country": "厄瓜多尔",
+	"city": "皮钦查"
+}, {
+	"country": "厄瓜多尔",
+	"city": "钦博拉索"
+}, {
+	"country": "厄瓜多尔",
+	"city": "萨莫拉－钦奇佩"
+}, {
+	"country": "厄瓜多尔",
+	"city": "苏昆毕奥斯"
+}, {
+	"country": "厄瓜多尔",
+	"city": "通古拉瓦"
+}, {
+	"country": "厄瓜多尔",
+	"city": "因巴布拉"
+}, {
+	"country": "厄立特里亚",
+	"city": "安塞巴"
+}, {
+	"country": "厄立特里亚",
+	"city": "北红海"
+}, {
+	"country": "厄立特里亚",
+	"city": "加什·巴尔卡"
+}, {
+	"country": "厄立特里亚",
+	"city": "南部"
+}, {
+	"country": "厄立特里亚",
+	"city": "南红海"
+}, {
+	"country": "厄立特里亚",
+	"city": "中部"
+}, {
+	"country": "法国",
+	"city": "阿尔勒"
+}, {
+	"country": "法国",
+	"city": "阿雅克修"
+}, {
+	"country": "法国",
+	"city": "艾克斯"
+}, {
+	"country": "法国",
+	"city": "奥尔良"
+}, {
+	"country": "法国",
+	"city": "巴黎"
+}, {
+	"country": "法国",
+	"city": "贝桑松"
+}, {
+	"country": "法国",
+	"city": "第戎"
+}, {
+	"country": "法国",
+	"city": "弗雷瑞斯"
+}, {
+	"country": "法国",
+	"city": "卡昂"
+}, {
+	"country": "法国",
+	"city": "雷恩"
+}, {
+	"country": "法国",
+	"city": "里昂"
+}, {
+	"country": "法国",
+	"city": "里尔"
+}, {
+	"country": "法国",
+	"city": "利摩日"
+}, {
+	"country": "法国",
+	"city": "鲁昂"
+}, {
+	"country": "法国",
+	"city": "马赛"
+}, {
+	"country": "法国",
+	"city": "梅斯"
+}, {
+	"country": "法国",
+	"city": "蒙彼利埃"
+}, {
+	"country": "法国",
+	"city": "南特"
+}, {
+	"country": "法国",
+	"city": "尼斯"
+}, {
+	"country": "法国",
+	"city": "沙隆"
+}, {
+	"country": "法国",
+	"city": "图卢兹"
+}, {
+	"country": "法国",
+	"city": "瓦朗斯"
+}, {
+	"country": "法国",
+	"city": "亚眠"
+}, {
+	"country": "菲律宾",
+	"city": "达沃"
+}, {
+	"country": "菲律宾",
+	"city": "卡卢坎"
+}, {
+	"country": "菲律宾",
+	"city": "马尼拉"
+}, {
+	"country": "菲律宾",
+	"city": "宿务"
+}, {
+	"country": "芬兰",
+	"city": "埃斯波"
+}, {
+	"country": "芬兰",
+	"city": "奥卢"
+}, {
+	"country": "芬兰",
+	"city": "波里"
+}, {
+	"country": "芬兰",
+	"city": "博尔沃"
+}, {
+	"country": "芬兰",
+	"city": "海门林纳"
+}, {
+	"country": "芬兰",
+	"city": "赫尔辛基"
+}, {
+	"country": "芬兰",
+	"city": "卡亚尼"
+}, {
+	"country": "芬兰",
+	"city": "科科拉"
+}, {
+	"country": "芬兰",
+	"city": "科特卡"
+}, {
+	"country": "芬兰",
+	"city": "库奥皮奥"
+}, {
+	"country": "芬兰",
+	"city": "拉赫蒂"
+}, {
+	"country": "芬兰",
+	"city": "拉彭兰塔"
+}, {
+	"country": "芬兰",
+	"city": "罗瓦涅米"
+}, {
+	"country": "芬兰",
+	"city": "玛丽港"
+}, {
+	"country": "芬兰",
+	"city": "米凯利"
+}, {
+	"country": "芬兰",
+	"city": "坦佩雷"
+}, {
+	"country": "芬兰",
+	"city": "图尔库"
+}, {
+	"country": "芬兰",
+	"city": "瓦萨"
+}, {
+	"country": "芬兰",
+	"city": "万塔"
+}, {
+	"country": "芬兰",
+	"city": "约恩苏"
+}, {
+	"country": "佛得角",
+	"city": "保尔"
+}, {
+	"country": "佛得角",
+	"city": "波多诺伏"
+}, {
+	"country": "佛得角",
+	"city": "博阿维斯塔岛"
+}, {
+	"country": "佛得角",
+	"city": "布拉瓦岛"
+}, {
+	"country": "佛得角",
+	"city": "大里贝拉"
+}, {
+	"country": "佛得角",
+	"city": "福古岛"
+}, {
+	"country": "佛得角",
+	"city": "马尤岛"
+}, {
+	"country": "佛得角",
+	"city": "莫斯特罗"
+}, {
+	"country": "佛得角",
+	"city": "普拉亚"
+}, {
+	"country": "佛得角",
+	"city": "萨尔岛"
+}, {
+	"country": "佛得角",
+	"city": "圣安唐岛"
+}, {
+	"country": "佛得角",
+	"city": "圣地亚哥岛"
+}, {
+	"country": "佛得角",
+	"city": "圣多明戈"
+}, {
+	"country": "佛得角",
+	"city": "圣菲利普"
+}, {
+	"country": "佛得角",
+	"city": "圣卡塔琳娜"
+}, {
+	"country": "佛得角",
+	"city": "圣克鲁斯"
+}, {
+	"country": "佛得角",
+	"city": "圣米戈尔"
+}, {
+	"country": "佛得角",
+	"city": "圣尼古拉岛"
+}, {
+	"country": "佛得角",
+	"city": "圣维森特岛"
+}, {
+	"country": "佛得角",
+	"city": "塔拉法尔"
+}, {
+	"country": "哥伦比亚",
+	"city": "阿劳卡"
+}, {
+	"country": "哥伦比亚",
+	"city": "安提奥基亚"
+}, {
+	"country": "哥伦比亚",
+	"city": "北桑坦德"
+}, {
+	"country": "哥伦比亚",
+	"city": "波哥大首都区"
+}, {
+	"country": "哥伦比亚",
+	"city": "博利瓦尔"
+}, {
+	"country": "哥伦比亚",
+	"city": "博亚卡"
+}, {
+	"country": "哥伦比亚",
+	"city": "大西洋"
+}, {
+	"country": "哥伦比亚",
+	"city": "瓜维亚雷"
+}, {
+	"country": "哥伦比亚",
+	"city": "瓜希拉"
+}, {
+	"country": "哥伦比亚",
+	"city": "瓜伊尼亚"
+}, {
+	"country": "哥伦比亚",
+	"city": "金迪奥"
+}, {
+	"country": "哥伦比亚",
+	"city": "卡尔达斯"
+}, {
+	"country": "哥伦比亚",
+	"city": "卡克塔"
+}, {
+	"country": "哥伦比亚",
+	"city": "卡萨纳雷"
+}, {
+	"country": "哥伦比亚",
+	"city": "考卡"
+}, {
+	"country": "哥伦比亚",
+	"city": "考卡山谷"
+}, {
+	"country": "哥伦比亚",
+	"city": "科尔多巴"
+}, {
+	"country": "哥伦比亚",
+	"city": "昆迪纳马卡"
+}, {
+	"country": "哥伦比亚",
+	"city": "利萨拉尔达"
+}, {
+	"country": "哥伦比亚",
+	"city": "马格达雷那"
+}, {
+	"country": "哥伦比亚",
+	"city": "梅塔"
+}, {
+	"country": "哥伦比亚",
+	"city": "纳里尼奥"
+}, {
+	"country": "哥伦比亚",
+	"city": "普图马约"
+}, {
+	"country": "哥伦比亚",
+	"city": "乔科"
+}, {
+	"country": "哥伦比亚",
+	"city": "塞萨尔"
+}, {
+	"country": "哥伦比亚",
+	"city": "桑坦德"
+}, {
+	"country": "哥伦比亚",
+	"city": "圣安德烈斯-普罗维登西亚"
+}, {
+	"country": "哥伦比亚",
+	"city": "苏克雷"
+}, {
+	"country": "哥伦比亚",
+	"city": "托利马"
+}, {
+	"country": "哥伦比亚",
+	"city": "维查达"
+}, {
+	"country": "哥伦比亚",
+	"city": "沃佩斯"
+}, {
+	"country": "哥伦比亚",
+	"city": "乌伊拉"
+}, {
+	"country": "哥伦比亚",
+	"city": "亚马孙"
+}, {
+	"country": "哥斯达黎加",
+	"city": "阿拉胡埃拉"
+}, {
+	"country": "哥斯达黎加",
+	"city": "埃雷迪亚"
+}, {
+	"country": "哥斯达黎加",
+	"city": "瓜纳卡斯特"
+}, {
+	"country": "哥斯达黎加",
+	"city": "卡塔戈"
+}, {
+	"country": "哥斯达黎加",
+	"city": "利蒙"
+}, {
+	"country": "哥斯达黎加",
+	"city": "蓬塔雷纳斯"
+}, {
+	"country": "哥斯达黎加",
+	"city": "圣何塞"
+}, {
+	"country": "古巴",
+	"city": "奥尔金"
+}, {
+	"country": "古巴",
+	"city": "比那尔德里奥"
+}, {
+	"country": "古巴",
+	"city": "比亚克拉拉"
+}, {
+	"country": "古巴",
+	"city": "格拉玛"
+}, {
+	"country": "古巴",
+	"city": "关塔那摩"
+}, {
+	"country": "古巴",
+	"city": "哈瓦那"
+}, {
+	"country": "古巴",
+	"city": "哈瓦那城"
+}, {
+	"country": "古巴",
+	"city": "卡马圭"
+}, {
+	"country": "古巴",
+	"city": "拉斯图纳斯"
+}, {
+	"country": "古巴",
+	"city": "马坦萨斯"
+}, {
+	"country": "古巴",
+	"city": "马亚里"
+}, {
+	"country": "古巴",
+	"city": "曼萨尼罗"
+}, {
+	"country": "古巴",
+	"city": "青年岛特区"
+}, {
+	"country": "古巴",
+	"city": "圣地亚哥"
+}, {
+	"country": "古巴",
+	"city": "圣斯皮里图斯"
+}, {
+	"country": "古巴",
+	"city": "西恩富戈斯"
+}, {
+	"country": "古巴",
+	"city": "谢戈德阿维拉"
+}, {
+	"country": "圭亚那",
+	"city": "埃塞奎博群岛-西德梅拉拉"
+}, {
+	"country": "圭亚那",
+	"city": "巴里马-瓦伊尼"
+}, {
+	"country": "圭亚那",
+	"city": "波默伦-苏佩纳姆"
+}, {
+	"country": "圭亚那",
+	"city": "波塔罗-锡帕鲁尼"
+}, {
+	"country": "圭亚那",
+	"city": "德梅拉拉-马海卡"
+}, {
+	"country": "圭亚那",
+	"city": "东伯比斯-科兰太因"
+}, {
+	"country": "圭亚那",
+	"city": "库尤尼-马扎鲁尼"
+}, {
+	"country": "圭亚那",
+	"city": "马海卡-伯比斯"
+}, {
+	"country": "圭亚那",
+	"city": "上德梅拉拉-伯比斯"
+}, {
+	"country": "圭亚那",
+	"city": "上塔库图-上埃塞奎博"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "阿尔卡累克"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "阿克莫拉"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "阿克苏"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "阿克托别"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "阿拉木图"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "阿雷斯"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "阿斯塔纳市"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "阿特劳"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "埃基巴斯图兹"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "巴尔喀什"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "巴甫洛达尔"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "北哈萨克斯坦"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "东哈萨克斯坦"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "济良诺夫斯克"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "江布尔"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "杰兹卡兹甘"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "卡拉干达"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "卡拉扎尔"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "卡普恰盖"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "科斯塔奈"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "克孜勒奥尔达"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "肯套"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "库尔恰托夫"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "利萨科夫斯克"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "列宁诺戈尔斯克"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "鲁德内"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "曼格斯套"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "南哈萨克斯坦"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "萨兰"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "塞梅伊"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "沙赫京斯克"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "斯捷普诺戈尔斯克"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "铁克利"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "铁米尔套"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "突厥斯坦"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "西哈萨克斯坦"
+}, {
+	"country": "哈萨克斯坦",
+	"city": "扎纳奥津"
+}, {
+	"country": "韩国",
+	"city": "达城郡",
+	"state": "大邱"
+}, {
+	"country": "韩国",
+	"city": "大邱",
+	"state": "大邱"
+}, {
+	"country": "韩国",
+	"city": "寿城区",
+	"state": "大邱"
+}, {
+	"country": "韩国",
+	"city": "春川市",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "东海市",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "高城郡",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "横城郡",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "洪川郡",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "华川郡",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "江陵市",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "旌善郡",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "麟蹄郡",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "宁越郡",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "平昌郡",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "三陟市",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "束草市",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "太白市",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "铁原郡",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "襄阳郡",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "杨口郡",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "原州市",
+	"state": "江原道"
+}, {
+	"country": "韩国",
+	"city": "安城市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "安山市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "安养市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "抱川市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "城南市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "东豆川市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "富川市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "高阳市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "光明市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "广州市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "果川市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "河南市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "华城市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "加平郡",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "金浦市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "九里市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "军浦市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "骊州郡",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "利川市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "涟川郡",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "龙仁市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "南杨州市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "平泽市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "坡州市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "始兴市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "水原市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "乌山市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "扬平郡",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "杨州市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "仪旺市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "议政府市",
+	"state": "京畿道"
+}, {
+	"country": "韩国",
+	"city": "安东市",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "奉化郡",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "高灵郡",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "龟尾市",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "金泉市",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "军威郡",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "醴泉郡",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "浦项市",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "漆谷郡",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "淸道郡",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "靑松郡",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "庆山市",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "庆州市",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "荣州市",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "尙州市",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "蔚珍郡",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "闻庆市",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "星州郡",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "义城郡",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "英阳郡",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "盈德郡",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "永川市",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "郁陵郡",
+	"state": "庆尚北道"
+}, {
+	"country": "韩国",
+	"city": "昌宁郡",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "昌原市",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "固城郡",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "河东郡",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "金海市",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "晋州市",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "居昌郡",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "巨济市",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "梁山市",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "马山市",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "密阳市",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "南海郡",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "山淸郡",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "泗川市",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "统营市",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "陜川郡",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "咸安郡",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "咸阳郡",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "宜宁郡",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "鎭海市",
+	"state": "庆尚南道"
+}, {
+	"country": "韩国",
+	"city": "淳昌郡",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "扶安郡",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "高敞郡",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "金堤市",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "井邑市",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "茂朱郡",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "南原市",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "全州市",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "群山市",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "任实郡",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "完州郡",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "益山市",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "长水郡",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "鎭安郡",
+	"state": "全罗北道"
+}, {
+	"country": "韩国",
+	"city": "宝城郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "高兴郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "谷城郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "莞岛郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "光阳市",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "海南郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "和顺郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "康津郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "丽水市",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "灵光郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "灵岩郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "罗州市",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "木浦市",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "求礼郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "顺天市",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "潭阳郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "务安郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "咸平郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "新安郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "长城郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "长兴郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "珍岛郡",
+	"state": "全罗南道"
+}, {
+	"country": "韩国",
+	"city": "报恩郡",
+	"state": "忠清北道"
+}, {
+	"country": "韩国",
+	"city": "曾坪郡",
+	"state": "忠清北道"
+}, {
+	"country": "韩国",
+	"city": "丹阳郡",
+	"state": "忠清北道"
+}, {
+	"country": "韩国",
+	"city": "堤川市",
+	"state": "忠清北道"
+}, {
+	"country": "韩国",
+	"city": "槐山郡",
+	"state": "忠清北道"
+}, {
+	"country": "韩国",
+	"city": "淸原郡",
+	"state": "忠清北道"
+}, {
+	"country": "韩国",
+	"city": "淸州市",
+	"state": "忠清北道"
+}, {
+	"country": "韩国",
+	"city": "沃川郡",
+	"state": "忠清北道"
+}, {
+	"country": "韩国",
+	"city": "阴城郡",
+	"state": "忠清北道"
+}, {
+	"country": "韩国",
+	"city": "永同郡",
+	"state": "忠清北道"
+}, {
+	"country": "韩国",
+	"city": "鎭川郡",
+	"state": "忠清北道"
+}, {
+	"country": "韩国",
+	"city": "忠州市",
+	"state": "忠清北道"
+}, {
+	"country": "韩国",
+	"city": "保宁市",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "扶余郡",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "公州市",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "洪城郡",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "鸡龙市",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "锦山郡",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "礼山郡",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "论山市",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "青阳郡",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "瑞山市",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "舒川郡",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "泰安郡",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "唐津郡",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "天安市",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "牙山市",
+	"state": "忠清南道"
+}, {
+	"country": "韩国",
+	"city": "燕岐郡",
+	"state": "忠清南道"
+}, {
+	"country": "荷兰",
+	"city": "阿尔梅勒"
+}, {
+	"country": "荷兰",
+	"city": "阿默斯福特"
+}, {
+	"country": "荷兰",
+	"city": "阿姆斯特丹"
+}, {
+	"country": "荷兰",
+	"city": "阿纳姆"
+}, {
+	"country": "荷兰",
+	"city": "阿珀尔多伦"
+}, {
+	"country": "荷兰",
+	"city": "阿森"
+}, {
+	"country": "荷兰",
+	"city": "埃德"
+}, {
+	"country": "荷兰",
+	"city": "埃门"
+}, {
+	"country": "荷兰",
+	"city": "埃因霍芬"
+}, {
+	"country": "荷兰",
+	"city": "布雷达"
+}, {
+	"country": "荷兰",
+	"city": "蒂尔堡"
+}, {
+	"country": "荷兰",
+	"city": "多德雷赫特"
+}, {
+	"country": "荷兰",
+	"city": "恩斯赫德"
+}, {
+	"country": "荷兰",
+	"city": "格罗宁根"
+}, {
+	"country": "荷兰",
+	"city": "哈勒姆"
+}, {
+	"country": "荷兰",
+	"city": "海牙"
+}, {
+	"country": "荷兰",
+	"city": "霍夫多尔普"
+}, {
+	"country": "荷兰",
+	"city": "莱顿"
+}, {
+	"country": "荷兰",
+	"city": "莱利斯塔德"
+}, {
+	"country": "荷兰",
+	"city": "鹿特丹"
+}, {
+	"country": "荷兰",
+	"city": "吕伐登"
+}, {
+	"country": "荷兰",
+	"city": "马斯特里赫特"
+}, {
+	"country": "荷兰",
+	"city": "米德尔堡"
+}, {
+	"country": "荷兰",
+	"city": "奈梅亨"
+}, {
+	"country": "荷兰",
+	"city": "斯海尔托亨博思"
+}, {
+	"country": "荷兰",
+	"city": "乌得勒支"
+}, {
+	"country": "荷兰",
+	"city": "兹沃勒"
+}, {
+	"country": "荷兰",
+	"city": "佐特尔梅"
+}, {
+	"country": "洪都拉斯",
+	"city": "阿特兰蒂达"
+}, {
+	"country": "洪都拉斯",
+	"city": "埃尔帕拉伊索"
+}, {
+	"country": "洪都拉斯",
+	"city": "奥科特佩克"
+}, {
+	"country": "洪都拉斯",
+	"city": "奥兰乔"
+}, {
+	"country": "洪都拉斯",
+	"city": "弗朗西斯科-莫拉桑"
+}, {
+	"country": "洪都拉斯",
+	"city": "格拉西亚斯-阿迪奥斯"
+}, {
+	"country": "洪都拉斯",
+	"city": "海湾群岛"
+}, {
+	"country": "洪都拉斯",
+	"city": "科尔特斯"
+}, {
+	"country": "洪都拉斯",
+	"city": "科隆"
+}, {
+	"country": "洪都拉斯",
+	"city": "科马亚瓜"
+}, {
+	"country": "洪都拉斯",
+	"city": "科潘"
+}, {
+	"country": "洪都拉斯",
+	"city": "拉巴斯"
+}, {
+	"country": "洪都拉斯",
+	"city": "伦皮拉"
+}, {
+	"country": "洪都拉斯",
+	"city": "乔卢特卡"
+}, {
+	"country": "洪都拉斯",
+	"city": "乔罗马"
+}, {
+	"country": "洪都拉斯",
+	"city": "山谷"
+}, {
+	"country": "洪都拉斯",
+	"city": "圣巴巴拉"
+}, {
+	"country": "洪都拉斯",
+	"city": "因蒂布卡"
+}, {
+	"country": "洪都拉斯",
+	"city": "约罗"
+}, {
+	"country": "基里巴斯",
+	"city": "菲尼克斯群岛"
+}, {
+	"country": "基里巴斯",
+	"city": "吉尔伯特群岛"
+}, {
+	"country": "基里巴斯",
+	"city": "莱恩群岛"
+}, {
+	"country": "吉布提",
+	"city": "阿里萨比赫区"
+}, {
+	"country": "吉布提",
+	"city": "奥博克区"
+}, {
+	"country": "吉布提",
+	"city": "迪基勒区"
+}, {
+	"country": "吉布提",
+	"city": "塔朱拉区"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "奥什"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "巴特肯"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "比什凯克市"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "楚河"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "贾拉拉巴德"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "卡拉巴尔塔"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "卡拉库尔"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "坎特"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "科克扬加克"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "迈利赛"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "纳伦"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "苏卢克图"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "塔拉斯"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "塔什库梅尔"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "乌兹根"
+}, {
+	"country": "吉尔吉斯斯坦",
+	"city": "伊塞克湖"
+}, {
+	"country": "几内亚",
+	"city": "博凯"
+}, {
+	"country": "几内亚",
+	"city": "恩泽雷科雷"
+}, {
+	"country": "几内亚",
+	"city": "法拉纳"
+}, {
+	"country": "几内亚",
+	"city": "金迪亚"
+}, {
+	"country": "几内亚",
+	"city": "康康"
+}, {
+	"country": "几内亚",
+	"city": "科纳克里"
+}, {
+	"country": "几内亚",
+	"city": "拉贝"
+}, {
+	"country": "几内亚",
+	"city": "玛木"
+}, {
+	"country": "加拿大",
+	"city": "阿伯茨福"
+}, {
+	"country": "加拿大",
+	"city": "埃德蒙顿"
+}, {
+	"country": "加拿大",
+	"city": "奥沙瓦"
+}, {
+	"country": "加拿大",
+	"city": "巴里"
+}, {
+	"country": "加拿大",
+	"city": "布列塔尼角"
+}, {
+	"country": "加拿大",
+	"city": "多伦多"
+}, {
+	"country": "加拿大",
+	"city": "弗雷德里顿"
+}, {
+	"country": "加拿大",
+	"city": "圭尔夫"
+}, {
+	"country": "加拿大",
+	"city": "哈利法克斯"
+}, {
+	"country": "加拿大",
+	"city": "哈密尔顿"
+}, {
+	"country": "加拿大",
+	"city": "怀特霍斯"
+}, {
+	"country": "加拿大",
+	"city": "基劳纳"
+}, {
+	"country": "加拿大",
+	"city": "基奇纳"
+}, {
+	"country": "加拿大",
+	"city": "金斯敦"
+}, {
+	"country": "加拿大",
+	"city": "卡里加里"
+}, {
+	"country": "加拿大",
+	"city": "魁北克"
+}, {
+	"country": "加拿大",
+	"city": "里贾纳"
+}, {
+	"country": "加拿大",
+	"city": "伦敦"
+}, {
+	"country": "加拿大",
+	"city": "蒙特利尔"
+}, {
+	"country": "加拿大",
+	"city": "萨德伯里"
+}, {
+	"country": "加拿大",
+	"city": "萨斯卡通"
+}, {
+	"country": "加拿大",
+	"city": "三河城"
+}, {
+	"country": "加拿大",
+	"city": "桑德贝"
+}, {
+	"country": "加拿大",
+	"city": "舍布鲁克"
+}, {
+	"country": "加拿大",
+	"city": "圣卡塔琳娜"
+}, {
+	"country": "加拿大",
+	"city": "圣约翰斯"
+}, {
+	"country": "加拿大",
+	"city": "维多利亚"
+}, {
+	"country": "加拿大",
+	"city": "温哥华"
+}, {
+	"country": "加拿大",
+	"city": "温尼伯"
+}, {
+	"country": "加拿大",
+	"city": "温莎"
+}, {
+	"country": "加拿大",
+	"city": "渥太华"
+}, {
+	"country": "加拿大",
+	"city": "夏洛特敦"
+}, {
+	"country": "加拿大",
+	"city": "耶洛奈夫"
+}, {
+	"country": "加拿大",
+	"city": "伊魁特"
+}, {
+	"country": "加纳",
+	"city": "阿散蒂"
+}, {
+	"country": "加纳",
+	"city": "奥布阿西"
+}, {
+	"country": "加纳",
+	"city": "北部"
+}, {
+	"country": "加纳",
+	"city": "布朗阿哈福"
+}, {
+	"country": "加纳",
+	"city": "大阿克拉"
+}, {
+	"country": "加纳",
+	"city": "东部"
+}, {
+	"country": "加纳",
+	"city": "上东部"
+}, {
+	"country": "加纳",
+	"city": "上西部"
+}, {
+	"country": "加纳",
+	"city": "沃尔特"
+}, {
+	"country": "加纳",
+	"city": "西部"
+}, {
+	"country": "加纳",
+	"city": "中部"
+}, {
+	"country": "加蓬",
+	"city": "奥果韦-洛洛"
+}, {
+	"country": "加蓬",
+	"city": "奥果韦-伊温多"
+}, {
+	"country": "加蓬",
+	"city": "滨海奥果韦"
+}, {
+	"country": "加蓬",
+	"city": "恩古涅"
+}, {
+	"country": "加蓬",
+	"city": "河口"
+}, {
+	"country": "加蓬",
+	"city": "尼扬加"
+}, {
+	"country": "加蓬",
+	"city": "上奥果韦"
+}, {
+	"country": "加蓬",
+	"city": "沃勒-恩特姆"
+}, {
+	"country": "加蓬",
+	"city": "中奥果韦"
+}, {
+	"country": "柬埔寨",
+	"city": "奥多棉吉"
+}, {
+	"country": "柬埔寨",
+	"city": "白马市"
+}, {
+	"country": "柬埔寨",
+	"city": "柏威夏"
+}, {
+	"country": "柬埔寨",
+	"city": "拜林市"
+}, {
+	"country": "柬埔寨",
+	"city": "班迭棉吉"
+}, {
+	"country": "柬埔寨",
+	"city": "磅清扬"
+}, {
+	"country": "柬埔寨",
+	"city": "磅士卑"
+}, {
+	"country": "柬埔寨",
+	"city": "磅同"
+}, {
+	"country": "柬埔寨",
+	"city": "磅湛"
+}, {
+	"country": "柬埔寨",
+	"city": "波罗勉"
+}, {
+	"country": "柬埔寨",
+	"city": "茶胶"
+}, {
+	"country": "柬埔寨",
+	"city": "柴桢"
+}, {
+	"country": "柬埔寨",
+	"city": "干丹"
+}, {
+	"country": "柬埔寨",
+	"city": "戈公"
+}, {
+	"country": "柬埔寨",
+	"city": "贡布"
+}, {
+	"country": "柬埔寨",
+	"city": "金边市"
+}, {
+	"country": "柬埔寨",
+	"city": "桔井"
+}, {
+	"country": "柬埔寨",
+	"city": "腊塔纳基里"
+}, {
+	"country": "柬埔寨",
+	"city": "马德望"
+}, {
+	"country": "柬埔寨",
+	"city": "蒙多基里"
+}, {
+	"country": "柬埔寨",
+	"city": "菩萨"
+}, {
+	"country": "柬埔寨",
+	"city": "上丁"
+}, {
+	"country": "柬埔寨",
+	"city": "西哈努克市"
+}, {
+	"country": "柬埔寨",
+	"city": "暹粒"
+}, {
+	"country": "捷克共和国",
+	"city": "奥洛穆茨"
+}, {
+	"country": "捷克共和国",
+	"city": "比尔森"
+}, {
+	"country": "捷克共和国",
+	"city": "布拉格直辖市"
+}, {
+	"country": "捷克共和国",
+	"city": "赫拉德茨-克拉洛韦"
+}, {
+	"country": "捷克共和国",
+	"city": "卡罗维发利"
+}, {
+	"country": "捷克共和国",
+	"city": "利贝雷克"
+}, {
+	"country": "捷克共和国",
+	"city": "摩拉维亚-西里西亚"
+}, {
+	"country": "捷克共和国",
+	"city": "南摩拉维亚"
+}, {
+	"country": "捷克共和国",
+	"city": "帕尔杜比采"
+}, {
+	"country": "捷克共和国",
+	"city": "维索基纳"
+}, {
+	"country": "捷克共和国",
+	"city": "乌斯季"
+}, {
+	"country": "捷克共和国",
+	"city": "中捷克"
+}, {
+	"country": "捷克共和国",
+	"city": "兹林"
+}, {
+	"country": "津巴布韦",
+	"city": "北马塔贝莱兰"
+}, {
+	"country": "津巴布韦",
+	"city": "布拉瓦约"
+}, {
+	"country": "津巴布韦",
+	"city": "东马绍纳兰"
+}, {
+	"country": "津巴布韦",
+	"city": "哈拉雷"
+}, {
+	"country": "津巴布韦",
+	"city": "马尼卡兰"
+}, {
+	"country": "津巴布韦",
+	"city": "马斯温戈"
+}, {
+	"country": "津巴布韦",
+	"city": "南马塔贝莱兰"
+}, {
+	"country": "津巴布韦",
+	"city": "西马绍纳兰"
+}, {
+	"country": "津巴布韦",
+	"city": "中部"
+}, {
+	"country": "津巴布韦",
+	"city": "中马绍纳兰"
+}, {
+	"country": "喀麦隆",
+	"city": "阿达马瓦"
+}, {
+	"country": "喀麦隆",
+	"city": "北部"
+}, {
+	"country": "喀麦隆",
+	"city": "北端"
+}, {
+	"country": "喀麦隆",
+	"city": "滨海"
+}, {
+	"country": "喀麦隆",
+	"city": "东部"
+}, {
+	"country": "喀麦隆",
+	"city": "南部"
+}, {
+	"country": "喀麦隆",
+	"city": "西北"
+}, {
+	"country": "喀麦隆",
+	"city": "西部"
+}, {
+	"country": "喀麦隆",
+	"city": "西南"
+}, {
+	"country": "喀麦隆",
+	"city": "中央"
+}, {
+	"country": "卡塔尔",
+	"city": "北部"
+}, {
+	"country": "卡塔尔",
+	"city": "多哈"
+}, {
+	"country": "卡塔尔",
+	"city": "古韦里耶"
+}, {
+	"country": "卡塔尔",
+	"city": "豪尔"
+}, {
+	"country": "卡塔尔",
+	"city": "杰里扬拜特奈"
+}, {
+	"country": "卡塔尔",
+	"city": "赖扬"
+}, {
+	"country": "卡塔尔",
+	"city": "沃克拉"
+}, {
+	"country": "卡塔尔",
+	"city": "乌姆锡拉勒"
+}, {
+	"country": "卡塔尔",
+	"city": "朱迈利耶"
+}, {
+	"country": "科特迪瓦",
+	"city": "阿涅比"
+}, {
+	"country": "科特迪瓦",
+	"city": "巴芬"
+}, {
+	"country": "科特迪瓦",
+	"city": "邦达马河谷"
+}, {
+	"country": "科特迪瓦",
+	"city": "登盖莱"
+}, {
+	"country": "科特迪瓦",
+	"city": "恩济－科莫埃"
+}, {
+	"country": "科特迪瓦",
+	"city": "弗罗马格尔"
+}, {
+	"country": "科特迪瓦",
+	"city": "湖泊"
+}, {
+	"country": "科特迪瓦",
+	"city": "马拉韦"
+}, {
+	"country": "科特迪瓦",
+	"city": "南邦达马"
+}, {
+	"country": "科特迪瓦",
+	"city": "南科莫埃"
+}, {
+	"country": "科特迪瓦",
+	"city": "萨桑德拉"
+}, {
+	"country": "科特迪瓦",
+	"city": "萨瓦纳"
+}, {
+	"country": "科特迪瓦",
+	"city": "山地"
+}, {
+	"country": "科特迪瓦",
+	"city": "沃罗杜古"
+}, {
+	"country": "科特迪瓦",
+	"city": "下萨桑德拉"
+}, {
+	"country": "科特迪瓦",
+	"city": "泻湖"
+}, {
+	"country": "科特迪瓦",
+	"city": "赞赞"
+}, {
+	"country": "科特迪瓦",
+	"city": "中卡瓦利"
+}, {
+	"country": "科特迪瓦",
+	"city": "中科莫埃"
+}, {
+	"country": "克罗地亚",
+	"city": "奥西耶克-巴拉尼亚"
+}, {
+	"country": "克罗地亚",
+	"city": "别洛瓦尔-比洛戈拉"
+}, {
+	"country": "克罗地亚",
+	"city": "滨海和山区"
+}, {
+	"country": "克罗地亚",
+	"city": "波热加-斯拉沃尼亚"
+}, {
+	"country": "克罗地亚",
+	"city": "布罗德-波萨维纳"
+}, {
+	"country": "克罗地亚",
+	"city": "杜布罗夫斯克-内雷特瓦"
+}, {
+	"country": "克罗地亚",
+	"city": "卡尔洛瓦茨"
+}, {
+	"country": "克罗地亚",
+	"city": "科普里夫尼察-克里热夫齐"
+}, {
+	"country": "克罗地亚",
+	"city": "克拉皮纳-扎戈列"
+}, {
+	"country": "克罗地亚",
+	"city": "利卡-塞尼"
+}, {
+	"country": "克罗地亚",
+	"city": "梅吉穆列"
+}, {
+	"country": "克罗地亚",
+	"city": "萨格勒布"
+}, {
+	"country": "克罗地亚",
+	"city": "萨格勒布市"
+}, {
+	"country": "克罗地亚",
+	"city": "斯普利特-达尔马提亚"
+}, {
+	"country": "克罗地亚",
+	"city": "瓦拉日丁"
+}, {
+	"country": "克罗地亚",
+	"city": "维罗维蒂察-波德拉维纳"
+}, {
+	"country": "克罗地亚",
+	"city": "武科瓦尔-斯里耶姆"
+}, {
+	"country": "克罗地亚",
+	"city": "希贝尼克-克宁"
+}, {
+	"country": "克罗地亚",
+	"city": "锡萨克-莫斯拉维纳"
+}, {
+	"country": "克罗地亚",
+	"city": "伊斯特拉"
+}, {
+	"country": "克罗地亚",
+	"city": "扎达尔"
+}, {
+	"country": "肯尼亚",
+	"city": "埃尔格约-马拉奎特"
+}, {
+	"country": "肯尼亚",
+	"city": "巴林戈"
+}, {
+	"country": "肯尼亚",
+	"city": "邦戈马"
+}, {
+	"country": "肯尼亚",
+	"city": "博美特"
+}, {
+	"country": "肯尼亚",
+	"city": "布希亚"
+}, {
+	"country": "肯尼亚",
+	"city": "恩布"
+}, {
+	"country": "肯尼亚",
+	"city": "霍马湾"
+}, {
+	"country": "肯尼亚",
+	"city": "基安布"
+}, {
+	"country": "肯尼亚",
+	"city": "基里菲"
+}, {
+	"country": "肯尼亚",
+	"city": "基里尼亚加"
+}, {
+	"country": "肯尼亚",
+	"city": "基苏木"
+}, {
+	"country": "肯尼亚",
+	"city": "基图伊"
+}, {
+	"country": "肯尼亚",
+	"city": "基西"
+}, {
+	"country": "肯尼亚",
+	"city": "加里萨"
+}, {
+	"country": "肯尼亚",
+	"city": "卡卡梅加"
+}, {
+	"country": "肯尼亚",
+	"city": "卡耶亚多"
+}, {
+	"country": "肯尼亚",
+	"city": "凯里乔"
+}, {
+	"country": "肯尼亚",
+	"city": "夸勒"
+}, {
+	"country": "肯尼亚",
+	"city": "拉木"
+}, {
+	"country": "肯尼亚",
+	"city": "莱基皮亚"
+}, {
+	"country": "肯尼亚",
+	"city": "马查科斯"
+}, {
+	"country": "肯尼亚",
+	"city": "马瓜尼"
+}, {
+	"country": "肯尼亚",
+	"city": "马萨布布"
+}, {
+	"country": "肯尼亚",
+	"city": "曼德拉"
+}, {
+	"country": "肯尼亚",
+	"city": "梅鲁"
+}, {
+	"country": "肯尼亚",
+	"city": "蒙巴萨"
+}, {
+	"country": "肯尼亚",
+	"city": "米戈利"
+}, {
+	"country": "肯尼亚",
+	"city": "穆兰卡"
+}, {
+	"country": "肯尼亚",
+	"city": "纳库鲁"
+}, {
+	"country": "肯尼亚",
+	"city": "纳罗克"
+}, {
+	"country": "肯尼亚",
+	"city": "南迪"
+}, {
+	"country": "肯尼亚",
+	"city": "内罗毕"
+}, {
+	"country": "肯尼亚",
+	"city": "尼蒂"
+}, {
+	"country": "肯尼亚",
+	"city": "尼亚米拉"
+}, {
+	"country": "肯尼亚",
+	"city": "年达鲁阿"
+}, {
+	"country": "肯尼亚",
+	"city": "涅里"
+}, {
+	"country": "肯尼亚",
+	"city": "桑布卢"
+}, {
+	"country": "肯尼亚",
+	"city": "塔纳河"
+}, {
+	"country": "肯尼亚",
+	"city": "泰塔塔维塔"
+}, {
+	"country": "肯尼亚",
+	"city": "特兰斯-恩佐亚"
+}, {
+	"country": "肯尼亚",
+	"city": "图尔卡纳"
+}, {
+	"country": "肯尼亚",
+	"city": "瓦吉尔"
+}, {
+	"country": "肯尼亚",
+	"city": "瓦辛基苏"
+}, {
+	"country": "肯尼亚",
+	"city": "韦希加"
+}, {
+	"country": "肯尼亚",
+	"city": "西波克特"
+}, {
+	"country": "肯尼亚",
+	"city": "夏亚"
+}, {
+	"country": "肯尼亚",
+	"city": "伊希约洛"
+}, {
+	"country": "肯尼亚",
+	"city": "中央"
+}, {
+	"country": "拉脱维亚",
+	"city": "阿卢克斯内"
+}, {
+	"country": "拉脱维亚",
+	"city": "爱兹克劳克雷"
+}, {
+	"country": "拉脱维亚",
+	"city": "奥格雷"
+}, {
+	"country": "拉脱维亚",
+	"city": "巴尔维"
+}, {
+	"country": "拉脱维亚",
+	"city": "包斯卡"
+}, {
+	"country": "拉脱维亚",
+	"city": "采西斯"
+}, {
+	"country": "拉脱维亚",
+	"city": "多贝莱"
+}, {
+	"country": "拉脱维亚",
+	"city": "古尔贝内"
+}, {
+	"country": "拉脱维亚",
+	"city": "杰卡布皮尔斯"
+}, {
+	"country": "拉脱维亚",
+	"city": "克拉斯拉瓦"
+}, {
+	"country": "拉脱维亚",
+	"city": "库尔迪加"
+}, {
+	"country": "拉脱维亚",
+	"city": "雷泽克内"
+}, {
+	"country": "拉脱维亚",
+	"city": "里加"
+}, {
+	"country": "拉脱维亚",
+	"city": "利耶帕亚"
+}, {
+	"country": "拉脱维亚",
+	"city": "林巴济"
+}, {
+	"country": "拉脱维亚",
+	"city": "卢扎"
+}, {
+	"country": "拉脱维亚",
+	"city": "马多纳"
+}, {
+	"country": "拉脱维亚",
+	"city": "普雷利"
+}, {
+	"country": "拉脱维亚",
+	"city": "萨尔杜斯"
+}, {
+	"country": "拉脱维亚",
+	"city": "塔尔西"
+}, {
+	"country": "拉脱维亚",
+	"city": "陶格夫皮尔斯"
+}, {
+	"country": "拉脱维亚",
+	"city": "图库马"
+}, {
+	"country": "拉脱维亚",
+	"city": "瓦尔加"
+}, {
+	"country": "拉脱维亚",
+	"city": "瓦尔米耶拉"
+}, {
+	"country": "拉脱维亚",
+	"city": "文茨皮尔斯"
+}, {
+	"country": "拉脱维亚",
+	"city": "叶尔加瓦"
+}, {
+	"country": "莱索托",
+	"city": "伯里亚"
+}, {
+	"country": "莱索托",
+	"city": "布塔布泰"
+}, {
+	"country": "莱索托",
+	"city": "古廷"
+}, {
+	"country": "莱索托",
+	"city": "加查斯内克"
+}, {
+	"country": "莱索托",
+	"city": "莱里贝"
+}, {
+	"country": "莱索托",
+	"city": "马费滕"
+}, {
+	"country": "莱索托",
+	"city": "马塞卢"
+}, {
+	"country": "莱索托",
+	"city": "莫哈莱斯胡克"
+}, {
+	"country": "莱索托",
+	"city": "莫霍特隆"
+}, {
+	"country": "莱索托",
+	"city": "塔巴采卡"
+}, {
+	"country": "老挝",
+	"city": "阿速坡"
+}, {
+	"country": "老挝",
+	"city": "波里坎赛"
+}, {
+	"country": "老挝",
+	"city": "博乔"
+}, {
+	"country": "老挝",
+	"city": "川圹"
+}, {
+	"country": "老挝",
+	"city": "丰沙里"
+}, {
+	"country": "老挝",
+	"city": "甘蒙"
+}, {
+	"country": "老挝",
+	"city": "华潘"
+}, {
+	"country": "老挝",
+	"city": "琅勃拉邦"
+}, {
+	"country": "老挝",
+	"city": "琅南塔"
+}, {
+	"country": "老挝",
+	"city": "赛宋本行政特区"
+}, {
+	"country": "老挝",
+	"city": "色贡"
+}, {
+	"country": "老挝",
+	"city": "沙拉湾"
+}, {
+	"country": "老挝",
+	"city": "沙湾拿吉"
+}, {
+	"country": "老挝",
+	"city": "沙耶武里"
+}, {
+	"country": "老挝",
+	"city": "万象"
+}, {
+	"country": "老挝",
+	"city": "乌多姆赛"
+}, {
+	"country": "老挝",
+	"city": "占巴塞"
+}, {
+	"country": "黎巴嫩",
+	"city": "北部"
+}, {
+	"country": "黎巴嫩",
+	"city": "贝卡"
+}, {
+	"country": "黎巴嫩",
+	"city": "贝鲁特"
+}, {
+	"country": "黎巴嫩",
+	"city": "黎巴嫩山"
+}, {
+	"country": "黎巴嫩",
+	"city": "奈拜提耶市"
+}, {
+	"country": "黎巴嫩",
+	"city": "南部"
+}, {
+	"country": "利比里亚",
+	"city": "巴波卢"
+}, {
+	"country": "利比里亚",
+	"city": "邦"
+}, {
+	"country": "利比里亚",
+	"city": "博波卢"
+}, {
+	"country": "利比里亚",
+	"city": "博米"
+}, {
+	"country": "利比里亚",
+	"city": "大巴萨"
+}, {
+	"country": "利比里亚",
+	"city": "大吉德"
+}, {
+	"country": "利比里亚",
+	"city": "大角山"
+}, {
+	"country": "利比里亚",
+	"city": "大克鲁"
+}, {
+	"country": "利比里亚",
+	"city": "菲什敦"
+}, {
+	"country": "利比里亚",
+	"city": "吉河"
+}, {
+	"country": "利比里亚",
+	"city": "里弗塞斯"
+}, {
+	"country": "利比里亚",
+	"city": "洛法"
+}, {
+	"country": "利比里亚",
+	"city": "马吉比"
+}, {
+	"country": "利比里亚",
+	"city": "马里兰"
+}, {
+	"country": "利比里亚",
+	"city": "蒙特塞拉多"
+}, {
+	"country": "利比里亚",
+	"city": "宁巴"
+}, {
+	"country": "利比里亚",
+	"city": "锡诺"
+}, {
+	"country": "立陶宛",
+	"city": "阿利图斯"
+}, {
+	"country": "立陶宛",
+	"city": "考纳斯"
+}, {
+	"country": "立陶宛",
+	"city": "克莱佩达"
+}, {
+	"country": "立陶宛",
+	"city": "马里扬泊列"
+}, {
+	"country": "立陶宛",
+	"city": "帕涅韦日斯"
+}, {
+	"country": "立陶宛",
+	"city": "陶拉格"
+}, {
+	"country": "立陶宛",
+	"city": "特尔希艾"
+}, {
+	"country": "立陶宛",
+	"city": "维尔纽斯"
+}, {
+	"country": "立陶宛",
+	"city": "乌田纳"
+}, {
+	"country": "立陶宛",
+	"city": "希奥利艾"
+}, {
+	"country": "立陶宛",
+	"city": "亚克曼"
+}, {
+	"country": "卢森堡",
+	"city": "迪基希"
+}, {
+	"country": "卢森堡",
+	"city": "格雷文马赫"
+}, {
+	"country": "卢森堡",
+	"city": "卢森堡"
+}, {
+	"country": "卢旺达",
+	"city": "比温巴"
+}, {
+	"country": "卢旺达",
+	"city": "布塔雷"
+}, {
+	"country": "卢旺达",
+	"city": "恩延扎"
+}, {
+	"country": "卢旺达",
+	"city": "基本古"
+}, {
+	"country": "卢旺达",
+	"city": "基布耶"
+}, {
+	"country": "卢旺达",
+	"city": "基加利-恩加利"
+}, {
+	"country": "卢旺达",
+	"city": "基加利市"
+}, {
+	"country": "卢旺达",
+	"city": "吉孔戈罗"
+}, {
+	"country": "卢旺达",
+	"city": "吉塞尼"
+}, {
+	"country": "卢旺达",
+	"city": "吉塔拉马"
+}, {
+	"country": "卢旺达",
+	"city": "卡布加"
+}, {
+	"country": "卢旺达",
+	"city": "卢瓦马加纳"
+}, {
+	"country": "卢旺达",
+	"city": "鲁汉戈"
+}, {
+	"country": "卢旺达",
+	"city": "鲁亨盖里"
+}, {
+	"country": "卢旺达",
+	"city": "尚古古"
+}, {
+	"country": "卢旺达",
+	"city": "乌姆塔拉"
+}, {
+	"country": "罗马尼亚",
+	"city": "阿尔巴尤利亚"
+}, {
+	"country": "罗马尼亚",
+	"city": "阿拉德"
+}, {
+	"country": "罗马尼亚",
+	"city": "奥拉迪亚"
+}, {
+	"country": "罗马尼亚",
+	"city": "巴克乌"
+}, {
+	"country": "罗马尼亚",
+	"city": "巴亚马雷"
+}, {
+	"country": "罗马尼亚",
+	"city": "比斯特里察"
+}, {
+	"country": "罗马尼亚",
+	"city": "博托沙尼"
+}, {
+	"country": "罗马尼亚",
+	"city": "布加勒斯特"
+}, {
+	"country": "罗马尼亚",
+	"city": "布拉索夫"
+}, {
+	"country": "罗马尼亚",
+	"city": "布勒伊拉"
+}, {
+	"country": "罗马尼亚",
+	"city": "布泽乌"
+}, {
+	"country": "罗马尼亚",
+	"city": "德罗贝塔-塞维林堡"
+}, {
+	"country": "罗马尼亚",
+	"city": "德瓦"
+}, {
+	"country": "罗马尼亚",
+	"city": "蒂米什瓦拉"
+}, {
+	"country": "罗马尼亚",
+	"city": "福克沙尼"
+}, {
+	"country": "罗马尼亚",
+	"city": "加拉茨"
+}, {
+	"country": "罗马尼亚",
+	"city": "久尔久"
+}, {
+	"country": "罗马尼亚",
+	"city": "康斯坦察"
+}, {
+	"country": "罗马尼亚",
+	"city": "克拉约瓦"
+}, {
+	"country": "罗马尼亚",
+	"city": "克勒拉希"
+}, {
+	"country": "罗马尼亚",
+	"city": "克卢日纳波卡"
+}, {
+	"country": "罗马尼亚",
+	"city": "勒姆尼库沃尔恰"
+}, {
+	"country": "罗马尼亚",
+	"city": "雷希察"
+}, {
+	"country": "罗马尼亚",
+	"city": "梅尔库里亚丘克"
+}, {
+	"country": "罗马尼亚",
+	"city": "皮特什蒂"
+}, {
+	"country": "罗马尼亚",
+	"city": "皮亚特拉尼亚姆茨"
+}, {
+	"country": "罗马尼亚",
+	"city": "普洛耶什蒂"
+}, {
+	"country": "罗马尼亚",
+	"city": "萨图·马雷"
+}, {
+	"country": "罗马尼亚",
+	"city": "圣格奥尔基"
+}, {
+	"country": "罗马尼亚",
+	"city": "斯拉蒂纳"
+}, {
+	"country": "罗马尼亚",
+	"city": "斯洛博齐亚"
+}, {
+	"country": "罗马尼亚",
+	"city": "苏恰瓦"
+}, {
+	"country": "罗马尼亚",
+	"city": "特尔戈维什泰"
+}, {
+	"country": "罗马尼亚",
+	"city": "特尔古穆列什"
+}, {
+	"country": "罗马尼亚",
+	"city": "特尔古日乌"
+}, {
+	"country": "罗马尼亚",
+	"city": "图尔恰"
+}, {
+	"country": "罗马尼亚",
+	"city": "瓦斯卢伊"
+}, {
+	"country": "罗马尼亚",
+	"city": "锡比乌"
+}, {
+	"country": "罗马尼亚",
+	"city": "雅西"
+}, {
+	"country": "罗马尼亚",
+	"city": "亚厉山德里亚"
+}, {
+	"country": "罗马尼亚",
+	"city": "扎勒乌"
+}, {
+	"country": "马达加斯加",
+	"city": "安齐拉纳纳"
+}, {
+	"country": "马达加斯加",
+	"city": "菲亚纳兰楚阿"
+}, {
+	"country": "马达加斯加",
+	"city": "马哈赞加"
+}, {
+	"country": "马达加斯加",
+	"city": "塔那那利佛"
+}, {
+	"country": "马达加斯加",
+	"city": "图阿马西拉"
+}, {
+	"country": "马达加斯加",
+	"city": "图利亚拉"
+}, {
+	"country": "马尔代夫",
+	"city": "阿杜"
+}, {
+	"country": "马尔代夫",
+	"city": "北阿里"
+}, {
+	"country": "马尔代夫",
+	"city": "北蒂拉杜马蒂"
+}, {
+	"country": "马尔代夫",
+	"city": "北马洛斯马杜卢"
+}, {
+	"country": "马尔代夫",
+	"city": "北米拉杜马杜卢"
+}, {
+	"country": "马尔代夫",
+	"city": "北尼兰杜"
+}, {
+	"country": "马尔代夫",
+	"city": "北苏瓦迪瓦"
+}, {
+	"country": "马尔代夫",
+	"city": "法迪福卢"
+}, {
+	"country": "马尔代夫",
+	"city": "费利杜"
+}, {
+	"country": "马尔代夫",
+	"city": "福阿穆拉库"
+}, {
+	"country": "马尔代夫",
+	"city": "哈杜马蒂"
+}, {
+	"country": "马尔代夫",
+	"city": "科卢马杜卢"
+}, {
+	"country": "马尔代夫",
+	"city": "马累"
+}, {
+	"country": "马尔代夫",
+	"city": "马累岛"
+}, {
+	"country": "马尔代夫",
+	"city": "穆拉库"
+}, {
+	"country": "马尔代夫",
+	"city": "南阿里"
+}, {
+	"country": "马尔代夫",
+	"city": "南蒂拉杜马蒂"
+}, {
+	"country": "马尔代夫",
+	"city": "南马洛斯马杜卢"
+}, {
+	"country": "马尔代夫",
+	"city": "南米拉杜马杜卢"
+}, {
+	"country": "马尔代夫",
+	"city": "南尼兰杜"
+}, {
+	"country": "马尔代夫",
+	"city": "南苏瓦迪瓦"
+}, {
+	"country": "马拉维",
+	"city": "北部区"
+}, {
+	"country": "马拉维",
+	"city": "南部区"
+}, {
+	"country": "马拉维",
+	"city": "中央区"
+}, {
+	"country": "马来西亚",
+	"city": "北海",
+	"state": "槟榔屿"
+}, {
+	"country": "马来西亚",
+	"city": "槟城",
+	"state": "槟榔屿"
+}, {
+	"country": "马来西亚",
+	"city": "大山脚",
+	"state": "槟榔屿"
+}, {
+	"country": "马来西亚",
+	"city": "高渊",
+	"state": "槟榔屿"
+}, {
+	"country": "马来西亚",
+	"city": "加央",
+	"state": "玻璃市"
+}, {
+	"country": "马来西亚",
+	"city": "甘马挽",
+	"state": "丁加奴"
+}, {
+	"country": "马来西亚",
+	"city": "瓜拉丁加奴",
+	"state": "丁加奴"
+}, {
+	"country": "马来西亚",
+	"city": "龙运",
+	"state": "丁加奴"
+}, {
+	"country": "马来西亚",
+	"city": "马江",
+	"state": "丁加奴"
+}, {
+	"country": "马来西亚",
+	"city": "实兆",
+	"state": "丁加奴"
+}, {
+	"country": "马来西亚",
+	"city": "乌鲁",
+	"state": "丁加奴"
+}, {
+	"country": "马来西亚",
+	"city": "勿述",
+	"state": "丁加奴"
+}, {
+	"country": "马来西亚",
+	"city": "巴东得腊",
+	"state": "吉打"
+}, {
+	"country": "马来西亚",
+	"city": "笨筒",
+	"state": "吉打"
+}, {
+	"country": "马来西亚",
+	"city": "浮罗交怡",
+	"state": "吉打"
+}, {
+	"country": "马来西亚",
+	"city": "哥打士打",
+	"state": "吉打"
+}, {
+	"country": "马来西亚",
+	"city": "古邦巴素",
+	"state": "吉打"
+}, {
+	"country": "马来西亚",
+	"city": "瓜拉姆达",
+	"state": "吉打"
+}, {
+	"country": "马来西亚",
+	"city": "华玲",
+	"state": "吉打"
+}, {
+	"country": "马来西亚",
+	"city": "居林",
+	"state": "吉打"
+}, {
+	"country": "马来西亚",
+	"city": "万拉峇鲁",
+	"state": "吉打"
+}, {
+	"country": "马来西亚",
+	"city": "巴西富地",
+	"state": "吉兰丹"
+}, {
+	"country": "马来西亚",
+	"city": "巴西马",
+	"state": "吉兰丹"
+}, {
+	"country": "马来西亚",
+	"city": "丹那美拉",
+	"state": "吉兰丹"
+}, {
+	"country": "马来西亚",
+	"city": "道北",
+	"state": "吉兰丹"
+}, {
+	"country": "马来西亚",
+	"city": "登卓",
+	"state": "吉兰丹"
+}, {
+	"country": "马来西亚",
+	"city": "哥打巴鲁",
+	"state": "吉兰丹"
+}, {
+	"country": "马来西亚",
+	"city": "瓜拉吉赖",
+	"state": "吉兰丹"
+}, {
+	"country": "马来西亚",
+	"city": "话望生",
+	"state": "吉兰丹"
+}, {
+	"country": "马来西亚",
+	"city": "马樟",
+	"state": "吉兰丹"
+}, {
+	"country": "马来西亚",
+	"city": "日里",
+	"state": "吉兰丹"
+}, {
+	"country": "马来西亚",
+	"city": "吉隆坡",
+	"state": "吉隆坡"
+}, {
+	"country": "马来西亚",
+	"city": "马六甲市",
+	"state": "马六甲"
+}, {
+	"country": "马来西亚",
+	"city": "亚罗牙也",
+	"state": "马六甲"
+}, {
+	"country": "马来西亚",
+	"city": "野新",
+	"state": "马六甲"
+}, {
+	"country": "马来西亚",
+	"city": "纳闽",
+	"state": "纳闽"
+}, {
+	"country": "马来西亚",
+	"city": "维多利亚",
+	"state": "纳闽"
+}, {
+	"country": "马来西亚",
+	"city": "百乐",
+	"state": "彭亨"
+}, {
+	"country": "马来西亚",
+	"city": "北根",
+	"state": "彭亨"
+}, {
+	"country": "马来西亚",
+	"city": "淡马鲁",
+	"state": "彭亨"
+}, {
+	"country": "马来西亚",
+	"city": "而连突",
+	"state": "彭亨"
+}, {
+	"country": "马来西亚",
+	"city": "关丹",
+	"state": "彭亨"
+}, {
+	"country": "马来西亚",
+	"city": "金马仑高原",
+	"state": "彭亨"
+}, {
+	"country": "马来西亚",
+	"city": "劳勿",
+	"state": "彭亨"
+}, {
+	"country": "马来西亚",
+	"city": "立卑",
+	"state": "彭亨"
+}, {
+	"country": "马来西亚",
+	"city": "马兰",
+	"state": "彭亨"
+}, {
+	"country": "马来西亚",
+	"city": "文冬",
+	"state": "彭亨"
+}, {
+	"country": "马来西亚",
+	"city": "云冰",
+	"state": "彭亨"
+}, {
+	"country": "马来西亚",
+	"city": "安顺",
+	"state": "霹雳"
+}, {
+	"country": "马来西亚",
+	"city": "丹绒马",
+	"state": "霹雳"
+}, {
+	"country": "马来西亚",
+	"city": "和丰",
+	"state": "霹雳"
+}, {
+	"country": "马来西亚",
+	"city": "紅土坎",
+	"state": "霹雳"
+}, {
+	"country": "马来西亚",
+	"city": "华都牙也",
+	"state": "霹雳"
+}, {
+	"country": "马来西亚",
+	"city": "江沙",
+	"state": "霹雳"
+}, {
+	"country": "马来西亚",
+	"city": "太平",
+	"state": "霹雳"
+}, {
+	"country": "马来西亚",
+	"city": "怡保",
+	"state": "霹雳"
+}, {
+	"country": "马来西亚",
+	"city": "笨珍",
+	"state": "柔佛"
+}, {
+	"country": "马来西亚",
+	"city": "丰盛港",
+	"state": "柔佛"
+}, {
+	"country": "马来西亚",
+	"city": "哥打丁宜",
+	"state": "柔佛"
+}, {
+	"country": "马来西亚",
+	"city": "居銮",
+	"state": "柔佛"
+}, {
+	"country": "马来西亚",
+	"city": "峇株巴辖",
+	"state": "柔佛"
+}, {
+	"country": "马来西亚",
+	"city": "麻坡",
+	"state": "柔佛"
+}, {
+	"country": "马来西亚",
+	"city": "昔加末",
+	"state": "柔佛"
+}, {
+	"country": "马来西亚",
+	"city": "新山",
+	"state": "柔佛"
+}, {
+	"country": "马来西亚",
+	"city": "波德申",
+	"state": "森美兰"
+}, {
+	"country": "马来西亚",
+	"city": "淡边",
+	"state": "森美兰"
+}, {
+	"country": "马来西亚",
+	"city": "芙蓉",
+	"state": "森美兰"
+}, {
+	"country": "马来西亚",
+	"city": "瓜拉庇劳",
+	"state": "森美兰"
+}, {
+	"country": "马来西亚",
+	"city": "林茂",
+	"state": "森美兰"
+}, {
+	"country": "马来西亚",
+	"city": "仁保",
+	"state": "森美兰"
+}, {
+	"country": "马来西亚",
+	"city": "日叻务",
+	"state": "森美兰"
+}, {
+	"country": "马来西亚",
+	"city": "吧巴",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "保佛",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "比鲁兰",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "必达士",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "兵南邦",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "担布南",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "丹南",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "斗湖",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "斗亚兰",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "哥打基纳巴鲁",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "哥打马鲁都",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "根地咬",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "古达",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "古打毛律",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "古纳",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "瓜拉班尤",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "京那巴登岸",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "兰脑",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "拿笃",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "纳巴湾",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "山打根",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "西比陶",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "仙本那",
+	"state": "沙巴"
+}, {
+	"country": "马来西亚",
+	"city": "古晋",
+	"state": "沙捞越"
+}, {
+	"country": "马来西亚",
+	"city": "加帛",
+	"state": "沙捞越"
+}, {
+	"country": "马来西亚",
+	"city": "林梦",
+	"state": "沙捞越"
+}, {
+	"country": "马来西亚",
+	"city": "美里",
+	"state": "沙捞越"
+}, {
+	"country": "马来西亚",
+	"city": "民都鲁",
+	"state": "沙捞越"
+}, {
+	"country": "马来西亚",
+	"city": "木胶",
+	"state": "沙捞越"
+}, {
+	"country": "马来西亚",
+	"city": "木中",
+	"state": "沙捞越"
+}, {
+	"country": "马来西亚",
+	"city": "三马拉汉",
+	"state": "沙捞越"
+}, {
+	"country": "马来西亚",
+	"city": "斯里阿曼",
+	"state": "沙捞越"
+}, {
+	"country": "马来西亚",
+	"city": "泗里街",
+	"state": "沙捞越"
+}, {
+	"country": "马来西亚",
+	"city": "泗务",
+	"state": "沙捞越"
+}, {
+	"country": "马来西亚",
+	"city": "八打灵",
+	"state": "雪兰莪"
+}, {
+	"country": "马来西亚",
+	"city": "鹅麦",
+	"state": "雪兰莪"
+}, {
+	"country": "马来西亚",
+	"city": "瓜拉冷岳",
+	"state": "雪兰莪"
+}, {
+	"country": "马来西亚",
+	"city": "瓜拉雪兰莪",
+	"state": "雪兰莪"
+}, {
+	"country": "马来西亚",
+	"city": "沙白安南",
+	"state": "雪兰莪"
+}, {
+	"country": "马来西亚",
+	"city": "乌鲁冷岳",
+	"state": "雪兰莪"
+}, {
+	"country": "马来西亚",
+	"city": "乌鲁雪兰莪",
+	"state": "雪兰莪"
+}, {
+	"country": "马来西亚",
+	"city": "雪邦",
+	"state": "雪兰莪"
+}, {
+	"country": "马里",
+	"city": "巴马科首都区"
+}, {
+	"country": "马里",
+	"city": "基达尔"
+}, {
+	"country": "马里",
+	"city": "加奥"
+}, {
+	"country": "马里",
+	"city": "卡伊"
+}, {
+	"country": "马里",
+	"city": "库利科罗"
+}, {
+	"country": "马里",
+	"city": "莫普提"
+}, {
+	"country": "马里",
+	"city": "塞古"
+}, {
+	"country": "马里",
+	"city": "通布图"
+}, {
+	"country": "马里",
+	"city": "锡卡索"
+}, {
+	"country": "毛里塔尼亚",
+	"city": "阿德拉尔"
+}, {
+	"country": "毛里塔尼亚",
+	"city": "阿萨巴"
+}, {
+	"country": "毛里塔尼亚",
+	"city": "卜拉克纳"
+}, {
+	"country": "毛里塔尼亚",
+	"city": "东胡德"
+}, {
+	"country": "毛里塔尼亚",
+	"city": "戈尔戈勒"
+}, {
+	"country": "毛里塔尼亚",
+	"city": "吉迪马卡"
+}, {
+	"country": "毛里塔尼亚",
+	"city": "努瓦迪布湾"
+}, {
+	"country": "毛里塔尼亚",
+	"city": "努瓦克肖特特区"
+}, {
+	"country": "毛里塔尼亚",
+	"city": "塔甘特"
+}, {
+	"country": "毛里塔尼亚",
+	"city": "特拉扎"
+}, {
+	"country": "毛里塔尼亚",
+	"city": "提里斯-宰穆尔"
+}, {
+	"country": "毛里塔尼亚",
+	"city": "西胡德"
+}, {
+	"country": "毛里塔尼亚",
+	"city": "因希里"
+}, {
+	"country": "美国",
+	"city": "费耶特维尔",
+	"state": "阿肯色"
+}, {
+	"country": "美国",
+	"city": "史密斯堡",
+	"state": "阿肯色"
+}, {
+	"country": "美国",
+	"city": "小石城",
+	"state": "阿肯色"
+}, {
+	"country": "美国",
+	"city": "伯明罕",
+	"state": "阿拉巴马"
+}, {
+	"country": "美国",
+	"city": "蒙哥马利",
+	"state": "阿拉巴马"
+}, {
+	"country": "美国",
+	"city": "莫比尔",
+	"state": "阿拉巴马"
+}, {
+	"country": "美国",
+	"city": "安克雷奇",
+	"state": "阿拉斯加"
+}, {
+	"country": "美国",
+	"city": "费尔班克斯",
+	"state": "阿拉斯加"
+}, {
+	"country": "美国",
+	"city": "朱诺",
+	"state": "阿拉斯加"
+}, {
+	"country": "美国",
+	"city": "爱达荷福尔斯",
+	"state": "爱达荷"
+}, {
+	"country": "美国",
+	"city": "波卡特洛",
+	"state": "爱达荷"
+}, {
+	"country": "美国",
+	"city": "博伊西",
+	"state": "爱达荷"
+}, {
+	"country": "美国",
+	"city": "布莱克富特",
+	"state": "爱达荷"
+}, {
+	"country": "美国",
+	"city": "科达伦",
+	"state": "爱达荷"
+}, {
+	"country": "美国",
+	"city": "刘易斯顿",
+	"state": "爱达荷"
+}, {
+	"country": "美国",
+	"city": "莫斯科",
+	"state": "爱达荷"
+}, {
+	"country": "美国",
+	"city": "墨菲",
+	"state": "爱达荷"
+}, {
+	"country": "美国",
+	"city": "楠帕",
+	"state": "爱达荷"
+}, {
+	"country": "美国",
+	"city": "岂彻姆",
+	"state": "爱达荷"
+}, {
+	"country": "美国",
+	"city": "森瓦利",
+	"state": "爱达荷"
+}, {
+	"country": "美国",
+	"city": "亚美利加瀑布城",
+	"state": "爱达荷"
+}, {
+	"country": "美国",
+	"city": "达文波特",
+	"state": "爱荷华"
+}, {
+	"country": "美国",
+	"city": "得梅因",
+	"state": "爱荷华"
+}, {
+	"country": "美国",
+	"city": "锡达拉皮兹",
+	"state": "爱荷华"
+}, {
+	"country": "美国",
+	"city": "俾斯麦",
+	"state": "北达科他"
+}, {
+	"country": "美国",
+	"city": "大福克斯",
+	"state": "北达科他"
+}, {
+	"country": "美国",
+	"city": "法戈",
+	"state": "北达科他"
+}, {
+	"country": "美国",
+	"city": "迈诺特",
+	"state": "北达科他"
+}, {
+	"country": "美国",
+	"city": "艾许维尔",
+	"state": "北卡罗来纳"
+}, {
+	"country": "美国",
+	"city": "杜罕",
+	"state": "北卡罗来纳"
+}, {
+	"country": "美国",
+	"city": "格林斯伯勒",
+	"state": "北卡罗来纳"
+}, {
+	"country": "美国",
+	"city": "教堂山",
+	"state": "北卡罗来纳"
+}, {
+	"country": "美国",
+	"city": "罗利",
+	"state": "北卡罗来纳"
+}, {
+	"country": "美国",
+	"city": "洛利杜罕都会区",
+	"state": "北卡罗来纳"
+}, {
+	"country": "美国",
+	"city": "夏洛特",
+	"state": "北卡罗来纳"
+}, {
+	"country": "美国",
+	"city": "阿伦敦",
+	"state": "宾夕法尼亚"
+}, {
+	"country": "美国",
+	"city": "费城",
+	"state": "宾夕法尼亚"
+}, {
+	"country": "美国",
+	"city": "匹兹堡",
+	"state": "宾夕法尼亚"
+}, {
+	"country": "美国",
+	"city": "埃尔帕索",
+	"state": "德克萨斯"
+}, {
+	"country": "美国",
+	"city": "奥斯汀",
+	"state": "德克萨斯"
+}, {
+	"country": "美国",
+	"city": "达拉斯",
+	"state": "德克萨斯"
+}, {
+	"country": "美国",
+	"city": "哥帕斯基斯蒂",
+	"state": "德克萨斯"
+}, {
+	"country": "美国",
+	"city": "交维斯顿",
+	"state": "德克萨斯"
+}, {
+	"country": "美国",
+	"city": "拉雷多",
+	"state": "德克萨斯"
+}, {
+	"country": "美国",
+	"city": "麦亚伦",
+	"state": "德克萨斯"
+}, {
+	"country": "美国",
+	"city": "圣安东尼奥",
+	"state": "德克萨斯"
+}, {
+	"country": "美国",
+	"city": "休斯敦",
+	"state": "德克萨斯"
+}, {
+	"country": "美国",
+	"city": "代顿",
+	"state": "俄亥俄"
+}, {
+	"country": "美国",
+	"city": "哥伦布",
+	"state": "俄亥俄"
+}, {
+	"country": "美国",
+	"city": "克利夫兰",
+	"state": "俄亥俄"
+}, {
+	"country": "美国",
+	"city": "托莱多",
+	"state": "俄亥俄"
+}, {
+	"country": "美国",
+	"city": "辛辛那提",
+	"state": "俄亥俄"
+}, {
+	"country": "美国",
+	"city": "俄克拉荷马城",
+	"state": "俄克拉荷马"
+}, {
+	"country": "美国",
+	"city": "诺曼",
+	"state": "俄克拉荷马"
+}, {
+	"country": "美国",
+	"city": "塔尔萨",
+	"state": "俄克拉荷马"
+}, {
+	"country": "美国",
+	"city": "本德",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "波特兰",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "达尔斯",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "达拉斯",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "蒂拉穆克",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "格兰茨帕斯",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "胡德里弗",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "火山口湖",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "科瓦利斯",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "库斯贝",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "梅德福",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "塞勒姆",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "圣海伦斯",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "斯普林菲尔德",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "尤金",
+	"state": "俄勒冈"
+}, {
+	"country": "美国",
+	"city": "奥兰多",
+	"state": "佛罗里达"
+}, {
+	"country": "美国",
+	"city": "基韦斯特",
+	"state": "佛罗里达"
+}, {
+	"country": "美国",
+	"city": "杰克逊维尔",
+	"state": "佛罗里达"
+}, {
+	"country": "美国",
+	"city": "卡纳维尔角",
+	"state": "佛罗里达"
+}, {
+	"country": "美国",
+	"city": "罗德岱堡",
+	"state": "佛罗里达"
+}, {
+	"country": "美国",
+	"city": "迈阿密",
+	"state": "佛罗里达"
+}, {
+	"country": "美国",
+	"city": "圣彼德斯堡市",
+	"state": "佛罗里达"
+}, {
+	"country": "美国",
+	"city": "塔拉哈西",
+	"state": "佛罗里达"
+}, {
+	"country": "美国",
+	"city": "坦帕",
+	"state": "佛罗里达"
+}, {
+	"country": "美国",
+	"city": "伯灵顿",
+	"state": "佛蒙特"
+}, {
+	"country": "美国",
+	"city": "拉特兰",
+	"state": "佛蒙特"
+}, {
+	"country": "美国",
+	"city": "南伯灵顿",
+	"state": "佛蒙特"
+}, {
+	"country": "美国",
+	"city": "华盛顿哥伦比亚特区",
+	"state": "哥伦比亚特区"
+}, {
+	"country": "美国",
+	"city": "斯波坎",
+	"state": "华盛顿"
+}, {
+	"country": "美国",
+	"city": "塔科马",
+	"state": "华盛顿"
+}, {
+	"country": "美国",
+	"city": "西雅图",
+	"state": "华盛顿"
+}, {
+	"country": "美国",
+	"city": "埃文斯顿",
+	"state": "怀俄明"
+}, {
+	"country": "美国",
+	"city": "卡斯珀",
+	"state": "怀俄明"
+}, {
+	"country": "美国",
+	"city": "拉勒米",
+	"state": "怀俄明"
+}, {
+	"country": "美国",
+	"city": "罗克斯普林斯",
+	"state": "怀俄明"
+}, {
+	"country": "美国",
+	"city": "夏延",
+	"state": "怀俄明"
+}, {
+	"country": "美国",
+	"city": "谢里登",
+	"state": "怀俄明"
+}, {
+	"country": "美国",
+	"city": "旧金山",
+	"state": "加利福尼亚"
+}, {
+	"country": "美国",
+	"city": "洛杉矶",
+	"state": "加利福尼亚"
+}, {
+	"country": "美国",
+	"city": "圣迭戈",
+	"state": "加利福尼亚"
+}, {
+	"country": "美国",
+	"city": "圣何塞",
+	"state": "加利福尼亚"
+}, {
+	"country": "美国",
+	"city": "阿比林",
+	"state": "堪萨斯"
+}, {
+	"country": "美国",
+	"city": "奥弗兰公园",
+	"state": "堪萨斯"
+}, {
+	"country": "美国",
+	"city": "哈钦森",
+	"state": "堪萨斯"
+}, {
+	"country": "美国",
+	"city": "堪萨斯城",
+	"state": "堪萨斯"
+}, {
+	"country": "美国",
+	"city": "莱文沃思",
+	"state": "堪萨斯"
+}, {
+	"country": "美国",
+	"city": "劳伦斯",
+	"state": "堪萨斯"
+}, {
+	"country": "美国",
+	"city": "曼哈顿",
+	"state": "堪萨斯"
+}, {
+	"country": "美国",
+	"city": "托皮卡",
+	"state": "堪萨斯"
+}, {
+	"country": "美国",
+	"city": "威奇托",
+	"state": "堪萨斯"
+}, {
+	"country": "美国",
+	"city": "布里奇波特",
+	"state": "康涅狄格"
+}, {
+	"country": "美国",
+	"city": "达里恩",
+	"state": "康涅狄格"
+}, {
+	"country": "美国",
+	"city": "格林尼治",
+	"state": "康涅狄格"
+}, {
+	"country": "美国",
+	"city": "哈特福德",
+	"state": "康涅狄格"
+}, {
+	"country": "美国",
+	"city": "米德尔顿",
+	"state": "康涅狄格"
+}, {
+	"country": "美国",
+	"city": "纽黑文",
+	"state": "康涅狄格"
+}, {
+	"country": "美国",
+	"city": "韦斯特波特",
+	"state": "康涅狄格"
+}, {
+	"country": "美国",
+	"city": "沃特伯里",
+	"state": "康涅狄格"
+}, {
+	"country": "美国",
+	"city": "新不列颠",
+	"state": "康涅狄格"
+}, {
+	"country": "美国",
+	"city": "阿斯彭",
+	"state": "科罗拉多"
+}, {
+	"country": "美国",
+	"city": "奥罗拉",
+	"state": "科罗拉多"
+}, {
+	"country": "美国",
+	"city": "博尔德",
+	"state": "科罗拉多"
+}, {
+	"country": "美国",
+	"city": "大章克申",
+	"state": "科罗拉多"
+}, {
+	"country": "美国",
+	"city": "丹佛",
+	"state": "科罗拉多"
+}, {
+	"country": "美国",
+	"city": "柯林斯堡",
+	"state": "科罗拉多"
+}, {
+	"country": "美国",
+	"city": "科罗拉多斯普林斯",
+	"state": "科罗拉多"
+}, {
+	"country": "美国",
+	"city": "韦尔",
+	"state": "科罗拉多"
+}, {
+	"country": "美国",
+	"city": "列克星敦",
+	"state": "肯塔基"
+}, {
+	"country": "美国",
+	"city": "路易斯维尔",
+	"state": "肯塔基"
+}, {
+	"country": "美国",
+	"city": "欧文斯伯勒",
+	"state": "肯塔基"
+}, {
+	"country": "美国",
+	"city": "巴吞鲁日",
+	"state": "路易斯安那"
+}, {
+	"country": "美国",
+	"city": "什里夫波特",
+	"state": "路易斯安那"
+}, {
+	"country": "美国",
+	"city": "新奥尔良",
+	"state": "路易斯安那"
+}, {
+	"country": "美国",
+	"city": "波塔基特",
+	"state": "罗德岛"
+}, {
+	"country": "美国",
+	"city": "克兰斯顿",
+	"state": "罗德岛"
+}, {
+	"country": "美国",
+	"city": "纽波特",
+	"state": "罗德岛"
+}, {
+	"country": "美国",
+	"city": "普罗维登斯",
+	"state": "罗德岛"
+}, {
+	"country": "美国",
+	"city": "韦斯特利",
+	"state": "罗德岛"
+}, {
+	"country": "美国",
+	"city": "文索基特",
+	"state": "罗德岛"
+}, {
+	"country": "美国",
+	"city": "沃威克",
+	"state": "罗德岛"
+}, {
+	"country": "美国",
+	"city": "巴尔的摩",
+	"state": "马里兰"
+}, {
+	"country": "美国",
+	"city": "盖瑟斯堡",
+	"state": "马里兰"
+}, {
+	"country": "美国",
+	"city": "罗克维尔",
+	"state": "马里兰"
+}, {
+	"country": "美国",
+	"city": "波士顿",
+	"state": "马萨诸塞"
+}, {
+	"country": "美国",
+	"city": "斯普林菲尔德",
+	"state": "马萨诸塞"
+}, {
+	"country": "美国",
+	"city": "伍斯特",
+	"state": "马萨诸塞"
+}, {
+	"country": "美国",
+	"city": "比灵斯",
+	"state": "蒙大拿"
+}, {
+	"country": "美国",
+	"city": "大瀑布村",
+	"state": "蒙大拿"
+}, {
+	"country": "美国",
+	"city": "米苏拉",
+	"state": "蒙大拿"
+}, {
+	"country": "美国",
+	"city": "哥伦比亚",
+	"state": "密苏里"
+}, {
+	"country": "美国",
+	"city": "杰佛逊市",
+	"state": "密苏里"
+}, {
+	"country": "美国",
+	"city": "堪萨斯城",
+	"state": "密苏里"
+}, {
+	"country": "美国",
+	"city": "圣路易斯",
+	"state": "密苏里"
+}, {
+	"country": "美国",
+	"city": "斯普林菲尔德",
+	"state": "密苏里"
+}, {
+	"country": "美国",
+	"city": "比洛克西",
+	"state": "密西西比"
+}, {
+	"country": "美国",
+	"city": "格尔夫波特",
+	"state": "密西西比"
+}, {
+	"country": "美国",
+	"city": "格林维尔",
+	"state": "密西西比"
+}, {
+	"country": "美国",
+	"city": "哈蒂斯堡",
+	"state": "密西西比"
+}, {
+	"country": "美国",
+	"city": "杰克逊",
+	"state": "密西西比"
+}, {
+	"country": "美国",
+	"city": "默里迪恩",
+	"state": "密西西比"
+}, {
+	"country": "美国",
+	"city": "维克斯堡",
+	"state": "密西西比"
+}, {
+	"country": "美国",
+	"city": "安娜堡",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "巴特尔克里克",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "贝城",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "大急流城",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "迪尔伯恩",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "底特律",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "弗林特",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "怀恩多特",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "卡拉马袓",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "兰辛",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "马斯基根",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "庞菷亚克",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "萨吉诺",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "苏圣玛丽",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "沃伦",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "休伦港",
+	"state": "密歇根"
+}, {
+	"country": "美国",
+	"city": "班戈",
+	"state": "缅因"
+}, {
+	"country": "美国",
+	"city": "波特兰",
+	"state": "缅因"
+}, {
+	"country": "美国",
+	"city": "刘易斯顿",
+	"state": "缅因"
+}, {
+	"country": "美国",
+	"city": "罗切斯特",
+	"state": "明尼苏达"
+}, {
+	"country": "美国",
+	"city": "明尼阿波利斯",
+	"state": "明尼苏达"
+}, {
+	"country": "美国",
+	"city": "圣保罗",
+	"state": "明尼苏达"
+}, {
+	"country": "美国",
+	"city": "阿伯丁",
+	"state": "南达科他"
+}, {
+	"country": "美国",
+	"city": "拉皮德城",
+	"state": "南达科他"
+}, {
+	"country": "美国",
+	"city": "苏福尔斯",
+	"state": "南达科他"
+}, {
+	"country": "美国",
+	"city": "北查尔斯顿",
+	"state": "南卡罗来纳"
+}, {
+	"country": "美国",
+	"city": "查尔斯顿",
+	"state": "南卡罗来纳"
+}, {
+	"country": "美国",
+	"city": "哥伦比亚",
+	"state": "南卡罗来纳"
+}, {
+	"country": "美国",
+	"city": "奥马哈",
+	"state": "内布拉斯加"
+}, {
+	"country": "美国",
+	"city": "贝尔维尤",
+	"state": "内布拉斯加"
+}, {
+	"country": "美国",
+	"city": "林肯",
+	"state": "内布拉斯加"
+}, {
+	"country": "美国",
+	"city": "埃尔科",
+	"state": "内华达"
+}, {
+	"country": "美国",
+	"city": "北拉斯维加斯",
+	"state": "内华达"
+}, {
+	"country": "美国",
+	"city": "弗吉尼亚城",
+	"state": "内华达"
+}, {
+	"country": "美国",
+	"city": "亨德森",
+	"state": "内华达"
+}, {
+	"country": "美国",
+	"city": "卡森城",
+	"state": "内华达"
+}, {
+	"country": "美国",
+	"city": "拉斯维加斯",
+	"state": "内华达"
+}, {
+	"country": "美国",
+	"city": "里诺",
+	"state": "内华达"
+}, {
+	"country": "美国",
+	"city": "斯帕克斯",
+	"state": "内华达"
+}, {
+	"country": "美国",
+	"city": "布法罗",
+	"state": "纽约"
+}, {
+	"country": "美国",
+	"city": "罗切斯特",
+	"state": "纽约"
+}, {
+	"country": "美国",
+	"city": "纽约市",
+	"state": "纽约"
+}, {
+	"country": "美国",
+	"city": "多佛",
+	"state": "特拉华"
+}, {
+	"country": "美国",
+	"city": "纽瓦克",
+	"state": "特拉华"
+}, {
+	"country": "美国",
+	"city": "威明顿",
+	"state": "特拉华"
+}, {
+	"country": "美国",
+	"city": "布利斯托",
+	"state": "田纳西"
+}, {
+	"country": "美国",
+	"city": "查塔努加",
+	"state": "田纳西"
+}, {
+	"country": "美国",
+	"city": "金斯波特",
+	"state": "田纳西"
+}, {
+	"country": "美国",
+	"city": "孟菲斯",
+	"state": "田纳西"
+}, {
+	"country": "美国",
+	"city": "纳什维尔",
+	"state": "田纳西"
+}, {
+	"country": "美国",
+	"city": "诺克斯维尔",
+	"state": "田纳西"
+}, {
+	"country": "美国",
+	"city": "三城区",
+	"state": "田纳西"
+}, {
+	"country": "美国",
+	"city": "士麦那",
+	"state": "田纳西"
+}, {
+	"country": "美国",
+	"city": "斯普林希尔",
+	"state": "田纳西"
+}, {
+	"country": "美国",
+	"city": "约翰逊城",
+	"state": "田纳西"
+}, {
+	"country": "美国",
+	"city": "阿普尓顿",
+	"state": "威斯康星"
+}, {
+	"country": "美国",
+	"city": "奥什科什",
+	"state": "威斯康星"
+}, {
+	"country": "美国",
+	"city": "格林贝",
+	"state": "威斯康星"
+}, {
+	"country": "美国",
+	"city": "基诺沙",
+	"state": "威斯康星"
+}, {
+	"country": "美国",
+	"city": "拉克罗斯",
+	"state": "威斯康星"
+}, {
+	"country": "美国",
+	"city": "拉辛",
+	"state": "威斯康星"
+}, {
+	"country": "美国",
+	"city": "马尼托沃克",
+	"state": "威斯康星"
+}, {
+	"country": "美国",
+	"city": "迈迪逊",
+	"state": "威斯康星"
+}, {
+	"country": "美国",
+	"city": "密尔沃基",
+	"state": "威斯康星"
+}, {
+	"country": "美国",
+	"city": "欧克莱尓",
+	"state": "威斯康星"
+}, {
+	"country": "美国",
+	"city": "沃索",
+	"state": "威斯康星"
+}, {
+	"country": "美国",
+	"city": "希博伊根",
+	"state": "威斯康星"
+}, {
+	"country": "美国",
+	"city": "弗吉尼亚比奇",
+	"state": "维吉尼亚"
+}, {
+	"country": "美国",
+	"city": "诺福克",
+	"state": "维吉尼亚"
+}, {
+	"country": "美国",
+	"city": "切萨皮克",
+	"state": "维吉尼亚"
+}, {
+	"country": "美国",
+	"city": "查尔斯顿",
+	"state": "西佛吉尼亚"
+}, {
+	"country": "美国",
+	"city": "亨廷顿",
+	"state": "西佛吉尼亚"
+}, {
+	"country": "美国",
+	"city": "帕克斯堡",
+	"state": "西佛吉尼亚"
+}, {
+	"country": "美国",
+	"city": "凯卢阿",
+	"state": "夏威夷"
+}, {
+	"country": "美国",
+	"city": "檀香山",
+	"state": "夏威夷"
+}, {
+	"country": "美国",
+	"city": "希洛",
+	"state": "夏威夷"
+}, {
+	"country": "美国",
+	"city": "康科德",
+	"state": "新罕布什尔"
+}, {
+	"country": "美国",
+	"city": "曼彻斯特",
+	"state": "新罕布什尔"
+}, {
+	"country": "美国",
+	"city": "纳舒厄",
+	"state": "新罕布什尔"
+}, {
+	"country": "美国",
+	"city": "阿尔伯克基",
+	"state": "新墨西哥"
+}, {
+	"country": "美国",
+	"city": "拉斯克鲁塞斯",
+	"state": "新墨西哥"
+}, {
+	"country": "美国",
+	"city": "罗斯韦尔",
+	"state": "新墨西哥"
+}, {
+	"country": "美国",
+	"city": "圣菲",
+	"state": "新墨西哥"
+}, {
+	"country": "美国",
+	"city": "纽瓦克",
+	"state": "新泽西"
+}, {
+	"country": "美国",
+	"city": "帕特森",
+	"state": "新泽西"
+}, {
+	"country": "美国",
+	"city": "泽西城",
+	"state": "新泽西"
+}, {
+	"country": "美国",
+	"city": "凤凰城",
+	"state": "亚利桑那"
+}, {
+	"country": "美国",
+	"city": "格兰代尔",
+	"state": "亚利桑那"
+}, {
+	"country": "美国",
+	"city": "梅萨",
+	"state": "亚利桑那"
+}, {
+	"country": "美国",
+	"city": "史卡兹代尔",
+	"state": "亚利桑那"
+}, {
+	"country": "美国",
+	"city": "坦普",
+	"state": "亚利桑那"
+}, {
+	"country": "美国",
+	"city": "图森",
+	"state": "亚利桑那"
+}, {
+	"country": "美国",
+	"city": "优玛",
+	"state": "亚利桑那"
+}, {
+	"country": "美国",
+	"city": "奥尔顿",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "奥罗拉",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "布卢明顿",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "丹维尓",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "迪卡尔布",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "迪凯持",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "东圣路易斯",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "厄巴纳-香槟",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "盖尔斯堡",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "卡本代尔",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "罗克艾兰",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "罗克福德",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "诺黙尔",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "皮奥里亚",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "森特勒利亚",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "斯普林菲尔德",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "沃其根",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "芝加哥",
+	"state": "伊利诺斯"
+}, {
+	"country": "美国",
+	"city": "埃文斯维尔",
+	"state": "印第安那"
+}, {
+	"country": "美国",
+	"city": "韦恩堡",
+	"state": "印第安那"
+}, {
+	"country": "美国",
+	"city": "印第安纳波利斯",
+	"state": "印第安那"
+}, {
+	"country": "美国",
+	"city": "奥格登",
+	"state": "犹他"
+}, {
+	"country": "美国",
+	"city": "雷登",
+	"state": "犹他"
+}, {
+	"country": "美国",
+	"city": "欧仁",
+	"state": "犹他"
+}, {
+	"country": "美国",
+	"city": "帕克城",
+	"state": "犹他"
+}, {
+	"country": "美国",
+	"city": "普罗沃",
+	"state": "犹他"
+}, {
+	"country": "美国",
+	"city": "圣乔治",
+	"state": "犹他"
+}, {
+	"country": "美国",
+	"city": "西瓦利城",
+	"state": "犹他"
+}, {
+	"country": "美国",
+	"city": "盐湖城",
+	"state": "犹他"
+}, {
+	"country": "美国",
+	"city": "奥古斯塔",
+	"state": "佐治亚"
+}, {
+	"country": "美国",
+	"city": "哥伦布",
+	"state": "佐治亚"
+}, {
+	"country": "美国",
+	"city": "梅肯",
+	"state": "佐治亚"
+}, {
+	"country": "美国",
+	"city": "沙瓦纳",
+	"state": "佐治亚"
+}, {
+	"country": "美国",
+	"city": "亚特兰大",
+	"state": "佐治亚"
+}, {
+	"country": "美属萨摩亚",
+	"city": "阿纳"
+}, {
+	"country": "美属萨摩亚",
+	"city": "阿图阿"
+}, {
+	"country": "美属萨摩亚",
+	"city": "艾加伊勒泰"
+}, {
+	"country": "美属萨摩亚",
+	"city": "法塞莱莱阿加"
+}, {
+	"country": "美属萨摩亚",
+	"city": "加盖福毛加"
+}, {
+	"country": "美属萨摩亚",
+	"city": "加加埃毛加"
+}, {
+	"country": "美属萨摩亚",
+	"city": "帕劳利"
+}, {
+	"country": "美属萨摩亚",
+	"city": "萨图帕伊泰阿"
+}, {
+	"country": "美属萨摩亚",
+	"city": "萨瓦伊岛"
+}, {
+	"country": "美属萨摩亚",
+	"city": "图阿马萨加"
+}, {
+	"country": "美属萨摩亚",
+	"city": "瓦奥福诺蒂"
+}, {
+	"country": "美属萨摩亚",
+	"city": "韦西加诺"
+}, {
+	"country": "美属萨摩亚",
+	"city": "乌波卢岛"
+}, {
+	"country": "蒙古",
+	"city": "巴彦洪格尔"
+}, {
+	"country": "蒙古",
+	"city": "巴彦乌勒盖"
+}, {
+	"country": "蒙古",
+	"city": "布尔干"
+}, {
+	"country": "蒙古",
+	"city": "达尔汗乌勒"
+}, {
+	"country": "蒙古",
+	"city": "东方"
+}, {
+	"country": "蒙古",
+	"city": "东戈壁"
+}, {
+	"country": "蒙古",
+	"city": "鄂尔浑"
+}, {
+	"country": "蒙古",
+	"city": "戈壁阿尔泰"
+}, {
+	"country": "蒙古",
+	"city": "戈壁苏木贝尔"
+}, {
+	"country": "蒙古",
+	"city": "后杭爱"
+}, {
+	"country": "蒙古",
+	"city": "科布多"
+}, {
+	"country": "蒙古",
+	"city": "肯特"
+}, {
+	"country": "蒙古",
+	"city": "库苏古尔"
+}, {
+	"country": "蒙古",
+	"city": "南戈壁"
+}, {
+	"country": "蒙古",
+	"city": "前杭爱"
+}, {
+	"country": "蒙古",
+	"city": "色楞格"
+}, {
+	"country": "蒙古",
+	"city": "苏赫巴托尔"
+}, {
+	"country": "蒙古",
+	"city": "乌布苏"
+}, {
+	"country": "蒙古",
+	"city": "乌兰巴托市"
+}, {
+	"country": "蒙古",
+	"city": "扎布汗"
+}, {
+	"country": "蒙古",
+	"city": "中戈壁"
+}, {
+	"country": "蒙古",
+	"city": "中央"
+}, {
+	"country": "孟加拉",
+	"city": "达卡"
+}, {
+	"country": "孟加拉",
+	"city": "吉大港"
+}, {
+	"country": "孟加拉",
+	"city": "库尔纳"
+}, {
+	"country": "秘鲁",
+	"city": "阿雷基帕"
+}, {
+	"country": "秘鲁",
+	"city": "阿普里马克"
+}, {
+	"country": "秘鲁",
+	"city": "阿亚库乔"
+}, {
+	"country": "秘鲁",
+	"city": "安卡什"
+}, {
+	"country": "秘鲁",
+	"city": "胡利亚卡"
+}, {
+	"country": "秘鲁",
+	"city": "胡宁"
+}, {
+	"country": "秘鲁",
+	"city": "卡哈马卡"
+}, {
+	"country": "秘鲁",
+	"city": "卡亚俄"
+}, {
+	"country": "秘鲁",
+	"city": "库斯科"
+}, {
+	"country": "秘鲁",
+	"city": "拉利伯塔德"
+}, {
+	"country": "秘鲁",
+	"city": "兰巴耶克"
+}, {
+	"country": "秘鲁",
+	"city": "利马"
+}, {
+	"country": "秘鲁",
+	"city": "洛雷托"
+}, {
+	"country": "秘鲁",
+	"city": "马德雷德迪奥斯"
+}, {
+	"country": "秘鲁",
+	"city": "莫克瓜"
+}, {
+	"country": "秘鲁",
+	"city": "帕斯科"
+}, {
+	"country": "秘鲁",
+	"city": "皮乌拉"
+}, {
+	"country": "秘鲁",
+	"city": "普诺"
+}, {
+	"country": "秘鲁",
+	"city": "钦博特"
+}, {
+	"country": "秘鲁",
+	"city": "钦查阿尔塔"
+}, {
+	"country": "秘鲁",
+	"city": "圣马丁"
+}, {
+	"country": "秘鲁",
+	"city": "苏拉纳"
+}, {
+	"country": "秘鲁",
+	"city": "塔克纳"
+}, {
+	"country": "秘鲁",
+	"city": "通贝斯"
+}, {
+	"country": "秘鲁",
+	"city": "瓦努科"
+}, {
+	"country": "秘鲁",
+	"city": "万卡维利卡"
+}, {
+	"country": "秘鲁",
+	"city": "乌卡亚利"
+}, {
+	"country": "秘鲁",
+	"city": "亚马孙"
+}, {
+	"country": "秘鲁",
+	"city": "伊卡"
+}, {
+	"country": "缅甸",
+	"city": "勃固省"
+}, {
+	"country": "缅甸",
+	"city": "掸邦"
+}, {
+	"country": "缅甸",
+	"city": "德林达依省"
+}, {
+	"country": "缅甸",
+	"city": "克伦邦"
+}, {
+	"country": "缅甸",
+	"city": "克钦邦"
+}, {
+	"country": "缅甸",
+	"city": "克耶邦"
+}, {
+	"country": "缅甸",
+	"city": "马圭省"
+}, {
+	"country": "缅甸",
+	"city": "曼德勒省"
+}, {
+	"country": "缅甸",
+	"city": "孟邦"
+}, {
+	"country": "缅甸",
+	"city": "钦邦"
+}, {
+	"country": "缅甸",
+	"city": "若开邦"
+}, {
+	"country": "缅甸",
+	"city": "实皆省"
+}, {
+	"country": "缅甸",
+	"city": "仰光省"
+}, {
+	"country": "缅甸",
+	"city": "伊洛瓦底省"
+}, {
+	"country": "摩洛哥",
+	"city": "丹吉尔"
+}, {
+	"country": "摩洛哥",
+	"city": "得土安"
+}, {
+	"country": "摩洛哥",
+	"city": "非斯"
+}, {
+	"country": "摩洛哥",
+	"city": "卡萨布兰卡"
+}, {
+	"country": "摩洛哥",
+	"city": "拉巴特"
+}, {
+	"country": "摩洛哥",
+	"city": "马拉喀什"
+}, {
+	"country": "摩洛哥",
+	"city": "梅克内斯"
+}, {
+	"country": "摩洛哥",
+	"city": "乌季达"
+}, {
+	"country": "摩洛哥",
+	"city": "西撒哈拉"
+}, {
+	"country": "墨西哥",
+	"city": "阿瓜斯卡连斯特"
+}, {
+	"country": "墨西哥",
+	"city": "阿卡普尔科"
+}, {
+	"country": "墨西哥",
+	"city": "埃莫西约"
+}, {
+	"country": "墨西哥",
+	"city": "埃佩切"
+}, {
+	"country": "墨西哥",
+	"city": "奥夫雷贡城"
+}, {
+	"country": "墨西哥",
+	"city": "奥里萨巴"
+}, {
+	"country": "墨西哥",
+	"city": "巴利城"
+}, {
+	"country": "墨西哥",
+	"city": "巴亚尔塔港"
+}, {
+	"country": "墨西哥",
+	"city": "比利亚埃尔莫萨"
+}, {
+	"country": "墨西哥",
+	"city": "波萨里卡"
+}, {
+	"country": "墨西哥",
+	"city": "蒂华纳"
+}, {
+	"country": "墨西哥",
+	"city": "杜兰戈"
+}, {
+	"country": "墨西哥",
+	"city": "恩塞纳达"
+}, {
+	"country": "墨西哥",
+	"city": "瓜达拉哈拉"
+}, {
+	"country": "墨西哥",
+	"city": "瓜纳华托"
+}, {
+	"country": "墨西哥",
+	"city": "哈拉帕"
+}, {
+	"country": "墨西哥",
+	"city": "华雷斯"
+}, {
+	"country": "墨西哥",
+	"city": "华雷斯港"
+}, {
+	"country": "墨西哥",
+	"city": "卡门"
+}, {
+	"country": "墨西哥",
+	"city": "科利马"
+}, {
+	"country": "墨西哥",
+	"city": "克雷塔罗"
+}, {
+	"country": "墨西哥",
+	"city": "库埃纳瓦卡"
+}, {
+	"country": "墨西哥",
+	"city": "库利阿坎"
+}, {
+	"country": "墨西哥",
+	"city": "夸察夸拉克斯"
+}, {
+	"country": "墨西哥",
+	"city": "拉巴斯"
+}, {
+	"country": "墨西哥",
+	"city": "莱昂"
+}, {
+	"country": "墨西哥",
+	"city": "雷诺萨"
+}, {
+	"country": "墨西哥",
+	"city": "洛斯莫奇斯"
+}, {
+	"country": "墨西哥",
+	"city": "马萨特兰"
+}, {
+	"country": "墨西哥",
+	"city": "马塔莫罗斯"
+}, {
+	"country": "墨西哥",
+	"city": "梅里达"
+}, {
+	"country": "墨西哥",
+	"city": "蒙克洛瓦"
+}, {
+	"country": "墨西哥",
+	"city": "蒙特雷"
+}, {
+	"country": "墨西哥",
+	"city": "莫雷利亚"
+}, {
+	"country": "墨西哥",
+	"city": "墨西哥城"
+}, {
+	"country": "墨西哥",
+	"city": "墨西卡利"
+}, {
+	"country": "墨西哥",
+	"city": "诺加莱斯"
+}, {
+	"country": "墨西哥",
+	"city": "帕丘卡"
+}, {
+	"country": "墨西哥",
+	"city": "普埃布拉"
+}, {
+	"country": "墨西哥",
+	"city": "奇尔潘辛戈"
+}, {
+	"country": "墨西哥",
+	"city": "奇瓦瓦"
+}, {
+	"country": "墨西哥",
+	"city": "切图马尔"
+}, {
+	"country": "墨西哥",
+	"city": "萨尔蒂约"
+}, {
+	"country": "墨西哥",
+	"city": "萨卡特卡斯"
+}, {
+	"country": "墨西哥",
+	"city": "塞拉亚"
+}, {
+	"country": "墨西哥",
+	"city": "圣路易斯波托亚"
+}, {
+	"country": "墨西哥",
+	"city": "塔帕丘拉"
+}, {
+	"country": "墨西哥",
+	"city": "坦皮科"
+}, {
+	"country": "墨西哥",
+	"city": "特拉斯卡拉"
+}, {
+	"country": "墨西哥",
+	"city": "特皮克"
+}, {
+	"country": "墨西哥",
+	"city": "特瓦坎"
+}, {
+	"country": "墨西哥",
+	"city": "图斯特拉-古铁雷斯"
+}, {
+	"country": "墨西哥",
+	"city": "托雷翁"
+}, {
+	"country": "墨西哥",
+	"city": "托卢卡"
+}, {
+	"country": "墨西哥",
+	"city": "瓦哈卡"
+}, {
+	"country": "墨西哥",
+	"city": "维多利亚城"
+}, {
+	"country": "墨西哥",
+	"city": "韦拉克鲁斯"
+}, {
+	"country": "墨西哥",
+	"city": "乌鲁阿潘"
+}, {
+	"country": "墨西哥",
+	"city": "新拉雷多"
+}, {
+	"country": "墨西哥",
+	"city": "伊拉普阿托"
+}, {
+	"country": "纳米比亚",
+	"city": "埃龙戈"
+}, {
+	"country": "纳米比亚",
+	"city": "奥汉圭纳"
+}, {
+	"country": "纳米比亚",
+	"city": "奥卡万戈"
+}, {
+	"country": "纳米比亚",
+	"city": "奥马赫科"
+}, {
+	"country": "纳米比亚",
+	"city": "奥姆沙蒂"
+}, {
+	"country": "纳米比亚",
+	"city": "奥乔宗蒂约巴"
+}, {
+	"country": "纳米比亚",
+	"city": "奥沙纳"
+}, {
+	"country": "纳米比亚",
+	"city": "奥希科托"
+}, {
+	"country": "纳米比亚",
+	"city": "哈达普"
+}, {
+	"country": "纳米比亚",
+	"city": "霍马斯"
+}, {
+	"country": "纳米比亚",
+	"city": "卡拉斯"
+}, {
+	"country": "纳米比亚",
+	"city": "卡普里维"
+}, {
+	"country": "纳米比亚",
+	"city": "库内内"
+}, {
+	"country": "南非",
+	"city": "阿平顿"
+}, {
+	"country": "南非",
+	"city": "艾利弗山"
+}, {
+	"country": "南非",
+	"city": "彼德马里茨堡"
+}, {
+	"country": "南非",
+	"city": "彼德斯堡"
+}, {
+	"country": "南非",
+	"city": "比勒陀利亚"
+}, {
+	"country": "南非",
+	"city": "比索"
+}, {
+	"country": "南非",
+	"city": "布雷达斯多普"
+}, {
+	"country": "南非",
+	"city": "布隆方丹"
+}, {
+	"country": "南非",
+	"city": "布隆克斯特斯普利特"
+}, {
+	"country": "南非",
+	"city": "德阿尔"
+}, {
+	"country": "南非",
+	"city": "德班"
+}, {
+	"country": "南非",
+	"city": "邓迪"
+}, {
+	"country": "南非",
+	"city": "东巴克利"
+}, {
+	"country": "南非",
+	"city": "东伦敦"
+}, {
+	"country": "南非",
+	"city": "弗雷堡"
+}, {
+	"country": "南非",
+	"city": "弗里尼欣"
+}, {
+	"country": "南非",
+	"city": "格罗布莱斯达尔"
+}, {
+	"country": "南非",
+	"city": "基雅尼"
+}, {
+	"country": "南非",
+	"city": "金伯利"
+}, {
+	"country": "南非",
+	"city": "开普敦"
+}, {
+	"country": "南非",
+	"city": "克莱克斯多普"
+}, {
+	"country": "南非",
+	"city": "库鲁曼"
+}, {
+	"country": "南非",
+	"city": "昆士敦"
+}, {
+	"country": "南非",
+	"city": "莱迪史密斯"
+}, {
+	"country": "南非",
+	"city": "兰德方丹"
+}, {
+	"country": "南非",
+	"city": "理查兹湾"
+}, {
+	"country": "南非",
+	"city": "利斯滕堡"
+}, {
+	"country": "南非",
+	"city": "米德尔堡"
+}, {
+	"country": "南非",
+	"city": "姆库泽"
+}, {
+	"country": "南非",
+	"city": "穆里斯堡"
+}, {
+	"country": "南非",
+	"city": "内尔斯普雷特"
+}, {
+	"country": "南非",
+	"city": "尼尔斯特隆"
+}, {
+	"country": "南非",
+	"city": "纽卡斯尔"
+}, {
+	"country": "南非",
+	"city": "乔治"
+}, {
+	"country": "南非",
+	"city": "萨索尔堡"
+}, {
+	"country": "南非",
+	"city": "瑟孔达"
+}, {
+	"country": "南非",
+	"city": "特克索波"
+}, {
+	"country": "南非",
+	"city": "特隆普斯堡"
+}, {
+	"country": "南非",
+	"city": "跳羚"
+}, {
+	"country": "南非",
+	"city": "图拉马哈谢"
+}, {
+	"country": "南非",
+	"city": "托霍延杜"
+}, {
+	"country": "南非",
+	"city": "韦茨肖克"
+}, {
+	"country": "南非",
+	"city": "韦尔科姆"
+}, {
+	"country": "南非",
+	"city": "乌伦迪"
+}, {
+	"country": "南非",
+	"city": "乌姆塔塔"
+}, {
+	"country": "南非",
+	"city": "伍斯特"
+}, {
+	"country": "南非",
+	"city": "西博福特"
+}, {
+	"country": "南非",
+	"city": "谢普斯通港"
+}, {
+	"country": "南非",
+	"city": "伊丽莎白港"
+}, {
+	"country": "南非",
+	"city": "约翰内斯堡"
+}, {
+	"country": "尼泊尔",
+	"city": "巴格马蒂"
+}, {
+	"country": "尼泊尔",
+	"city": "道拉吉里"
+}, {
+	"country": "尼泊尔",
+	"city": "甘达基"
+}, {
+	"country": "尼泊尔",
+	"city": "戈西"
+}, {
+	"country": "尼泊尔",
+	"city": "格尔纳利"
+}, {
+	"country": "尼泊尔",
+	"city": "贾纳克布尔"
+}, {
+	"country": "尼泊尔",
+	"city": "拉布蒂"
+}, {
+	"country": "尼泊尔",
+	"city": "蓝毗尼"
+}, {
+	"country": "尼泊尔",
+	"city": "马哈卡利"
+}, {
+	"country": "尼泊尔",
+	"city": "梅吉"
+}, {
+	"country": "尼泊尔",
+	"city": "纳拉亚尼"
+}, {
+	"country": "尼泊尔",
+	"city": "佩里"
+}, {
+	"country": "尼泊尔",
+	"city": "萨加玛塔"
+}, {
+	"country": "尼泊尔",
+	"city": "塞蒂"
+}, {
+	"country": "尼加拉瓜",
+	"city": "埃斯特利"
+}, {
+	"country": "尼加拉瓜",
+	"city": "北大西洋"
+}, {
+	"country": "尼加拉瓜",
+	"city": "博阿科"
+}, {
+	"country": "尼加拉瓜",
+	"city": "格拉纳达"
+}, {
+	"country": "尼加拉瓜",
+	"city": "卡拉索"
+}, {
+	"country": "尼加拉瓜",
+	"city": "莱昂"
+}, {
+	"country": "尼加拉瓜",
+	"city": "里瓦斯"
+}, {
+	"country": "尼加拉瓜",
+	"city": "马德里斯"
+}, {
+	"country": "尼加拉瓜",
+	"city": "马那瓜"
+}, {
+	"country": "尼加拉瓜",
+	"city": "马萨亚"
+}, {
+	"country": "尼加拉瓜",
+	"city": "马塔加尔帕"
+}, {
+	"country": "尼加拉瓜",
+	"city": "南大西洋"
+}, {
+	"country": "尼加拉瓜",
+	"city": "奇南德加"
+}, {
+	"country": "尼加拉瓜",
+	"city": "琼塔莱斯"
+}, {
+	"country": "尼加拉瓜",
+	"city": "圣胡安河"
+}, {
+	"country": "尼加拉瓜",
+	"city": "希诺特加"
+}, {
+	"country": "尼加拉瓜",
+	"city": "新塞哥维亚"
+}, {
+	"country": "尼日尔",
+	"city": "阿加德兹"
+}, {
+	"country": "尼日尔",
+	"city": "迪法"
+}, {
+	"country": "尼日尔",
+	"city": "蒂拉贝里"
+}, {
+	"country": "尼日尔",
+	"city": "多索"
+}, {
+	"country": "尼日尔",
+	"city": "津德尔"
+}, {
+	"country": "尼日尔",
+	"city": "马拉迪"
+}, {
+	"country": "尼日尔",
+	"city": "尼亚美市"
+}, {
+	"country": "尼日尔",
+	"city": "塔瓦"
+}, {
+	"country": "尼日利亚",
+	"city": "阿比亚"
+}, {
+	"country": "尼日利亚",
+	"city": "奥博莫绍"
+}, {
+	"country": "尼日利亚",
+	"city": "卡诺"
+}, {
+	"country": "尼日利亚",
+	"city": "拉各斯"
+}, {
+	"country": "尼日利亚",
+	"city": "伊巴丹"
+}, {
+	"country": "挪威",
+	"city": "阿克什胡斯"
+}, {
+	"country": "挪威",
+	"city": "奥普兰"
+}, {
+	"country": "挪威",
+	"city": "奥斯陆市"
+}, {
+	"country": "挪威",
+	"city": "北特伦德拉格"
+}, {
+	"country": "挪威",
+	"city": "布斯克吕"
+}, {
+	"country": "挪威",
+	"city": "东阿格德尔"
+}, {
+	"country": "挪威",
+	"city": "东福尔"
+}, {
+	"country": "挪威",
+	"city": "芬马克"
+}, {
+	"country": "挪威",
+	"city": "海德马克"
+}, {
+	"country": "挪威",
+	"city": "霍达兰"
+}, {
+	"country": "挪威",
+	"city": "罗加兰"
+}, {
+	"country": "挪威",
+	"city": "默勒－鲁姆斯达尔"
+}, {
+	"country": "挪威",
+	"city": "南特伦德拉格"
+}, {
+	"country": "挪威",
+	"city": "诺尔兰"
+}, {
+	"country": "挪威",
+	"city": "松恩－菲尤拉讷"
+}, {
+	"country": "挪威",
+	"city": "泰勒马克"
+}, {
+	"country": "挪威",
+	"city": "特罗姆斯"
+}, {
+	"country": "挪威",
+	"city": "西阿格德尔"
+}, {
+	"country": "挪威",
+	"city": "西福尔"
+}, {
+	"country": "葡萄牙",
+	"city": "滨海阿连特茹"
+}, {
+	"country": "葡萄牙",
+	"city": "滨海皮尼亚尔"
+}, {
+	"country": "葡萄牙",
+	"city": "波尔图"
+}, {
+	"country": "葡萄牙",
+	"city": "杜罗"
+}, {
+	"country": "葡萄牙",
+	"city": "恩特拉杜罗伏日"
+}, {
+	"country": "葡萄牙",
+	"city": "法鲁"
+}, {
+	"country": "葡萄牙",
+	"city": "丰沙尔"
+}, {
+	"country": "葡萄牙",
+	"city": "卡瓦多"
+}, {
+	"country": "葡萄牙",
+	"city": "科瓦贝拉"
+}, {
+	"country": "葡萄牙",
+	"city": "里斯本"
+}, {
+	"country": "葡萄牙",
+	"city": "利巴特茹"
+}, {
+	"country": "葡萄牙",
+	"city": "梅地奥特茹"
+}, {
+	"country": "葡萄牙",
+	"city": "米尼奥-利马"
+}, {
+	"country": "葡萄牙",
+	"city": "内贝拉北"
+}, {
+	"country": "葡萄牙",
+	"city": "内贝拉南"
+}, {
+	"country": "葡萄牙",
+	"city": "内皮尼亚尔北"
+}, {
+	"country": "葡萄牙",
+	"city": "内皮尼亚尔南"
+}, {
+	"country": "葡萄牙",
+	"city": "蓬塔德尔加达"
+}, {
+	"country": "葡萄牙",
+	"city": "塞图巴尔半岛"
+}, {
+	"country": "葡萄牙",
+	"city": "山后"
+}, {
+	"country": "葡萄牙",
+	"city": "上阿连特茹"
+}, {
+	"country": "葡萄牙",
+	"city": "上特拉斯山"
+}, {
+	"country": "葡萄牙",
+	"city": "塔梅加"
+}, {
+	"country": "葡萄牙",
+	"city": "万福"
+}, {
+	"country": "葡萄牙",
+	"city": "西部"
+}, {
+	"country": "葡萄牙",
+	"city": "下阿连特茹"
+}, {
+	"country": "葡萄牙",
+	"city": "下伏日"
+}, {
+	"country": "葡萄牙",
+	"city": "下蒙德古"
+}, {
+	"country": "葡萄牙",
+	"city": "中阿连特茹"
+}, {
+	"country": "日本",
+	"city": "爱媛"
+}, {
+	"country": "日本",
+	"city": "爱知"
+}, {
+	"country": "日本",
+	"city": "北海道"
+}, {
+	"country": "日本",
+	"city": "兵库"
+}, {
+	"country": "日本",
+	"city": "冲绳"
+}, {
+	"country": "日本",
+	"city": "茨城"
+}, {
+	"country": "日本",
+	"city": "大阪"
+}, {
+	"country": "日本",
+	"city": "大分"
+}, {
+	"country": "日本",
+	"city": "岛根"
+}, {
+	"country": "日本",
+	"city": "徳岛"
+}, {
+	"country": "日本",
+	"city": "东京"
+}, {
+	"country": "日本",
+	"city": "福岛"
+}, {
+	"country": "日本",
+	"city": "福冈"
+}, {
+	"country": "日本",
+	"city": "福井"
+}, {
+	"country": "日本",
+	"city": "富山"
+}, {
+	"country": "日本",
+	"city": "冈山"
+}, {
+	"country": "日本",
+	"city": "高知"
+}, {
+	"country": "日本",
+	"city": "宮城"
+}, {
+	"country": "日本",
+	"city": "宫崎"
+}, {
+	"country": "日本",
+	"city": "广岛"
+}, {
+	"country": "日本",
+	"city": "和歌山"
+}, {
+	"country": "日本",
+	"city": "京都"
+}, {
+	"country": "日本",
+	"city": "静冈"
+}, {
+	"country": "日本",
+	"city": "枥木"
+}, {
+	"country": "日本",
+	"city": "鹿儿岛"
+}, {
+	"country": "日本",
+	"city": "奈良"
+}, {
+	"country": "日本",
+	"city": "鸟取"
+}, {
+	"country": "日本",
+	"city": "岐阜"
+}, {
+	"country": "日本",
+	"city": "埼玉"
+}, {
+	"country": "日本",
+	"city": "千叶"
+}, {
+	"country": "日本",
+	"city": "青森"
+}, {
+	"country": "日本",
+	"city": "秋田"
+}, {
+	"country": "日本",
+	"city": "群马"
+}, {
+	"country": "日本",
+	"city": "三重"
+}, {
+	"country": "日本",
+	"city": "山口"
+}, {
+	"country": "日本",
+	"city": "山梨"
+}, {
+	"country": "日本",
+	"city": "山形"
+}, {
+	"country": "日本",
+	"city": "神奈川"
+}, {
+	"country": "日本",
+	"city": "石川"
+}, {
+	"country": "日本",
+	"city": "香川"
+}, {
+	"country": "日本",
+	"city": "新潟"
+}, {
+	"country": "日本",
+	"city": "熊本"
+}, {
+	"country": "日本",
+	"city": "岩手"
+}, {
+	"country": "日本",
+	"city": "长崎"
+}, {
+	"country": "日本",
+	"city": "长野"
+}, {
+	"country": "日本",
+	"city": "滋贺"
+}, {
+	"country": "日本",
+	"city": "佐贺"
+}, {
+	"country": "瑞典",
+	"city": "北博滕"
+}, {
+	"country": "瑞典",
+	"city": "布莱金厄"
+}, {
+	"country": "瑞典",
+	"city": "达拉纳"
+}, {
+	"country": "瑞典",
+	"city": "东约特兰"
+}, {
+	"country": "瑞典",
+	"city": "厄勒布鲁"
+}, {
+	"country": "瑞典",
+	"city": "哥得兰"
+}, {
+	"country": "瑞典",
+	"city": "哈兰"
+}, {
+	"country": "瑞典",
+	"city": "卡尔马"
+}, {
+	"country": "瑞典",
+	"city": "克鲁努贝里"
+}, {
+	"country": "瑞典",
+	"city": "南曼兰"
+}, {
+	"country": "瑞典",
+	"city": "斯德哥尔摩"
+}, {
+	"country": "瑞典",
+	"city": "斯科耐"
+}, {
+	"country": "瑞典",
+	"city": "韦姆兰"
+}, {
+	"country": "瑞典",
+	"city": "乌普萨拉"
+}, {
+	"country": "瑞典",
+	"city": "西博滕"
+}, {
+	"country": "瑞典",
+	"city": "西曼兰"
+}, {
+	"country": "瑞典",
+	"city": "西诺尔兰"
+}, {
+	"country": "瑞典",
+	"city": "西约特兰"
+}, {
+	"country": "瑞典",
+	"city": "延雪平"
+}, {
+	"country": "瑞典",
+	"city": "耶夫勒堡"
+}, {
+	"country": "瑞典",
+	"city": "耶姆特兰"
+}, {
+	"country": "瑞士",
+	"city": "阿尔高"
+}, {
+	"country": "瑞士",
+	"city": "巴塞尔城市"
+}, {
+	"country": "瑞士",
+	"city": "巴塞尔乡村"
+}, {
+	"country": "瑞士",
+	"city": "伯尔尼"
+}, {
+	"country": "瑞士",
+	"city": "楚格"
+}, {
+	"country": "瑞士",
+	"city": "弗里堡"
+}, {
+	"country": "瑞士",
+	"city": "格拉鲁斯"
+}, {
+	"country": "瑞士",
+	"city": "格劳宾登"
+}, {
+	"country": "瑞士",
+	"city": "卢塞恩"
+}, {
+	"country": "瑞士",
+	"city": "洛桑"
+}, {
+	"country": "瑞士",
+	"city": "纳沙泰尔"
+}, {
+	"country": "瑞士",
+	"city": "内阿彭策尔"
+}, {
+	"country": "瑞士",
+	"city": "日内瓦"
+}, {
+	"country": "瑞士",
+	"city": "汝拉"
+}, {
+	"country": "瑞士",
+	"city": "沙夫豪森"
+}, {
+	"country": "瑞士",
+	"city": "上瓦尔登"
+}, {
+	"country": "瑞士",
+	"city": "圣加仑"
+}, {
+	"country": "瑞士",
+	"city": "施维茨"
+}, {
+	"country": "瑞士",
+	"city": "苏黎世"
+}, {
+	"country": "瑞士",
+	"city": "索洛图恩"
+}, {
+	"country": "瑞士",
+	"city": "提契诺"
+}, {
+	"country": "瑞士",
+	"city": "图尔高"
+}, {
+	"country": "瑞士",
+	"city": "瓦莱"
+}, {
+	"country": "瑞士",
+	"city": "外阿彭策尔"
+}, {
+	"country": "瑞士",
+	"city": "沃"
+}, {
+	"country": "瑞士",
+	"city": "乌里"
+}, {
+	"country": "瑞士",
+	"city": "下瓦尔登"
+}, {
+	"country": "萨尔瓦多",
+	"city": "阿波帕"
+}, {
+	"country": "萨尔瓦多",
+	"city": "阿瓦查潘"
+}, {
+	"country": "萨尔瓦多",
+	"city": "滨海"
+}, {
+	"country": "萨尔瓦多",
+	"city": "查拉特南戈"
+}, {
+	"country": "萨尔瓦多",
+	"city": "德尔加多"
+}, {
+	"country": "萨尔瓦多",
+	"city": "基埃-恩特姆"
+}, {
+	"country": "萨尔瓦多",
+	"city": "卡瓦尼亚斯"
+}, {
+	"country": "萨尔瓦多",
+	"city": "库斯卡特兰"
+}, {
+	"country": "萨尔瓦多",
+	"city": "拉巴斯"
+}, {
+	"country": "萨尔瓦多",
+	"city": "拉利伯塔德"
+}, {
+	"country": "萨尔瓦多",
+	"city": "拉乌尼翁"
+}, {
+	"country": "萨尔瓦多",
+	"city": "梅基卡诺斯"
+}, {
+	"country": "萨尔瓦多",
+	"city": "莫拉桑"
+}, {
+	"country": "萨尔瓦多",
+	"city": "圣安娜"
+}, {
+	"country": "萨尔瓦多",
+	"city": "圣米格尔"
+}, {
+	"country": "萨尔瓦多",
+	"city": "圣萨尔瓦多"
+}, {
+	"country": "萨尔瓦多",
+	"city": "圣维森特"
+}, {
+	"country": "萨尔瓦多",
+	"city": "松索纳特"
+}, {
+	"country": "萨尔瓦多",
+	"city": "索亚潘戈"
+}, {
+	"country": "萨尔瓦多",
+	"city": "韦莱-恩萨斯"
+}, {
+	"country": "萨尔瓦多",
+	"city": "乌苏卢坦"
+}, {
+	"country": "萨尔瓦多",
+	"city": "伊洛潘戈"
+}, {
+	"country": "萨尔瓦多",
+	"city": "中南"
+}, {
+	"country": "塞尔维亚,黑山",
+	"city": "贝尔格莱德"
+}, {
+	"country": "塞尔维亚,黑山",
+	"city": "波德戈里察"
+}, {
+	"country": "塞尔维亚,黑山",
+	"city": "克拉古涅瓦茨"
+}, {
+	"country": "塞尔维亚,黑山",
+	"city": "尼什"
+}, {
+	"country": "塞尔维亚,黑山",
+	"city": "诺维萨德"
+}, {
+	"country": "塞尔维亚,黑山",
+	"city": "普里什蒂纳"
+}, {
+	"country": "塞尔维亚,黑山",
+	"city": "苏博蒂察"
+}, {
+	"country": "塞尔维亚,黑山",
+	"city": "泽蒙"
+}, {
+	"country": "塞拉利昂",
+	"city": "北部"
+}, {
+	"country": "塞拉利昂",
+	"city": "东部"
+}, {
+	"country": "塞拉利昂",
+	"city": "南部"
+}, {
+	"country": "塞拉利昂",
+	"city": "西部区"
+}, {
+	"country": "塞内加尔",
+	"city": "达喀尔"
+}, {
+	"country": "塞内加尔",
+	"city": "法蒂克"
+}, {
+	"country": "塞内加尔",
+	"city": "济金绍尔"
+}, {
+	"country": "塞内加尔",
+	"city": "捷斯"
+}, {
+	"country": "塞内加尔",
+	"city": "久尔贝勒"
+}, {
+	"country": "塞内加尔",
+	"city": "考拉克"
+}, {
+	"country": "塞内加尔",
+	"city": "科尔达"
+}, {
+	"country": "塞内加尔",
+	"city": "卢加"
+}, {
+	"country": "塞内加尔",
+	"city": "马塔姆"
+}, {
+	"country": "塞内加尔",
+	"city": "圣路易"
+}, {
+	"country": "塞内加尔",
+	"city": "坦巴昆达"
+}, {
+	"country": "塞浦路斯",
+	"city": "法马古斯塔"
+}, {
+	"country": "塞浦路斯",
+	"city": "凯里尼亚"
+}, {
+	"country": "塞浦路斯",
+	"city": "拉纳卡"
+}, {
+	"country": "塞浦路斯",
+	"city": "利马索尔"
+}, {
+	"country": "塞浦路斯",
+	"city": "尼科西亚"
+}, {
+	"country": "塞浦路斯",
+	"city": "帕福斯"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "阿尔阿尔"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "艾卜哈"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "巴哈"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "布赖代"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "达曼"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "哈费尔巴廷"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "哈伊勒"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "海米斯穆谢特"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "海耶"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "胡富夫"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "吉达"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "吉赞"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "利雅得"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "麦地那"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "麦加"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "姆巴拉兹"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "纳季兰"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "塞卡卡"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "塔布克"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "塔伊夫"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "延布"
+}, {
+	"country": "沙特阿拉伯",
+	"city": "朱拜勒"
+}, {
+	"country": "斯里兰卡",
+	"city": "阿努拉德普勒"
+}, {
+	"country": "斯里兰卡",
+	"city": "安帕赖"
+}, {
+	"country": "斯里兰卡",
+	"city": "巴杜勒"
+}, {
+	"country": "斯里兰卡",
+	"city": "拜蒂克洛"
+}, {
+	"country": "斯里兰卡",
+	"city": "波隆纳鲁沃"
+}, {
+	"country": "斯里兰卡",
+	"city": "汉班托特"
+}, {
+	"country": "斯里兰卡",
+	"city": "基里诺奇"
+}, {
+	"country": "斯里兰卡",
+	"city": "加勒"
+}, {
+	"country": "斯里兰卡",
+	"city": "加姆珀哈"
+}, {
+	"country": "斯里兰卡",
+	"city": "贾夫纳"
+}, {
+	"country": "斯里兰卡",
+	"city": "卡卢特勒"
+}, {
+	"country": "斯里兰卡",
+	"city": "凯格勒"
+}, {
+	"country": "斯里兰卡",
+	"city": "康提"
+}, {
+	"country": "斯里兰卡",
+	"city": "科伦坡"
+}, {
+	"country": "斯里兰卡",
+	"city": "库鲁内格勒"
+}, {
+	"country": "斯里兰卡",
+	"city": "拉特纳普勒"
+}, {
+	"country": "斯里兰卡",
+	"city": "马纳尔"
+}, {
+	"country": "斯里兰卡",
+	"city": "马特莱"
+}, {
+	"country": "斯里兰卡",
+	"city": "马特勒"
+}, {
+	"country": "斯里兰卡",
+	"city": "莫讷勒格勒"
+}, {
+	"country": "斯里兰卡",
+	"city": "穆莱蒂武"
+}, {
+	"country": "斯里兰卡",
+	"city": "努沃勒埃利耶"
+}, {
+	"country": "斯里兰卡",
+	"city": "普塔勒姆"
+}, {
+	"country": "斯里兰卡",
+	"city": "亭可马里"
+}, {
+	"country": "斯里兰卡",
+	"city": "瓦武尼亚"
+}, {
+	"country": "斯洛伐克",
+	"city": "班斯卡-比斯特里察"
+}, {
+	"country": "斯洛伐克",
+	"city": "布拉迪斯拉发"
+}, {
+	"country": "斯洛伐克",
+	"city": "科希策"
+}, {
+	"country": "斯洛伐克",
+	"city": "尼特拉"
+}, {
+	"country": "斯洛伐克",
+	"city": "普雷绍夫"
+}, {
+	"country": "斯洛伐克",
+	"city": "日利纳"
+}, {
+	"country": "斯洛伐克",
+	"city": "特尔纳瓦"
+}, {
+	"country": "斯洛伐克",
+	"city": "特伦钦"
+}, {
+	"country": "斯洛文尼亚",
+	"city": "奥巴尔诺-克拉"
+}, {
+	"country": "斯洛文尼亚",
+	"city": "奥斯雷德涅斯洛文"
+}, {
+	"country": "斯洛文尼亚",
+	"city": "波德拉夫"
+}, {
+	"country": "斯洛文尼亚",
+	"city": "波穆尔"
+}, {
+	"country": "斯洛文尼亚",
+	"city": "多雷尼"
+}, {
+	"country": "斯洛文尼亚",
+	"city": "戈雷尼"
+}, {
+	"country": "斯洛文尼亚",
+	"city": "戈里"
+}, {
+	"country": "斯洛文尼亚",
+	"city": "科洛"
+}, {
+	"country": "斯洛文尼亚",
+	"city": "诺特拉尼"
+}, {
+	"country": "斯洛文尼亚",
+	"city": "萨维尼"
+}, {
+	"country": "斯洛文尼亚",
+	"city": "斯波德涅波萨夫"
+}, {
+	"country": "斯洛文尼亚",
+	"city": "扎萨夫"
+}, {
+	"country": "苏丹",
+	"city": "北部"
+}, {
+	"country": "苏丹",
+	"city": "赤道"
+}, {
+	"country": "苏丹",
+	"city": "达尔富尔"
+}, {
+	"country": "苏丹",
+	"city": "东部"
+}, {
+	"country": "苏丹",
+	"city": "加扎勒河"
+}, {
+	"country": "苏丹",
+	"city": "喀土穆"
+}, {
+	"country": "苏丹",
+	"city": "科尔多凡"
+}, {
+	"country": "苏丹",
+	"city": "上尼罗"
+}, {
+	"country": "苏丹",
+	"city": "中部"
+}, {
+	"country": "苏里南",
+	"city": "布罗科蓬多"
+}, {
+	"country": "苏里南",
+	"city": "科罗尼"
+}, {
+	"country": "苏里南",
+	"city": "科默韦讷"
+}, {
+	"country": "苏里南",
+	"city": "马罗韦讷"
+}, {
+	"country": "苏里南",
+	"city": "尼克里"
+}, {
+	"country": "苏里南",
+	"city": "帕拉"
+}, {
+	"country": "苏里南",
+	"city": "帕拉马里博"
+}, {
+	"country": "苏里南",
+	"city": "萨拉马卡"
+}, {
+	"country": "苏里南",
+	"city": "瓦尼卡"
+}, {
+	"country": "苏里南",
+	"city": "西帕里韦尼"
+}, {
+	"country": "所罗门群岛",
+	"city": "瓜达尔卡纳尔"
+}, {
+	"country": "所罗门群岛",
+	"city": "霍尼亚拉"
+}, {
+	"country": "所罗门群岛",
+	"city": "拉纳尔和贝罗纳"
+}, {
+	"country": "所罗门群岛",
+	"city": "马基拉"
+}, {
+	"country": "所罗门群岛",
+	"city": "马莱塔"
+}, {
+	"country": "所罗门群岛",
+	"city": "乔伊索"
+}, {
+	"country": "所罗门群岛",
+	"city": "泰莫图"
+}, {
+	"country": "所罗门群岛",
+	"city": "西部"
+}, {
+	"country": "所罗门群岛",
+	"city": "伊萨贝尔"
+}, {
+	"country": "所罗门群岛",
+	"city": "中部群岛"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "杜尚别"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "霍罗格"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "卡尼巴达姆"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "科法尔尼洪"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "苦盏"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "库尔干-秋别"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "库洛布"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "洛贡"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "努雷克"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "彭吉肯特"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "萨班特"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "塔博沙尔"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "图尔孙扎德"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "乌拉秋别"
+}, {
+	"country": "塔吉克斯坦",
+	"city": "伊斯法拉"
+}, {
+	"country": "泰国",
+	"city": "安纳乍能"
+}, {
+	"country": "泰国",
+	"city": "巴蜀"
+}, {
+	"country": "泰国",
+	"city": "巴吞他尼"
+}, {
+	"country": "泰国",
+	"city": "巴真"
+}, {
+	"country": "泰国",
+	"city": "北碧"
+}, {
+	"country": "泰国",
+	"city": "北标"
+}, {
+	"country": "泰国",
+	"city": "北大年"
+}, {
+	"country": "泰国",
+	"city": "北揽"
+}, {
+	"country": "泰国",
+	"city": "北榄坡"
+}, {
+	"country": "泰国",
+	"city": "北柳"
+}, {
+	"country": "泰国",
+	"city": "碧差汶"
+}, {
+	"country": "泰国",
+	"city": "博达伦"
+}, {
+	"country": "泰国",
+	"city": "猜那"
+}, {
+	"country": "泰国",
+	"city": "猜也奔"
+}, {
+	"country": "泰国",
+	"city": "程逸"
+}, {
+	"country": "泰国",
+	"city": "春蓬"
+}, {
+	"country": "泰国",
+	"city": "春武里"
+}, {
+	"country": "泰国",
+	"city": "达"
+}, {
+	"country": "泰国",
+	"city": "达叻"
+}, {
+	"country": "泰国",
+	"city": "大城"
+}, {
+	"country": "泰国",
+	"city": "董里"
+}, {
+	"country": "泰国",
+	"city": "佛丕"
+}, {
+	"country": "泰国",
+	"city": "佛统"
+}, {
+	"country": "泰国",
+	"city": "甘烹碧"
+}, {
+	"country": "泰国",
+	"city": "红统"
+}, {
+	"country": "泰国",
+	"city": "华富里"
+}, {
+	"country": "泰国",
+	"city": "加拉信"
+}, {
+	"country": "泰国",
+	"city": "甲米"
+}, {
+	"country": "泰国",
+	"city": "尖竹汶"
+}, {
+	"country": "泰国",
+	"city": "孔敬"
+}, {
+	"country": "泰国",
+	"city": "拉农"
+}, {
+	"country": "泰国",
+	"city": "廊开"
+}, {
+	"country": "泰国",
+	"city": "廊莫那浦"
+}, {
+	"country": "泰国",
+	"city": "叻丕"
+}, {
+	"country": "泰国",
+	"city": "黎"
+}, {
+	"country": "泰国",
+	"city": "黎逸"
+}, {
+	"country": "泰国",
+	"city": "龙仔厝"
+}, {
+	"country": "泰国",
+	"city": "罗勇"
+}, {
+	"country": "泰国",
+	"city": "洛坤"
+}, {
+	"country": "泰国",
+	"city": "玛哈沙拉堪"
+}, {
+	"country": "泰国",
+	"city": "曼谷"
+}, {
+	"country": "泰国",
+	"city": "莫达汉"
+}, {
+	"country": "泰国",
+	"city": "那空那育"
+}, {
+	"country": "泰国",
+	"city": "那空帕农"
+}, {
+	"country": "泰国",
+	"city": "难"
+}, {
+	"country": "泰国",
+	"city": "南奔"
+}, {
+	"country": "泰国",
+	"city": "暖武里"
+}, {
+	"country": "泰国",
+	"city": "帕"
+}, {
+	"country": "泰国",
+	"city": "帕尧"
+}, {
+	"country": "泰国",
+	"city": "攀牙"
+}, {
+	"country": "泰国",
+	"city": "彭世洛"
+}, {
+	"country": "泰国",
+	"city": "披集"
+}, {
+	"country": "泰国",
+	"city": "普吉"
+}, {
+	"country": "泰国",
+	"city": "清莱"
+}, {
+	"country": "泰国",
+	"city": "清迈"
+}, {
+	"country": "泰国",
+	"city": "色军"
+}, {
+	"country": "泰国",
+	"city": "沙敦"
+}, {
+	"country": "泰国",
+	"city": "沙缴"
+}, {
+	"country": "泰国",
+	"city": "四色菊"
+}, {
+	"country": "泰国",
+	"city": "宋卡"
+}, {
+	"country": "泰国",
+	"city": "素可泰"
+}, {
+	"country": "泰国",
+	"city": "素叻"
+}, {
+	"country": "泰国",
+	"city": "素林"
+}, {
+	"country": "泰国",
+	"city": "素攀武里"
+}, {
+	"country": "泰国",
+	"city": "陶公"
+}, {
+	"country": "泰国",
+	"city": "乌隆"
+}, {
+	"country": "泰国",
+	"city": "乌泰他尼"
+}, {
+	"country": "泰国",
+	"city": "乌汶"
+}, {
+	"country": "泰国",
+	"city": "武里南"
+}, {
+	"country": "泰国",
+	"city": "信武里"
+}, {
+	"country": "泰国",
+	"city": "耶梭通"
+}, {
+	"country": "泰国",
+	"city": "也拉"
+}, {
+	"country": "泰国",
+	"city": "夜丰颂"
+}, {
+	"country": "泰国",
+	"city": "夜功"
+}, {
+	"country": "坦桑尼亚",
+	"city": "阿鲁沙"
+}, {
+	"country": "坦桑尼亚",
+	"city": "奔巴北"
+}, {
+	"country": "坦桑尼亚",
+	"city": "奔巴南"
+}, {
+	"country": "坦桑尼亚",
+	"city": "滨海"
+}, {
+	"country": "坦桑尼亚",
+	"city": "达累斯萨拉姆"
+}, {
+	"country": "坦桑尼亚",
+	"city": "多多马"
+}, {
+	"country": "坦桑尼亚",
+	"city": "基戈马"
+}, {
+	"country": "坦桑尼亚",
+	"city": "卡盖拉"
+}, {
+	"country": "坦桑尼亚",
+	"city": "林迪"
+}, {
+	"country": "坦桑尼亚",
+	"city": "鲁夸"
+}, {
+	"country": "坦桑尼亚",
+	"city": "鲁伍马"
+}, {
+	"country": "坦桑尼亚",
+	"city": "马腊"
+}, {
+	"country": "坦桑尼亚",
+	"city": "曼亚拉"
+}, {
+	"country": "坦桑尼亚",
+	"city": "莫洛戈罗"
+}, {
+	"country": "坦桑尼亚",
+	"city": "姆贝亚"
+}, {
+	"country": "坦桑尼亚",
+	"city": "姆特瓦拉"
+}, {
+	"country": "坦桑尼亚",
+	"city": "姆万扎"
+}, {
+	"country": "坦桑尼亚",
+	"city": "乞力马扎罗"
+}, {
+	"country": "坦桑尼亚",
+	"city": "桑给巴尔"
+}, {
+	"country": "坦桑尼亚",
+	"city": "桑给巴尔北"
+}, {
+	"country": "坦桑尼亚",
+	"city": "桑给巴尔南"
+}, {
+	"country": "坦桑尼亚",
+	"city": "桑给巴尔市和西"
+}, {
+	"country": "坦桑尼亚",
+	"city": "塔波拉"
+}, {
+	"country": "坦桑尼亚",
+	"city": "坦噶"
+}, {
+	"country": "坦桑尼亚",
+	"city": "辛吉达"
+}, {
+	"country": "坦桑尼亚",
+	"city": "欣延加"
+}, {
+	"country": "坦桑尼亚",
+	"city": "伊林加"
+}, {
+	"country": "汤加",
+	"city": "埃瓦"
+}, {
+	"country": "汤加",
+	"city": "哈派"
+}, {
+	"country": "汤加",
+	"city": "纽阿斯"
+}, {
+	"country": "汤加",
+	"city": "汤加塔布"
+}, {
+	"country": "汤加",
+	"city": "瓦瓦乌"
+}, {
+	"country": "突尼斯",
+	"city": "艾尔亚奈"
+}, {
+	"country": "突尼斯",
+	"city": "巴杰"
+}, {
+	"country": "突尼斯",
+	"city": "本阿鲁斯"
+}, {
+	"country": "突尼斯",
+	"city": "比塞大"
+}, {
+	"country": "突尼斯",
+	"city": "吉比利"
+}, {
+	"country": "突尼斯",
+	"city": "加贝斯"
+}, {
+	"country": "突尼斯",
+	"city": "加夫萨"
+}, {
+	"country": "突尼斯",
+	"city": "坚杜拜"
+}, {
+	"country": "突尼斯",
+	"city": "卡夫"
+}, {
+	"country": "突尼斯",
+	"city": "卡塞林"
+}, {
+	"country": "突尼斯",
+	"city": "凯鲁万"
+}, {
+	"country": "突尼斯",
+	"city": "马赫迪耶"
+}, {
+	"country": "突尼斯",
+	"city": "马努巴"
+}, {
+	"country": "突尼斯",
+	"city": "梅德宁"
+}, {
+	"country": "突尼斯",
+	"city": "莫纳斯提尔"
+}, {
+	"country": "突尼斯",
+	"city": "纳布勒"
+}, {
+	"country": "突尼斯",
+	"city": "斯法克斯"
+}, {
+	"country": "突尼斯",
+	"city": "苏塞"
+}, {
+	"country": "突尼斯",
+	"city": "泰塔温"
+}, {
+	"country": "突尼斯",
+	"city": "突尼斯"
+}, {
+	"country": "突尼斯",
+	"city": "托泽尔"
+}, {
+	"country": "突尼斯",
+	"city": "西迪布济德"
+}, {
+	"country": "突尼斯",
+	"city": "锡勒亚奈"
+}, {
+	"country": "突尼斯",
+	"city": "宰格万"
+}, {
+	"country": "土耳其",
+	"city": "阿达纳"
+}, {
+	"country": "土耳其",
+	"city": "阿德亚曼"
+}, {
+	"country": "土耳其",
+	"city": "阿尔达罕"
+}, {
+	"country": "土耳其",
+	"city": "阿尔特温"
+}, {
+	"country": "土耳其",
+	"city": "阿菲永"
+}, {
+	"country": "土耳其",
+	"city": "阿克萨赖"
+}, {
+	"country": "土耳其",
+	"city": "阿勒"
+}, {
+	"country": "土耳其",
+	"city": "阿马西亚"
+}, {
+	"country": "土耳其",
+	"city": "埃迪尔内"
+}, {
+	"country": "土耳其",
+	"city": "埃尔津詹"
+}, {
+	"country": "土耳其",
+	"city": "埃尔祖鲁姆"
+}, {
+	"country": "土耳其",
+	"city": "埃拉泽"
+}, {
+	"country": "土耳其",
+	"city": "埃斯基谢希尔"
+}, {
+	"country": "土耳其",
+	"city": "艾登"
+}, {
+	"country": "土耳其",
+	"city": "安卡拉"
+}, {
+	"country": "土耳其",
+	"city": "安塔利亚"
+}, {
+	"country": "土耳其",
+	"city": "奥尔杜"
+}, {
+	"country": "土耳其",
+	"city": "巴尔腾"
+}, {
+	"country": "土耳其",
+	"city": "巴勒克埃西尔"
+}, {
+	"country": "土耳其",
+	"city": "巴特曼"
+}, {
+	"country": "土耳其",
+	"city": "巴伊布尔特"
+}, {
+	"country": "土耳其",
+	"city": "比莱吉克"
+}, {
+	"country": "土耳其",
+	"city": "比特利斯"
+}, {
+	"country": "土耳其",
+	"city": "宾格尔"
+}, {
+	"country": "土耳其",
+	"city": "博卢"
+}, {
+	"country": "土耳其",
+	"city": "布尔杜尔"
+}, {
+	"country": "土耳其",
+	"city": "布尔萨"
+}, {
+	"country": "土耳其",
+	"city": "昌克勒"
+}, {
+	"country": "土耳其",
+	"city": "代尼兹利"
+}, {
+	"country": "土耳其",
+	"city": "迪亚巴克尔"
+}, {
+	"country": "土耳其",
+	"city": "凡"
+}, {
+	"country": "土耳其",
+	"city": "哈卡里"
+}, {
+	"country": "土耳其",
+	"city": "哈塔伊"
+}, {
+	"country": "土耳其",
+	"city": "基利斯"
+}, {
+	"country": "土耳其",
+	"city": "吉雷松"
+}, {
+	"country": "土耳其",
+	"city": "加济安泰普"
+}, {
+	"country": "土耳其",
+	"city": "居米什哈内"
+}, {
+	"country": "土耳其",
+	"city": "卡尔斯"
+}, {
+	"country": "土耳其",
+	"city": "卡赫拉曼马拉什"
+}, {
+	"country": "土耳其",
+	"city": "卡拉比克"
+}, {
+	"country": "土耳其",
+	"city": "卡拉曼"
+}, {
+	"country": "土耳其",
+	"city": "卡斯塔莫努"
+}, {
+	"country": "土耳其",
+	"city": "开塞利"
+}, {
+	"country": "土耳其",
+	"city": "科贾埃利"
+}, {
+	"country": "土耳其",
+	"city": "柯克拉雷利"
+}, {
+	"country": "土耳其",
+	"city": "科尼亚"
+}, {
+	"country": "土耳其",
+	"city": "克尔谢希尔"
+}, {
+	"country": "土耳其",
+	"city": "克勒克卡莱"
+}, {
+	"country": "土耳其",
+	"city": "拉飞"
+}, {
+	"country": "土耳其",
+	"city": "里泽"
+}, {
+	"country": "土耳其",
+	"city": "马尔丁"
+}, {
+	"country": "土耳其",
+	"city": "马拉蒂亚"
+}, {
+	"country": "土耳其",
+	"city": "马尼萨"
+}, {
+	"country": "土耳其",
+	"city": "穆拉"
+}, {
+	"country": "土耳其",
+	"city": "穆什"
+}, {
+	"country": "土耳其",
+	"city": "内夫谢希尔"
+}, {
+	"country": "土耳其",
+	"city": "尼代"
+}, {
+	"country": "土耳其",
+	"city": "恰纳卡莱"
+}, {
+	"country": "土耳其",
+	"city": "乔鲁姆"
+}, {
+	"country": "土耳其",
+	"city": "屈塔希亚"
+}, {
+	"country": "土耳其",
+	"city": "萨卡里亚"
+}, {
+	"country": "土耳其",
+	"city": "萨姆松"
+}, {
+	"country": "土耳其",
+	"city": "泰基尔达"
+}, {
+	"country": "土耳其",
+	"city": "特拉布宗"
+}, {
+	"country": "土耳其",
+	"city": "通杰利"
+}, {
+	"country": "土耳其",
+	"city": "托卡特"
+}, {
+	"country": "土耳其",
+	"city": "乌萨克"
+}, {
+	"country": "土耳其",
+	"city": "锡尔纳克"
+}, {
+	"country": "土耳其",
+	"city": "锡尔特"
+}, {
+	"country": "土耳其",
+	"city": "锡诺普"
+}, {
+	"country": "土耳其",
+	"city": "锡瓦斯"
+}, {
+	"country": "土耳其",
+	"city": "伊迪尔"
+}, {
+	"country": "土耳其",
+	"city": "伊切尔"
+}, {
+	"country": "土耳其",
+	"city": "伊斯帕尔塔"
+}, {
+	"country": "土耳其",
+	"city": "伊斯坦布尔"
+}, {
+	"country": "土耳其",
+	"city": "伊兹密尔"
+}, {
+	"country": "土耳其",
+	"city": "约兹加特"
+}, {
+	"country": "土耳其",
+	"city": "宗古尔达克"
+}, {
+	"country": "土库曼斯坦",
+	"city": "阿哈尔"
+}, {
+	"country": "土库曼斯坦",
+	"city": "阿什哈巴德市"
+}, {
+	"country": "土库曼斯坦",
+	"city": "巴尔坎"
+}, {
+	"country": "土库曼斯坦",
+	"city": "达沙古兹"
+}, {
+	"country": "土库曼斯坦",
+	"city": "列巴普"
+}, {
+	"country": "土库曼斯坦",
+	"city": "马雷"
+}, {
+	"country": "土库曼斯坦",
+	"city": "涅比特达格"
+}, {
+	"country": "瓦努阿图",
+	"city": "马朗帕"
+}, {
+	"country": "瓦努阿图",
+	"city": "彭纳马"
+}, {
+	"country": "瓦努阿图",
+	"city": "桑马"
+}, {
+	"country": "瓦努阿图",
+	"city": "塔菲阿"
+}, {
+	"country": "瓦努阿图",
+	"city": "托尔巴"
+}, {
+	"country": "瓦努阿图",
+	"city": "谢法"
+}, {
+	"country": "危地马拉",
+	"city": "埃尔普罗格雷索"
+}, {
+	"country": "危地马拉",
+	"city": "埃斯昆特拉"
+}, {
+	"country": "危地马拉",
+	"city": "哈拉帕"
+}, {
+	"country": "危地马拉",
+	"city": "胡蒂亚帕"
+}, {
+	"country": "危地马拉",
+	"city": "基切"
+}, {
+	"country": "危地马拉",
+	"city": "克萨尔特南戈"
+}, {
+	"country": "危地马拉",
+	"city": "雷塔卢莱乌"
+}, {
+	"country": "危地马拉",
+	"city": "米克斯科"
+}, {
+	"country": "危地马拉",
+	"city": "佩滕"
+}, {
+	"country": "危地马拉",
+	"city": "奇基穆拉"
+}, {
+	"country": "危地马拉",
+	"city": "奇马尔特南戈"
+}, {
+	"country": "危地马拉",
+	"city": "萨卡帕"
+}, {
+	"country": "危地马拉",
+	"city": "萨卡特佩克斯"
+}, {
+	"country": "危地马拉",
+	"city": "上韦拉帕斯"
+}, {
+	"country": "危地马拉",
+	"city": "圣罗莎"
+}, {
+	"country": "危地马拉",
+	"city": "圣马科斯"
+}, {
+	"country": "危地马拉",
+	"city": "苏奇特佩克斯"
+}, {
+	"country": "危地马拉",
+	"city": "索洛拉"
+}, {
+	"country": "危地马拉",
+	"city": "托托尼卡潘"
+}, {
+	"country": "危地马拉",
+	"city": "危地马拉"
+}, {
+	"country": "危地马拉",
+	"city": "韦韦特南戈"
+}, {
+	"country": "危地马拉",
+	"city": "下韦拉帕斯"
+}, {
+	"country": "危地马拉",
+	"city": "新城"
+}, {
+	"country": "危地马拉",
+	"city": "伊萨瓦尔"
+}, {
+	"country": "委内瑞拉",
+	"city": "阿拉瓜"
+}, {
+	"country": "委内瑞拉",
+	"city": "阿马库罗三角洲"
+}, {
+	"country": "委内瑞拉",
+	"city": "阿普雷"
+}, {
+	"country": "委内瑞拉",
+	"city": "安索阿特吉"
+}, {
+	"country": "委内瑞拉",
+	"city": "巴里纳斯"
+}, {
+	"country": "委内瑞拉",
+	"city": "玻利瓦尔"
+}, {
+	"country": "委内瑞拉",
+	"city": "波图格萨"
+}, {
+	"country": "委内瑞拉",
+	"city": "法尔孔"
+}, {
+	"country": "委内瑞拉",
+	"city": "瓜里科"
+}, {
+	"country": "委内瑞拉",
+	"city": "加拉加斯"
+}, {
+	"country": "委内瑞拉",
+	"city": "卡拉沃沃"
+}, {
+	"country": "委内瑞拉",
+	"city": "科赫德斯"
+}, {
+	"country": "委内瑞拉",
+	"city": "拉腊"
+}, {
+	"country": "委内瑞拉",
+	"city": "联邦属地"
+}, {
+	"country": "委内瑞拉",
+	"city": "梅里达"
+}, {
+	"country": "委内瑞拉",
+	"city": "米兰达"
+}, {
+	"country": "委内瑞拉",
+	"city": "莫纳加斯"
+}, {
+	"country": "委内瑞拉",
+	"city": "苏克雷"
+}, {
+	"country": "委内瑞拉",
+	"city": "苏利亚"
+}, {
+	"country": "委内瑞拉",
+	"city": "塔奇拉"
+}, {
+	"country": "委内瑞拉",
+	"city": "特鲁希略"
+}, {
+	"country": "委内瑞拉",
+	"city": "新埃斯帕塔"
+}, {
+	"country": "委内瑞拉",
+	"city": "亚拉奎"
+}, {
+	"country": "委内瑞拉",
+	"city": "亚马孙"
+}, {
+	"country": "乌干达",
+	"city": "阿鲁阿"
+}, {
+	"country": "乌干达",
+	"city": "阿帕克"
+}, {
+	"country": "乌干达",
+	"city": "阿朱马尼"
+}, {
+	"country": "乌干达",
+	"city": "本迪布焦"
+}, {
+	"country": "乌干达",
+	"city": "布吉里"
+}, {
+	"country": "乌干达",
+	"city": "布西亚"
+}, {
+	"country": "乌干达",
+	"city": "布谢尼"
+}, {
+	"country": "乌干达",
+	"city": "恩通加莫"
+}, {
+	"country": "乌干达",
+	"city": "古卢"
+}, {
+	"country": "乌干达",
+	"city": "霍伊马"
+}, {
+	"country": "乌干达",
+	"city": "基巴莱"
+}, {
+	"country": "乌干达",
+	"city": "基博加"
+}, {
+	"country": "乌干达",
+	"city": "基恩乔乔"
+}, {
+	"country": "乌干达",
+	"city": "基索罗"
+}, {
+	"country": "乌干达",
+	"city": "基特古姆"
+}, {
+	"country": "乌干达",
+	"city": "金贾"
+}, {
+	"country": "乌干达",
+	"city": "卡巴莱"
+}, {
+	"country": "乌干达",
+	"city": "卡巴罗莱"
+}, {
+	"country": "乌干达",
+	"city": "卡贝拉马伊多"
+}, {
+	"country": "乌干达",
+	"city": "卡兰加拉"
+}, {
+	"country": "乌干达",
+	"city": "卡姆文盖"
+}, {
+	"country": "乌干达",
+	"city": "卡穆利"
+}, {
+	"country": "乌干达",
+	"city": "卡农古"
+}, {
+	"country": "乌干达",
+	"city": "卡普乔鲁瓦"
+}, {
+	"country": "乌干达",
+	"city": "卡塞塞"
+}, {
+	"country": "乌干达",
+	"city": "卡塔奎"
+}, {
+	"country": "乌干达",
+	"city": "卡永加"
+}, {
+	"country": "乌干达",
+	"city": "坎帕拉"
+}, {
+	"country": "乌干达",
+	"city": "科蒂多"
+}, {
+	"country": "乌干达",
+	"city": "库米"
+}, {
+	"country": "乌干达",
+	"city": "拉卡伊"
+}, {
+	"country": "乌干达",
+	"city": "利拉"
+}, {
+	"country": "乌干达",
+	"city": "卢韦罗"
+}, {
+	"country": "乌干达",
+	"city": "鲁昆吉里"
+}, {
+	"country": "乌干达",
+	"city": "马萨卡"
+}, {
+	"country": "乌干达",
+	"city": "马辛迪"
+}, {
+	"country": "乌干达",
+	"city": "马尤盖"
+}, {
+	"country": "乌干达",
+	"city": "莫罗托"
+}, {
+	"country": "乌干达",
+	"city": "莫约"
+}, {
+	"country": "乌干达",
+	"city": "姆巴拉拉"
+}, {
+	"country": "乌干达",
+	"city": "姆巴莱"
+}, {
+	"country": "乌干达",
+	"city": "姆皮吉"
+}, {
+	"country": "乌干达",
+	"city": "穆本德"
+}, {
+	"country": "乌干达",
+	"city": "穆科诺"
+}, {
+	"country": "乌干达",
+	"city": "纳卡皮里皮里特"
+}, {
+	"country": "乌干达",
+	"city": "纳卡松戈拉"
+}, {
+	"country": "乌干达",
+	"city": "内比"
+}, {
+	"country": "乌干达",
+	"city": "帕德尔"
+}, {
+	"country": "乌干达",
+	"city": "帕利萨"
+}, {
+	"country": "乌干达",
+	"city": "森巴布莱"
+}, {
+	"country": "乌干达",
+	"city": "索罗提"
+}, {
+	"country": "乌干达",
+	"city": "托罗罗"
+}, {
+	"country": "乌干达",
+	"city": "瓦基索"
+}, {
+	"country": "乌干达",
+	"city": "锡龙科"
+}, {
+	"country": "乌干达",
+	"city": "伊甘加"
+}, {
+	"country": "乌干达",
+	"city": "永贝"
+}, {
+	"country": "乌克兰",
+	"city": "敖德萨"
+}, {
+	"country": "乌克兰",
+	"city": "波尔塔瓦"
+}, {
+	"country": "乌克兰",
+	"city": "第聂伯罗波得罗夫斯克"
+}, {
+	"country": "乌克兰",
+	"city": "顿涅茨克"
+}, {
+	"country": "乌克兰",
+	"city": "哈尔科夫"
+}, {
+	"country": "乌克兰",
+	"city": "赫尔松州"
+}, {
+	"country": "乌克兰",
+	"city": "赫梅利尼茨基"
+}, {
+	"country": "乌克兰",
+	"city": "基辅"
+}, {
+	"country": "乌克兰",
+	"city": "基洛夫格勒"
+}, {
+	"country": "乌克兰",
+	"city": "捷尔诺波尔"
+}, {
+	"country": "乌克兰",
+	"city": "克里米亚自治共和国"
+}, {
+	"country": "乌克兰",
+	"city": "利沃夫"
+}, {
+	"country": "乌克兰",
+	"city": "卢甘斯克"
+}, {
+	"country": "乌克兰",
+	"city": "罗夫诺"
+}, {
+	"country": "乌克兰",
+	"city": "尼古拉耶夫"
+}, {
+	"country": "乌克兰",
+	"city": "切尔卡瑟"
+}, {
+	"country": "乌克兰",
+	"city": "切尔尼戈夫"
+}, {
+	"country": "乌克兰",
+	"city": "切尔诺夫策"
+}, {
+	"country": "乌克兰",
+	"city": "日托米尔"
+}, {
+	"country": "乌克兰",
+	"city": "苏梅"
+}, {
+	"country": "乌克兰",
+	"city": "外喀尔巴阡"
+}, {
+	"country": "乌克兰",
+	"city": "文尼察"
+}, {
+	"country": "乌克兰",
+	"city": "沃伦"
+}, {
+	"country": "乌克兰",
+	"city": "伊万－弗兰科夫州"
+}, {
+	"country": "乌克兰",
+	"city": "扎波罗热"
+}, {
+	"country": "乌拉圭",
+	"city": "阿蒂加斯"
+}, {
+	"country": "乌拉圭",
+	"city": "杜拉斯诺"
+}, {
+	"country": "乌拉圭",
+	"city": "佛罗里达"
+}, {
+	"country": "乌拉圭",
+	"city": "弗洛雷斯"
+}, {
+	"country": "乌拉圭",
+	"city": "卡内洛内斯"
+}, {
+	"country": "乌拉圭",
+	"city": "科洛尼亚"
+}, {
+	"country": "乌拉圭",
+	"city": "拉瓦耶哈"
+}, {
+	"country": "乌拉圭",
+	"city": "里韦拉"
+}, {
+	"country": "乌拉圭",
+	"city": "罗恰"
+}, {
+	"country": "乌拉圭",
+	"city": "马尔多纳多"
+}, {
+	"country": "乌拉圭",
+	"city": "蒙得维的亚"
+}, {
+	"country": "乌拉圭",
+	"city": "内格罗河"
+}, {
+	"country": "乌拉圭",
+	"city": "派桑杜"
+}, {
+	"country": "乌拉圭",
+	"city": "萨尔托"
+}, {
+	"country": "乌拉圭",
+	"city": "塞罗拉尔戈"
+}, {
+	"country": "乌拉圭",
+	"city": "三十三人"
+}, {
+	"country": "乌拉圭",
+	"city": "圣何塞"
+}, {
+	"country": "乌拉圭",
+	"city": "索里亚诺"
+}, {
+	"country": "乌拉圭",
+	"city": "塔夸伦博"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "安集延"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "布哈拉"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "费尔干纳"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "花拉子模"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "吉扎克"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "卡拉卡尔帕克斯坦共和国"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "卡什卡达里亚"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "纳曼干"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "纳沃伊"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "撒马尔罕"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "苏尔汉河"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "塔什干"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "塔什干市"
+}, {
+	"country": "乌兹别克斯坦",
+	"city": "锡尔河"
+}, {
+	"country": "西班牙",
+	"city": "阿尔梅里亚"
+}, {
+	"country": "西班牙",
+	"city": "阿尔瓦塞特"
+}, {
+	"country": "西班牙",
+	"city": "阿拉瓦"
+}, {
+	"country": "西班牙",
+	"city": "阿利坎特"
+}, {
+	"country": "西班牙",
+	"city": "阿斯图利亚斯"
+}, {
+	"country": "西班牙",
+	"city": "阿维拉"
+}, {
+	"country": "西班牙",
+	"city": "奥伦塞"
+}, {
+	"country": "西班牙",
+	"city": "巴达霍斯"
+}, {
+	"country": "西班牙",
+	"city": "巴利阿里"
+}, {
+	"country": "西班牙",
+	"city": "巴利亚多利德"
+}, {
+	"country": "西班牙",
+	"city": "巴伦西亚"
+}, {
+	"country": "西班牙",
+	"city": "巴塞罗那"
+}, {
+	"country": "西班牙",
+	"city": "比斯开"
+}, {
+	"country": "西班牙",
+	"city": "布尔戈斯"
+}, {
+	"country": "西班牙",
+	"city": "格拉纳达"
+}, {
+	"country": "西班牙",
+	"city": "瓜达拉哈拉"
+}, {
+	"country": "西班牙",
+	"city": "哈恩"
+}, {
+	"country": "西班牙",
+	"city": "赫罗纳"
+}, {
+	"country": "西班牙",
+	"city": "吉普斯夸"
+}, {
+	"country": "西班牙",
+	"city": "加的斯"
+}, {
+	"country": "西班牙",
+	"city": "卡塞雷斯"
+}, {
+	"country": "西班牙",
+	"city": "卡斯蒂利亚"
+}, {
+	"country": "西班牙",
+	"city": "卡斯特利翁"
+}, {
+	"country": "西班牙",
+	"city": "科尔多瓦"
+}, {
+	"country": "西班牙",
+	"city": "昆卡"
+}, {
+	"country": "西班牙",
+	"city": "拉科鲁尼亚"
+}, {
+	"country": "西班牙",
+	"city": "拉里奥哈"
+}, {
+	"country": "西班牙",
+	"city": "拉斯帕尔马斯"
+}, {
+	"country": "西班牙",
+	"city": "莱昂"
+}, {
+	"country": "西班牙",
+	"city": "莱里达"
+}, {
+	"country": "西班牙",
+	"city": "卢戈"
+}, {
+	"country": "西班牙",
+	"city": "马德里"
+}, {
+	"country": "西班牙",
+	"city": "马拉加"
+}, {
+	"country": "西班牙",
+	"city": "穆尔西亚"
+}, {
+	"country": "西班牙",
+	"city": "纳瓦拉"
+}, {
+	"country": "西班牙",
+	"city": "帕伦西亚"
+}, {
+	"country": "西班牙",
+	"city": "蓬特韦德拉"
+}, {
+	"country": "西班牙",
+	"city": "萨拉戈萨"
+}, {
+	"country": "西班牙",
+	"city": "萨拉曼卡"
+}, {
+	"country": "西班牙",
+	"city": "萨莫拉"
+}, {
+	"country": "西班牙",
+	"city": "塞哥维亚"
+}, {
+	"country": "西班牙",
+	"city": "塞维利亚"
+}, {
+	"country": "西班牙",
+	"city": "桑坦德"
+}, {
+	"country": "西班牙",
+	"city": "圣克鲁斯-德特内里费"
+}, {
+	"country": "西班牙",
+	"city": "索里亚"
+}, {
+	"country": "西班牙",
+	"city": "塔拉戈纳"
+}, {
+	"country": "西班牙",
+	"city": "特鲁埃尔"
+}, {
+	"country": "西班牙",
+	"city": "托莱多"
+}, {
+	"country": "西班牙",
+	"city": "韦尔瓦"
+}, {
+	"country": "西班牙",
+	"city": "韦斯卡"
+}, {
+	"country": "希腊",
+	"city": "比雷埃夫斯"
+}, {
+	"country": "希腊",
+	"city": "多德卡尼斯"
+}, {
+	"country": "希腊",
+	"city": "干尼亚"
+}, {
+	"country": "希腊",
+	"city": "基克拉迪"
+}, {
+	"country": "希腊",
+	"city": "拉西锡"
+}, {
+	"country": "希腊",
+	"city": "莱斯博斯"
+}, {
+	"country": "希腊",
+	"city": "雷西姆农"
+}, {
+	"country": "希腊",
+	"city": "萨摩斯"
+}, {
+	"country": "希腊",
+	"city": "雅典"
+}, {
+	"country": "希腊",
+	"city": "伊拉克里翁"
+}, {
+	"country": "新西兰",
+	"city": "奥克兰"
+}, {
+	"country": "新西兰",
+	"city": "北岸"
+}, {
+	"country": "新西兰",
+	"city": "北帕默斯顿"
+}, {
+	"country": "新西兰",
+	"city": "北远"
+}, {
+	"country": "新西兰",
+	"city": "布莱尼姆"
+}, {
+	"country": "新西兰",
+	"city": "达尼丁"
+}, {
+	"country": "新西兰",
+	"city": "格雷茅斯"
+}, {
+	"country": "新西兰",
+	"city": "哈密尔顿"
+}, {
+	"country": "新西兰",
+	"city": "黑斯廷斯"
+}, {
+	"country": "新西兰",
+	"city": "怀塔科拉"
+}, {
+	"country": "新西兰",
+	"city": "吉斯伯恩"
+}, {
+	"country": "新西兰",
+	"city": "凯帕拉"
+}, {
+	"country": "新西兰",
+	"city": "克赖斯特彻奇"
+}, {
+	"country": "新西兰",
+	"city": "里士满"
+}, {
+	"country": "新西兰",
+	"city": "马努考"
+}, {
+	"country": "新西兰",
+	"city": "纳尔逊"
+}, {
+	"country": "新西兰",
+	"city": "内皮尔"
+}, {
+	"country": "新西兰",
+	"city": "斯特拉特福德"
+}, {
+	"country": "新西兰",
+	"city": "陶马鲁努伊"
+}, {
+	"country": "新西兰",
+	"city": "瓦卡塔尼"
+}, {
+	"country": "新西兰",
+	"city": "旺阿雷"
+}, {
+	"country": "新西兰",
+	"city": "旺格努伊"
+}, {
+	"country": "新西兰",
+	"city": "新普利茅斯"
+}, {
+	"country": "新西兰",
+	"city": "因弗卡吉尔"
+}, {
+	"country": "匈牙利",
+	"city": "巴兰尼亚"
+}, {
+	"country": "匈牙利",
+	"city": "巴奇-基什孔"
+}, {
+	"country": "匈牙利",
+	"city": "包尔绍德-奥包乌伊-曾普伦"
+}, {
+	"country": "匈牙利",
+	"city": "贝凯什"
+}, {
+	"country": "匈牙利",
+	"city": "布达佩斯"
+}, {
+	"country": "匈牙利",
+	"city": "费耶尔"
+}, {
+	"country": "匈牙利",
+	"city": "豪伊杜-比豪尔"
+}, {
+	"country": "匈牙利",
+	"city": "赫维什"
+}, {
+	"country": "匈牙利",
+	"city": "加兹-纳杰孔-索尔诺克"
+}, {
+	"country": "匈牙利",
+	"city": "杰尔-莫松-肖普朗"
+}, {
+	"country": "匈牙利",
+	"city": "科马罗姆"
+}, {
+	"country": "匈牙利",
+	"city": "诺格拉德"
+}, {
+	"country": "匈牙利",
+	"city": "佩斯"
+}, {
+	"country": "匈牙利",
+	"city": "琼格拉德"
+}, {
+	"country": "匈牙利",
+	"city": "绍莫吉"
+}, {
+	"country": "匈牙利",
+	"city": "索博尔奇-索特马尔-贝拉格"
+}, {
+	"country": "匈牙利",
+	"city": "托尔瑙"
+}, {
+	"country": "匈牙利",
+	"city": "维斯普雷姆"
+}, {
+	"country": "匈牙利",
+	"city": "沃什"
+}, {
+	"country": "匈牙利",
+	"city": "佐洛"
+}, {
+	"country": "叙利亚",
+	"city": "阿勒颇"
+}, {
+	"country": "叙利亚",
+	"city": "大马士革"
+}, {
+	"country": "叙利亚",
+	"city": "大马士革市"
+}, {
+	"country": "叙利亚",
+	"city": "代尔祖尔"
+}, {
+	"country": "叙利亚",
+	"city": "德拉"
+}, {
+	"country": "叙利亚",
+	"city": "哈马"
+}, {
+	"country": "叙利亚",
+	"city": "哈塞克"
+}, {
+	"country": "叙利亚",
+	"city": "霍姆斯"
+}, {
+	"country": "叙利亚",
+	"city": "加布"
+}, {
+	"country": "叙利亚",
+	"city": "卡米什利"
+}, {
+	"country": "叙利亚",
+	"city": "库奈特拉"
+}, {
+	"country": "叙利亚",
+	"city": "拉卡"
+}, {
+	"country": "叙利亚",
+	"city": "拉塔基亚"
+}, {
+	"country": "叙利亚",
+	"city": "苏韦达"
+}, {
+	"country": "叙利亚",
+	"city": "塔尔图斯"
+}, {
+	"country": "叙利亚",
+	"city": "伊德利卜"
+}, {
+	"country": "牙买加",
+	"city": "波特兰"
+}, {
+	"country": "牙买加",
+	"city": "汉诺威"
+}, {
+	"country": "牙买加",
+	"city": "金斯敦"
+}, {
+	"country": "牙买加",
+	"city": "克拉伦登"
+}, {
+	"country": "牙买加",
+	"city": "曼彻斯特"
+}, {
+	"country": "牙买加",
+	"city": "圣安德鲁斯"
+}, {
+	"country": "牙买加",
+	"city": "圣安娜"
+}, {
+	"country": "牙买加",
+	"city": "圣凯瑟琳"
+}, {
+	"country": "牙买加",
+	"city": "圣玛丽"
+}, {
+	"country": "牙买加",
+	"city": "圣托马斯"
+}, {
+	"country": "牙买加",
+	"city": "圣伊丽莎白"
+}, {
+	"country": "牙买加",
+	"city": "圣詹姆斯"
+}, {
+	"country": "牙买加",
+	"city": "特里洛尼"
+}, {
+	"country": "牙买加",
+	"city": "西摩兰"
+}, {
+	"country": "亚美尼亚",
+	"city": "阿尔马维尔"
+}, {
+	"country": "亚美尼亚",
+	"city": "阿拉加措特恩"
+}, {
+	"country": "亚美尼亚",
+	"city": "阿拉拉特"
+}, {
+	"country": "亚美尼亚",
+	"city": "埃里温市"
+}, {
+	"country": "亚美尼亚",
+	"city": "格加尔库尼克"
+}, {
+	"country": "亚美尼亚",
+	"city": "科泰克"
+}, {
+	"country": "亚美尼亚",
+	"city": "洛里"
+}, {
+	"country": "亚美尼亚",
+	"city": "塔武什"
+}, {
+	"country": "亚美尼亚",
+	"city": "瓦约茨·佐尔"
+}, {
+	"country": "亚美尼亚",
+	"city": "希拉克"
+}, {
+	"country": "亚美尼亚",
+	"city": "休尼克"
+}, {
+	"country": "也门",
+	"city": "阿比扬"
+}, {
+	"country": "也门",
+	"city": "阿姆兰"
+}, {
+	"country": "也门",
+	"city": "贝达"
+}, {
+	"country": "也门",
+	"city": "达利"
+}, {
+	"country": "也门",
+	"city": "哈德拉毛"
+}, {
+	"country": "也门",
+	"city": "哈杰"
+}, {
+	"country": "也门",
+	"city": "荷台达"
+}, {
+	"country": "也门",
+	"city": "焦夫"
+}, {
+	"country": "也门",
+	"city": "拉赫季"
+}, {
+	"country": "也门",
+	"city": "马里卜"
+}, {
+	"country": "也门",
+	"city": "迈赫拉"
+}, {
+	"country": "也门",
+	"city": "迈赫维特"
+}, {
+	"country": "也门",
+	"city": "萨达"
+}, {
+	"country": "也门",
+	"city": "萨那"
+}, {
+	"country": "也门",
+	"city": "赛文"
+}, {
+	"country": "也门",
+	"city": "舍卜沃"
+}, {
+	"country": "也门",
+	"city": "塔伊兹"
+}, {
+	"country": "也门",
+	"city": "希赫尔"
+}, {
+	"country": "也门",
+	"city": "亚丁"
+}, {
+	"country": "也门",
+	"city": "伊卜"
+}, {
+	"country": "也门",
+	"city": "扎玛尔"
+}, {
+	"country": "以色列",
+	"city": "阿什杜德"
+}, {
+	"country": "以色列",
+	"city": "贝尔谢巴"
+}, {
+	"country": "以色列",
+	"city": "贝特雁"
+}, {
+	"country": "以色列",
+	"city": "海法"
+}, {
+	"country": "以色列",
+	"city": "霍隆"
+}, {
+	"country": "以色列",
+	"city": "内坦亚"
+}, {
+	"country": "以色列",
+	"city": "特拉维夫"
+}, {
+	"country": "以色列",
+	"city": "耶路撒冷"
+}, {
+	"country": "意大利",
+	"city": "阿斯蒂"
+}, {
+	"country": "意大利",
+	"city": "阿斯科利皮切诺"
+}, {
+	"country": "意大利",
+	"city": "安科纳"
+}, {
+	"country": "意大利",
+	"city": "奥尔比亚"
+}, {
+	"country": "意大利",
+	"city": "奥里斯塔诺"
+}, {
+	"country": "意大利",
+	"city": "奥斯塔"
+}, {
+	"country": "意大利",
+	"city": "巴勒莫"
+}, {
+	"country": "意大利",
+	"city": "巴里"
+}, {
+	"country": "意大利",
+	"city": "贝加莫"
+}, {
+	"country": "意大利",
+	"city": "贝内文托"
+}, {
+	"country": "意大利",
+	"city": "比萨"
+}, {
+	"country": "意大利",
+	"city": "波代诺内"
+}, {
+	"country": "意大利",
+	"city": "波坦察"
+}, {
+	"country": "意大利",
+	"city": "博洛尼亚"
+}, {
+	"country": "意大利",
+	"city": "布拉"
+}, {
+	"country": "意大利",
+	"city": "布雷西亚"
+}, {
+	"country": "意大利",
+	"city": "布林迪西"
+}, {
+	"country": "意大利",
+	"city": "的里雅斯特"
+}, {
+	"country": "意大利",
+	"city": "都灵"
+}, {
+	"country": "意大利",
+	"city": "费拉拉"
+}, {
+	"country": "意大利",
+	"city": "佛罗伦萨"
+}, {
+	"country": "意大利",
+	"city": "福贾"
+}, {
+	"country": "意大利",
+	"city": "卡利亚里"
+}, {
+	"country": "意大利",
+	"city": "卡塞塔"
+}, {
+	"country": "意大利",
+	"city": "卡塔尼亚"
+}, {
+	"country": "意大利",
+	"city": "卡坦扎罗"
+}, {
+	"country": "意大利",
+	"city": "坎波巴索"
+}, {
+	"country": "意大利",
+	"city": "科摩"
+}, {
+	"country": "意大利",
+	"city": "科森扎"
+}, {
+	"country": "意大利",
+	"city": "克罗托内"
+}, {
+	"country": "意大利",
+	"city": "库内奥"
+}, {
+	"country": "意大利",
+	"city": "拉奎拉"
+}, {
+	"country": "意大利",
+	"city": "拉斯佩齐亚"
+}, {
+	"country": "意大利",
+	"city": "莱科"
+}, {
+	"country": "意大利",
+	"city": "莱切"
+}, {
+	"country": "意大利",
+	"city": "雷焦艾米利亚"
+}, {
+	"country": "意大利",
+	"city": "雷焦卡拉布里亚"
+}, {
+	"country": "意大利",
+	"city": "里窝那"
+}, {
+	"country": "意大利",
+	"city": "罗马"
+}, {
+	"country": "意大利",
+	"city": "马萨"
+}, {
+	"country": "意大利",
+	"city": "马泰拉"
+}, {
+	"country": "意大利",
+	"city": "蒙扎"
+}, {
+	"country": "意大利",
+	"city": "米兰"
+}, {
+	"country": "意大利",
+	"city": "摩德纳"
+}, {
+	"country": "意大利",
+	"city": "墨西拿"
+}, {
+	"country": "意大利",
+	"city": "那不勒斯"
+}, {
+	"country": "意大利",
+	"city": "努奥罗"
+}, {
+	"country": "意大利",
+	"city": "诺瓦拉"
+}, {
+	"country": "意大利",
+	"city": "帕尔马"
+}, {
+	"country": "意大利",
+	"city": "帕维亚"
+}, {
+	"country": "意大利",
+	"city": "佩鲁贾"
+}, {
+	"country": "意大利",
+	"city": "热那亚"
+}, {
+	"country": "意大利",
+	"city": "萨莱诺"
+}, {
+	"country": "意大利",
+	"city": "萨萨里"
+}, {
+	"country": "意大利",
+	"city": "萨沃纳"
+}, {
+	"country": "意大利",
+	"city": "塔兰托"
+}, {
+	"country": "意大利",
+	"city": "特拉帕尼"
+}, {
+	"country": "意大利",
+	"city": "特伦托"
+}, {
+	"country": "意大利",
+	"city": "威尼斯"
+}, {
+	"country": "意大利",
+	"city": "韦尔切利"
+}, {
+	"country": "意大利",
+	"city": "维泰博"
+}, {
+	"country": "意大利",
+	"city": "乌迪内"
+}, {
+	"country": "意大利",
+	"city": "锡拉库扎"
+}, {
+	"country": "意大利",
+	"city": "锡耶纳"
+}, {
+	"country": "意大利",
+	"city": "亚历山德里亚"
+}, {
+	"country": "意大利",
+	"city": "伊塞尔尼亚"
+}, {
+	"country": "印度",
+	"city": "艾藻尔"
+}, {
+	"country": "印度",
+	"city": "班加罗尔"
+}, {
+	"country": "印度",
+	"city": "本地治里"
+}, {
+	"country": "印度",
+	"city": "博帕尔"
+}, {
+	"country": "印度",
+	"city": "布巴内斯瓦尔"
+}, {
+	"country": "印度",
+	"city": "昌迪加尔"
+}, {
+	"country": "印度",
+	"city": "达曼"
+}, {
+	"country": "印度",
+	"city": "第乌"
+}, {
+	"country": "印度",
+	"city": "甘托克"
+}, {
+	"country": "印度",
+	"city": "哥印拜陀"
+}, {
+	"country": "印度",
+	"city": "加尔各答"
+}, {
+	"country": "印度",
+	"city": "加里加尔"
+}, {
+	"country": "印度",
+	"city": "贾巴尔普尔"
+}, {
+	"country": "印度",
+	"city": "贾朗达尔"
+}, {
+	"country": "印度",
+	"city": "焦特布尔"
+}, {
+	"country": "印度",
+	"city": "金奈"
+}, {
+	"country": "印度",
+	"city": "卡瓦拉蒂"
+}, {
+	"country": "印度",
+	"city": "科希马"
+}, {
+	"country": "印度",
+	"city": "马埃"
+}, {
+	"country": "印度",
+	"city": "马杜赖"
+}, {
+	"country": "印度",
+	"city": "森伯尔布尔"
+}, {
+	"country": "印度",
+	"city": "特里凡得琅"
+}, {
+	"country": "印度",
+	"city": "乌代布尔"
+}, {
+	"country": "印度",
+	"city": "西隆"
+}, {
+	"country": "印度",
+	"city": "锡尔萨瓦"
+}, {
+	"country": "印度",
+	"city": "新德里"
+}, {
+	"country": "印度",
+	"city": "亚南"
+}, {
+	"country": "印度",
+	"city": "因帕尔"
+}, {
+	"country": "印度",
+	"city": "印多尔"
+}, {
+	"country": "印度",
+	"city": "斋普尔"
+}, {
+	"country": "印度尼西亚",
+	"city": "巴厘"
+}, {
+	"country": "印度尼西亚",
+	"city": "邦加－勿里洞群岛"
+}, {
+	"country": "印度尼西亚",
+	"city": "北苏拉威西"
+}, {
+	"country": "印度尼西亚",
+	"city": "北苏门答腊"
+}, {
+	"country": "印度尼西亚",
+	"city": "大雅加达首都特区"
+}, {
+	"country": "印度尼西亚",
+	"city": "东加里曼丹"
+}, {
+	"country": "印度尼西亚",
+	"city": "东南苏拉威西"
+}, {
+	"country": "印度尼西亚",
+	"city": "东努沙登加拉"
+}, {
+	"country": "印度尼西亚",
+	"city": "东爪哇"
+}, {
+	"country": "印度尼西亚",
+	"city": "廖内"
+}, {
+	"country": "印度尼西亚",
+	"city": "马鲁古"
+}, {
+	"country": "印度尼西亚",
+	"city": "明古鲁"
+}, {
+	"country": "印度尼西亚",
+	"city": "楠榜"
+}, {
+	"country": "印度尼西亚",
+	"city": "南加里曼丹"
+}, {
+	"country": "印度尼西亚",
+	"city": "南苏拉威西"
+}, {
+	"country": "印度尼西亚",
+	"city": "南苏门答腊"
+}, {
+	"country": "印度尼西亚",
+	"city": "日惹特区"
+}, {
+	"country": "印度尼西亚",
+	"city": "万丹"
+}, {
+	"country": "印度尼西亚",
+	"city": "西努沙登加拉"
+}, {
+	"country": "印度尼西亚",
+	"city": "西苏门答腊"
+}, {
+	"country": "印度尼西亚",
+	"city": "西爪哇"
+}, {
+	"country": "印度尼西亚",
+	"city": "雅加达"
+}, {
+	"country": "印度尼西亚",
+	"city": "亚齐"
+}, {
+	"country": "印度尼西亚",
+	"city": "伊里安查亚"
+}, {
+	"country": "印度尼西亚",
+	"city": "占碑"
+}, {
+	"country": "印度尼西亚",
+	"city": "中加里曼丹"
+}, {
+	"country": "印度尼西亚",
+	"city": "中苏拉威西"
+}, {
+	"country": "印度尼西亚",
+	"city": "中爪哇"
+}, {
+	"country": "英国",
+	"city": "贝尔法斯特",
+	"state": "北爱尔兰"
+}, {
+	"country": "英国",
+	"city": "德里",
+	"state": "北爱尔兰"
+}, {
+	"country": "英国",
+	"city": "利斯本",
+	"state": "北爱尔兰"
+}, {
+	"country": "英国",
+	"city": "纽里",
+	"state": "北爱尔兰"
+}, {
+	"country": "英国",
+	"city": "阿伯丁",
+	"state": "苏格兰"
+}, {
+	"country": "英国",
+	"city": "爱丁堡",
+	"state": "苏格兰"
+}, {
+	"country": "英国",
+	"city": "丹迪",
+	"state": "苏格兰"
+}, {
+	"country": "英国",
+	"city": "格拉斯哥",
+	"state": "苏格兰"
+}, {
+	"country": "英国",
+	"city": "斯特灵",
+	"state": "苏格兰"
+}, {
+	"country": "英国",
+	"city": "因弗内斯",
+	"state": "苏格兰"
+}, {
+	"country": "英国",
+	"city": "班戈",
+	"state": "威尔士"
+}, {
+	"country": "英国",
+	"city": "卡迪夫",
+	"state": "威尔士"
+}, {
+	"country": "英国",
+	"city": "纽波特",
+	"state": "威尔士"
+}, {
+	"country": "英国",
+	"city": "斯旺西",
+	"state": "威尔士"
+}, {
+	"country": "英国",
+	"city": "埃克塞特",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "巴斯",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "彼得伯勒",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "伯明翰",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "布拉德福德",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "布莱顿与赫福",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "布里斯托尔",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "德比",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "德罕",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "格洛斯特",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "赫尔河畔京斯敦",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "赫里福德",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "剑桥",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "卡莱尔",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "坎特伯雷",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "考文垂",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "兰开斯特",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "里彭",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "利奇菲尔德",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "利物浦",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "利茲",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "列斯特",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "林肯",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "伦敦",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "曼彻斯特",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "南安普敦",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "牛津",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "纽卡斯尔",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "诺丁汉",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "诺里奇",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "朴茨茅斯",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "普雷斯顿",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "普利茅斯",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "奇切斯特",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "切斯特",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "桑德兰",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "圣阿本斯",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "索尔斯堡",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "索福特",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "特鲁罗",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "特伦特河畔斯多克",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "威尔斯",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "韦克菲尔德",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "温彻斯特",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "伍尔弗汉普顿",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "伍斯特",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "谢菲尔德",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "伊利",
+	"state": "英格兰"
+}, {
+	"country": "英国",
+	"city": "约克",
+	"state": "英格兰"
+}, {
+	"country": "约旦",
+	"city": "阿吉隆"
+}, {
+	"country": "约旦",
+	"city": "安曼"
+}, {
+	"country": "约旦",
+	"city": "拜勒加"
+}, {
+	"country": "约旦",
+	"city": "杰拉什"
+}, {
+	"country": "约旦",
+	"city": "卡拉克"
+}, {
+	"country": "约旦",
+	"city": "鲁赛法"
+}, {
+	"country": "约旦",
+	"city": "马安"
+}, {
+	"country": "约旦",
+	"city": "马德巴"
+}, {
+	"country": "约旦",
+	"city": "马夫拉克"
+}, {
+	"country": "约旦",
+	"city": "塔菲拉"
+}, {
+	"country": "约旦",
+	"city": "亚喀巴"
+}, {
+	"country": "约旦",
+	"city": "伊尔比德"
+}, {
+	"country": "约旦",
+	"city": "扎尔卡"
+}, {
+	"country": "越南",
+	"city": "海防"
+}, {
+	"country": "越南",
+	"city": "河内"
+}, {
+	"country": "越南",
+	"city": "胡志明市"
+}, {
+	"country": "赞比亚",
+	"city": "北方"
+}, {
+	"country": "赞比亚",
+	"city": "东方"
+}, {
+	"country": "赞比亚",
+	"city": "卢阿普拉"
+}, {
+	"country": "赞比亚",
+	"city": "卢萨卡"
+}, {
+	"country": "赞比亚",
+	"city": "南方"
+}, {
+	"country": "赞比亚",
+	"city": "铜带"
+}, {
+	"country": "赞比亚",
+	"city": "西北"
+}, {
+	"country": "赞比亚",
+	"city": "西方"
+}, {
+	"country": "赞比亚",
+	"city": "中央"
+}, {
+	"country": "智利",
+	"city": "阿劳卡尼亚大区"
+}, {
+	"country": "智利",
+	"city": "阿塔卡马大区"
+}, {
+	"country": "智利",
+	"city": "安托法加斯塔大区"
+}, {
+	"country": "智利",
+	"city": "比奥比奥大区"
+}, {
+	"country": "智利",
+	"city": "复活节岛"
+}, {
+	"country": "智利",
+	"city": "湖大区"
+}, {
+	"country": "智利",
+	"city": "科金博大区"
+}, {
+	"country": "智利",
+	"city": "马乌莱大区"
+}, {
+	"country": "智利",
+	"city": "麦哲伦-智利南极大区"
+}, {
+	"country": "智利",
+	"city": "圣地亚哥"
+}, {
+	"country": "智利",
+	"city": "塔拉帕卡大区"
+}, {
+	"country": "智利",
+	"city": "瓦尔帕莱索大区"
+}, {
+	"country": "智利",
+	"city": "伊瓦涅斯将军的艾森大区"
+}, {
+	"country": "中非共和国",
+	"city": "巴明吉-班戈兰"
+}, {
+	"country": "中非共和国",
+	"city": "班吉直辖市"
+}, {
+	"country": "中非共和国",
+	"city": "宾博"
+}, {
+	"country": "中非共和国",
+	"city": "凯莫"
+}, {
+	"country": "中非共和国",
+	"city": "洛巴伊"
+}, {
+	"country": "中非共和国",
+	"city": "曼贝雷-卡代"
+}, {
+	"country": "中非共和国",
+	"city": "姆博穆"
+}, {
+	"country": "中非共和国",
+	"city": "纳纳-格里比齐"
+}, {
+	"country": "中非共和国",
+	"city": "纳纳-曼贝雷"
+}, {
+	"country": "中非共和国",
+	"city": "桑加-姆巴埃雷"
+}, {
+	"country": "中非共和国",
+	"city": "上科托"
+}, {
+	"country": "中非共和国",
+	"city": "上姆博穆"
+}, {
+	"country": "中非共和国",
+	"city": "瓦卡"
+}, {
+	"country": "中非共和国",
+	"city": "瓦卡加"
+}, {
+	"country": "中非共和国",
+	"city": "瓦姆"
+}, {
+	"country": "中非共和国",
+	"city": "瓦姆-彭代"
+}, {
+	"country": "中非共和国",
+	"city": "翁贝拉-姆波科"
+}, {
+	"country": "中非共和国",
+	"city": "下科托"
+}]
